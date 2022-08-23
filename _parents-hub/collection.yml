@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - New PSLE Scoring System in 2021.md
       - Parents Gateway Mobile App.md
       - Edusave Character Award (ECHA).md
       - School Based Assessment Policy & Plans.md
