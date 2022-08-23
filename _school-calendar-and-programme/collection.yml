@@ -1,4 +1,5 @@
 collections:
   school-calendar-and-programme:
     output: true
-    order: []
+    order:
+      - MOE Sexuality Education.md
