@@ -2,5 +2,6 @@ collections:
   learning-hub:
     output: true
     order:
+      - Teachers/Resource Links for Teachers.md
       - Teachers/ICT Services.md
       - Teachers/.keep
