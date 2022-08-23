@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Administrative Matters for Primary 1, 2022.md
       - Application for Leave of Absence (LOA).md
       - Guidelines for School Home Partnership.md
       - 2022 Information Sheet for Parents.md
