@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - School Mgmt Committee SMC/SMC Financial Report.md
       - School Mgmt Committee SMC/.keep
       - School Executive Committee.md
       - Staff.md
