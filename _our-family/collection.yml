@@ -2,5 +2,6 @@ collections:
   our-family:
     output: true
     order:
+      - Departments and Committees/Innovation.md
       - Departments and Committees/.keep
       - Alumni Association.md
