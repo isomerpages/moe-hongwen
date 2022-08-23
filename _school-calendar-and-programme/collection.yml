@@ -2,4 +2,5 @@ collections:
   school-calendar-and-programme:
     output: true
     order:
+      - Programme for Active Learning (PAL).md
       - MOE Sexuality Education.md
