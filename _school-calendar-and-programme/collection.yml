@@ -2,6 +2,7 @@ collections:
   school-calendar-and-programme:
     output: true
     order:
+      - Co Curricular Activities CCA/CCA Policy.md
       - Co Curricular Activities CCA/.keep
       - Programme for Active Learning (PAL).md
       - MOE Sexuality Education.md
