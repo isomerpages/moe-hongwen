@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - School Hours Gate 1 (Towner Road)  Gate 5 (May Road) Opening Hours.md
       - Dental Clinic Operating Hours.md
       - Student Insurance.md
       - MOE Financial Assistance Scheme.md
