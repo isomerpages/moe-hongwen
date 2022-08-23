@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Student Insurance.md
       - MOE Financial Assistance Scheme.md
       - Travel Declaration.md
       - Healthy ‘Take 5’ Snacks.md
