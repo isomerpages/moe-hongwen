@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - MOE Financial Assistance Scheme.md
       - Travel Declaration.md
       - Healthy ‘Take 5’ Snacks.md
       - Vendor Supplier Contact List.md
