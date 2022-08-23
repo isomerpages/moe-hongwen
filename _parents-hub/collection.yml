@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Subject Based Banding (Primary Schools).md
       - Parents’ Support Group.md
       - Parent Volunteer  (2023 Primary 1 Registration Exercise for Admission to
         Primary 1 in 2024).md
