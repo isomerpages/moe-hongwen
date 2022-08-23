@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Guidelines for School Home Partnership.md
       - 2022 Information Sheet for Parents.md
       - New PSLE Scoring System in 2021.md
       - Parents Gateway Mobile App.md
