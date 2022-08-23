@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Departments and Committees/English Language.md
       - Departments and Committees/Mathematics.md
       - Departments and Committees/Science.md
       - Departments and Committees/Character & Citizenship Education.md
