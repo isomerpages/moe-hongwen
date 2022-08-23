@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - School Corporate Videos.md
       - Hong Wen School Instagram.md
       - Contact Us.md
