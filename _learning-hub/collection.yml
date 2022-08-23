@@ -1,4 +1,5 @@
 collections:
   learning-hub:
     output: true
-    order: []
+    order:
+      - Teachers/.keep
