@@ -40,3 +40,19 @@ links:
         url: /permalink
       - title: Alumni Association
         url: /permalink
+  - title: 校园动态与课程项目 CALENDAR & PROGRAMME
+    url: /permalink
+    sublinks:
+      - title: School Calendar
+        url: /permalink
+      - title: Signature Programmes
+        url: /permalink
+      - title: Co-Curricular Activities (CCA)
+        url: /permalink
+      - title: "Programme for Active Learning "
+        url: /permalink
+      - title: MOE Sexuality Education
+        url: /permalink
+  - title: 家长专区 Parents’ Hub
+    url: /permalink
+    sublinks: []
