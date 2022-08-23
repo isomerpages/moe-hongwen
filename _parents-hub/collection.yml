@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Parents Gateway Mobile App.md
       - Edusave Character Award (ECHA).md
       - School Based Assessment Policy & Plans.md
       - Subject Based Banding (Primary Schools).md
