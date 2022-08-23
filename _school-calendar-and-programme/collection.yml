@@ -2,6 +2,7 @@ collections:
   school-calendar-and-programme:
     output: true
     order:
+      - School Calendar.md
       - Signature Programmes/Special Assistance Plan SAP.md
       - Signature Programmes/Learning for Life Sports and Outdoor Education.md
       - Signature Programmes/Learning for Life Student Leadership and Community
