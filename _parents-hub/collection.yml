@@ -2,5 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
+      - Travel Declaration.md
       - Healthy ‘Take 5’ Snacks.md
       - Vendor Supplier Contact List.md
