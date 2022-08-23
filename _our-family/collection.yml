@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Departments and Committees/Character & Citizenship Education.md
       - Departments and Committees/PE and Aesthetics.md
       - Departments and Committees/Innovation.md
       - Departments and Committees/.keep
