@@ -2,6 +2,7 @@ collections:
   learning-hub:
     output: true
     order:
+      - Pupils/Pupils Suggestion Post.md
       - Pupils/.keep
       - Teachers/Resource Links for Teachers.md
       - Teachers/ICT Services.md
