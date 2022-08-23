@@ -1,4 +1,5 @@
 collections:
   parents-hub:
     output: true
-    order: []
+    order:
+      - Vendor Supplier Contact List.md
