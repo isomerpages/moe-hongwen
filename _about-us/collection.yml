@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Vision & Mission.md
       - School’s Strategic Directions.md
       - School Motto & Values.md
       - School Crest.md
