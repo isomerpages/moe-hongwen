@@ -27,7 +27,7 @@ Please click on the level that your child is in to view the respective class HBL
 	
 |           |           |
 |-|-|
-| Primary 1 | Primary 2 |
+| [Primary 1](/hbl-schedule-primary-1-to-6/Primary-1/) | Primary 2 |
 | Primary 3 | Primary 4 |
 | Primary 5 | Primary 6 |
 	
@@ -39,4 +39,4 @@ Please click on the level that your child is in to view the respective class HBL
 |-|-| -|
 |                                        |                             |                                     |
 |                   [SLS](/learning-hub/Pupils/Student-Learning-Space-SLS/)                  |   [SLS Technical Assistance](/learning-hub/Pupils/SLS-Technical-Assistance/)  | [Partnership with Parents during HBL](/Partnership-with-Parents-during-HBL/) |
-| [Video Conferencing Guide and Tutorials](/Video-Conferencing-Guide-and-Tutorials/) | [Additional Learning Portals](/learning-hub/Pupils/Additional-Learning-Portals/) |                                 
+| [Video Conferencing Guide and Tutorials](/Video-Conferencing-Guide-and-Tutorials/) | [Additional Learning Portals](/learning-hub/Pupils/Additional-Learning-Portals/) |
