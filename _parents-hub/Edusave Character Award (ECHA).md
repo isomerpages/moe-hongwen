@@ -28,7 +28,7 @@ The Edusave Character Award (ECHA) was introduced by MOE to recognise pupils who
 
 **Edusave Character Award (ECHA) Nomination Forms**
 
-[Appendix B1 – Nomination form by parents, guardians, SMC and PSG coaches](https://hongwen.moe.edu.sg/wp-content/uploads/2021/09/Appendix-B1-Nomination-form-by-parents-guardians-SMC-PSG-coaches.docx)  
-[Appendix B2- Self\_Peer nomination form\_Primary 1 and 2](https://hongwen.moe.edu.sg/wp-content/uploads/2021/09/Appendix-B2-Self_Peer-nomination-form_Primary-1-and-2.docx)  
-[Appendix B2- Self\_Peer nomination form\_Primary 3 and 4](https://hongwen.moe.edu.sg/wp-content/uploads/2021/09/Appendix-B2-Self_Peer-nomination-form_Primary-3-and-4.docx)  
-[Appendix B2- Self\_Peer nomination form\_Primary 5 and 6](https://hongwen.moe.edu.sg/wp-content/uploads/2021/09/Appendix-B2-Self_Peer-nomination-form_Primary-5-and-6.docx)
+[Appendix B1 – Nomination form by parents, guardians, SMC and PSG coaches](https://go.gov.sg/appendixb1nominationformbyparentsguardianssmcpsgcoaches)  
+[Appendix B2- Self\_Peer nomination form\_Primary 1 and 2](https://go.gov.sg/appendixb2selfpeernominationformprimary1and2)  
+[Appendix B2- Self\_Peer nomination form\_Primary 3 and 4](https://go.gov.sg/appendixb2selfpeernominationformprimary3and4)  
+[Appendix B2- Self\_Peer nomination form\_Primary 5 and 6](https://go.gov.sg/appendixb2selfpeernominationformprimary5and6)
