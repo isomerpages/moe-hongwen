@@ -16,4 +16,4 @@ Please refer to the following Instructional Guide for more information:
 
 [Instructional Guide for Parents Gateway Mobile App](/files/Parents'%20Hub/Parents%20gateway%20mobile%20app/Instructional-Guide-for-Parents-Gateway-Mobile-App.pdf)
 
-[Guide to Submit Travel Declaration through Parents Gateway Application](https://hongwen.moe.edu.sg/wp-content/uploads/2019/05/Parents-Guide-for-PG-Travel-Declaration-Update.pptx)
+[Guide to Submit Travel Declaration through Parents Gateway Application](https://go.gov.sg/parentsguideforpgtraveldeclarationupdate)
