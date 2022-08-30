@@ -21,7 +21,21 @@ third_nav_title: Teachers
 </div>
 
 
-[![Pac Gov Small](https://hongwen.moe.edu.sg/wp-content/uploads/2019/04/pac_gov_small.png "PaC@Gov")](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp)
+<div>
+
+<a href="https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp">
+
+<img style="width:50%;height:50%" src="/images/Learning%20Hub/Teachers/Resource%20Links%20for%20Teachers/pac_gov_small.png">
+
+</a>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
 
 [![Unnamed](https://hongwen.moe.edu.sg/wp-content/uploads/2022/05/unnamed-300x106.png)](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F)
 
