@@ -69,7 +69,21 @@ third_nav_title: Teachers
 
 </div>
 
-[![Sc M 1](https://hongwen.moe.edu.sg/wp-content/uploads/2022/05/sc-m-1-300x63.jpg)](https://scmobile.moe.edu.sg/login)
+<div>
+
+<a href="https://scmobile.moe.edu.sg/login">
+
+<img style="width:100%;height:50%" src="/images/Learning%20Hub/Teachers/Resource%20Links%20for%20Teachers/sc-m-1.jpg">
+
+</a>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
 
 [![Hrp](https://hongwen.moe.edu.sg/wp-content/uploads/2022/05/hrp.jpg)](https://www.hrp.gov.sg/)
 
