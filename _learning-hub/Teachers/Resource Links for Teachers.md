@@ -101,6 +101,20 @@ third_nav_title: Teachers
 
 </div>
 
-[![School Cockpit Resized](https://hongwen.moe.edu.sg/wp-content/uploads/2019/04/school_cockpit_resized.png "School Cockpit")](https://schoolcockpit.moe.gov.sg/)
+<div>
+
+<a href="https://schoolcockpit.moe.gov.sg/">
+
+<img style="width:50%;height:50%" src="/images/Learning%20Hub/Teachers/Resource%20Links%20for%20Teachers/school_cockpit_resized.png">
+
+</a>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
 
 [![Library Resized](https://hongwen.moe.edu.sg/wp-content/uploads/2019/04/library_resized.png "hws online library")](http://hongwen.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME)
