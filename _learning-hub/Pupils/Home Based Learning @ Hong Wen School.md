@@ -4,7 +4,6 @@ permalink: /learning-hub/Pupils/Home-Based-Learning-Hong-Wen-School/
 description: ""
 third_nav_title: Pupils
 ---
-
 <div>
 
 <div style="float: left">
@@ -36,13 +35,9 @@ Primary 3 to 6 students returning from Monday,  11 October.Primary 1 and 2 stude
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B7hffsWVt18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
+Please refer to the links below for more information on HBL:
+	
 |                                        |                             |                                     |
 |----------------------------------------|-----------------------------|-------------------------------------|
 |                   SLS                  |   SLS Technical Assistance  | Partnership with Parents during HBL |
 | Video Conferencing Guide and Tutorials | Additional Learning Portals |                                     |
-	
-	
-	
-	
-	
-
