@@ -85,7 +85,21 @@ third_nav_title: Teachers
 
 </div>
 
-[![Hrp](https://hongwen.moe.edu.sg/wp-content/uploads/2022/05/hrp.jpg)](https://www.hrp.gov.sg/)
+<div>
+
+<a href="https://www.hrp.gov.sg/">
+
+<img style="width:50%;height:50%" src="/images/Learning%20Hub/Teachers/Resource%20Links%20for%20Teachers/hrp.jpg">
+
+</a>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
 
 [![School Cockpit Resized](https://hongwen.moe.edu.sg/wp-content/uploads/2019/04/school_cockpit_resized.png "School Cockpit")](https://schoolcockpit.moe.gov.sg/)
 
