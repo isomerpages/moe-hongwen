@@ -41,7 +41,7 @@ sections:
       title: Our Enduring Legacy
       button: read
       alt: Image alt text
-      url: /permalink
+      url: /about-us/School-Corporate-Videos/
       image: /images/Homepage/100th-e1609986303750.jpg
   - infopic:
       description: Like our instagram page to receive latest updates on school
