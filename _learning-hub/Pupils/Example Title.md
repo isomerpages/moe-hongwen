@@ -20,6 +20,14 @@ third_nav_title: Pupils
 
 4\. Please click on the level that your child is in to view the respective class HBL schedule and information on the teachers’ planned learning activities.  The HBL schedule for the individual classes will be available from 27 September 2021, 7.00 am and subsequent daily schedule will be updated at least 1 day in advance.
 
+|           |           |
+|-|-|
+| [Primary 1](/hbl-schedule-primary-1-to-6/Primary-1/) | Primary 2 |
+| Primary 3 | Primary 4 |
+| Primary 5 | Primary 6 |
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B7hffsWVt18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 |                                        |                             |                                     |
