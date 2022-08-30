@@ -152,7 +152,7 @@ Pupils who display good behaviours consistently are eligible for the following a
 
 Model Pupil Award (Primary 6 only)
 
-[Edusave Character Award (ECHA)](https://hongwen.moe.edu.sg/edusave-character-award-echa/) (Singaporean Citizens only)
+[Edusave Character Award (ECHA)](/parents-hub/Edusave-Character-Award-ECHA/) (Singaporean Citizens only)
 
 Hong Wen STAR Pupil Award
 
