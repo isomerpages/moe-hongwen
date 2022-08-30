@@ -19,5 +19,5 @@ Please refer to the links below for more information on HBL:
 
 |                                       |                                        |                             |
 |---------------------------------------|----------------------------------------|-----------------------------|
-| Home-based Learning @ Hong Wen School |                   SLS                  |   SLS Technical Assistance  |
+| [Home-based Learning @ Hong Wen School](/learning-hub/Pupils/Home-Based-Learning-Hong-Wen-School/) |                   SLS                  |   SLS Technical Assistance  |
 |  Partnership with Parents during HBL  | Video Conferencing Guide and Tutorials | Additional Learning Portals |
