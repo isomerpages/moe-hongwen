@@ -25,4 +25,4 @@ The dental clinic at Hong Wen School will be opened on alternate weeks.
 |                   |                                  |                            |
 | Cedar Primary     | 87646935  (open alternate weeks) | 15 Cedar Ave S’pore 349700 |
 |                   |                                  |                            |
-| Bendemeer Primary | 87646320  (open alternate weeks) | 91                         |
+| Bendemeer Primary | 87646320  (open alternate weeks) | 91 Bendemeer Road S’pore 339948                         |
