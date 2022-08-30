@@ -4,9 +4,6 @@ permalink: /learning-hub/Pupils/Home-Based-Learning-Hong-Wen-School/
 description: ""
 third_nav_title: Pupils
 ---
-
-
-
 <img style="width:30%;height:50%" src="/images/Learning%20Hub/Pupils/Home%20Based%20learning/HBL-Wen-Wen-150x150.png">
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 584.612px;"><ol style="box-sizing: inherit;"><li style="box-sizing: inherit;">The Ministry of Education (MOE) had earlier implemented Home-Based Learning (HBL)<sup id="footnote1-anchor" style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;"><a href="https://www.moe.gov.sg/news/press-releases/20211007-phased-resumption-of-face-to-face-lessons-for-primary-schools-from-11-october#footnote-1" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(216, 164, 19);">1</a></sup>&nbsp;in primary schools and Special Education (SPED) schools to reduce the possible disruption to the cohort taking the Primary School Leaving Examination (PSLE) and as an additional precautionary measure. MOE will progressively bring Primary 1 to 6 students back to school for face-to-face lessons from Monday, 11 October 2021, to ensure physical schooling resumes in a safe manner. This is in line with our approach to minimise prolonged HBL where possible, for the socio-emotional well-being of students.</li></ol></td></tr></tbody></table>
@@ -25,9 +22,9 @@ third_nav_title: Pupils
 
 |           |           |
 |-|-|
-| [Primary 1](/hbl-schedule-primary-1-to-6/Primary-1/) | Primary 2 |
-| Primary 3 | Primary 4 |
-| Primary 5 | Primary 6 |
+| [Primary 1](/hbl-schedule-primary-1-to-6/Primary-1/) | [Primary 2](/hbl-schedule-primary-1-to-6/Primary-2/) |
+| [Primary 3](/hbl-schedule-primary-1-to-6/Primary-3/) | [Primary 4](/hbl-schedule-primary-1-to-6/Primary-4/) |
+| [Primary 5](/hbl-schedule-primary-1-to-6/Primary-5/) | [Primary 6](/hbl-schedule-primary-1-to-6/Primary-6/) |
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B7hffsWVt18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
