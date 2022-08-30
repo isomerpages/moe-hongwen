@@ -1,0 +1,4 @@
+collections:
+  hbl-schedule-primary-1-to-6:
+    output: true
+    order: []
