@@ -1,32 +1,32 @@
 logo: /images/isomer-logo.svg
 links:
   - title: 认识宏文 About Us
-    url: /permalink
+    url: /about-us/Principals-Message/
     sublinks:
       - title: Principal’s Message
-        url: /permalink
+        url: /about-us/Principals-Message/
       - title: School Vision & Mission
-        url: /permalink
+        url: /about-us/School-Vision-Mission/
       - title: School’s Strategic Directions
-        url: /permalink
+        url: /about-us/Schools-Strategic-Directions/
       - title: School Motto & Values
-        url: /permalink
+        url: /about-us/School-Motto-Values/
       - title: School Crest
-        url: /permalink
+        url: /about-us/School-Crest/
       - title: School Song
-        url: /permalink
+        url: /about-us/School-Song/
       - title: School History
-        url: /permalink
+        url: /about-us/School-History/
       - title: School Achievements
-        url: /permalink
+        url: /about-us/School-Achievements/
       - title: Pupil Discipline and Sch Rules
-        url: /permalink
+        url: /about-us/Pupil-Discipline-and-School-Rules/
       - title: School Corporate Videos
-        url: /permalink
+        url: /about-us/School-Corporate-Videos/
       - title: Hong Wen School Instagram
-        url: /permalink
+        url: /about-us/Hong-Wen-School-Instagram/
       - title: Contact Us
-        url: /permalink
+        url: /about-us/Contact-Us/
   - title: 宏文之家 Our Family
     url: /permalink
     sublinks:
