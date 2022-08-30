@@ -12,3 +12,8 @@ description: ""
 [Students’ Guide to Video Conferencing with Teachers Using Zoom for HBL](/files/Learning%20Hub/Video%20conferencing%20guide/Students-Guide-to-Video-Conferencing-with-Teachers-Using-Zoom-for-HBL-MOE0March2020.pdf)
 
 Please refer to the links below for more information on HBL:
+
+|                                       |                                     |                             |
+|---------------------------------------|-------------------------------------|-----------------------------|
+| Home-based Learning @ Hong Wen School |     Daily HBL Schedule by Class     |             SLS             |
+|        SLS Technical Assistance       | Partnership with Parents during HBL | Additional Learning Portals |
