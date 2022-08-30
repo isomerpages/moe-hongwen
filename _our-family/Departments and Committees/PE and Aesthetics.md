@@ -6,8 +6,8 @@ third_nav_title: Departments and Committees
 ---
 **Key Information**
 
-**PE Programme  
-**Through PE, we would like our pupils 
+**PE Programme**  
+**Through PE, we would like our pupils**
 
 *   to enjoy movement and physical activities.
 *   to acquire the knowledge, skills, right attitudes and values towards the pursuit of a lifelong physically active and healthy lifestyle.
