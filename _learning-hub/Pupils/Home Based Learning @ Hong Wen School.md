@@ -30,3 +30,13 @@ Please click on the level that your child is in to view the respective class HBL
 | Primary 1 | Primary 2 |
 | Primary 3 | Primary 4 |
 | Primary 5 | Primary 6 |
+	
+**Instructional Video Guide to HBL @ Hong Wen School**
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B7hffsWVt18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+|                                        |                             |                                     |
+|-|-| -|
+|                                        |                             |                                     |
+|                   SLS                  |   SLS Technical Assistance  | Partnership with Parents during HBL |
+| Video Conferencing Guide and Tutorials | Additional Learning Portals |                                     |
