@@ -44,11 +44,12 @@ sections:
       url: /permalink
       image: /images/Homepage/100th-e1609986303750.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      description: Like our instagram page to receive latest updates on school
+        programmes and activities
+      button: read
       alt: Image alt text
+      image: /images/Homepage/hc49-e1491972777457.jpg
+      url: /permalink
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
