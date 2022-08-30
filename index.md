@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/Homepage/Homepage.gif
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
