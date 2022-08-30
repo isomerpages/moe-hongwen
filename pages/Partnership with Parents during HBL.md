@@ -11,12 +11,17 @@ We seek your partnership in supporting your child during his/her HBL by providi
 
 Please refer to the following links for more information on how parents can support their children at home during HBL:
 
-[Resource Kit for Parents on Home-Based Learning (Part 1)](https://hongwen.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL.pdf)
+[Resource Kit for Parents on Home-Based Learning (Part 1)](/files/Learning%20Hub/Partnership%20Parents%20during%20HBL/Resource-Kit-HBL.pdf)
 
-[Resource Kit for Parents on Home-Based Learning (Part 2)](https://hongwen.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-2.pdf)
+[Resource Kit for Parents on Home-Based Learning (Part 2)](/files/Learning%20Hub/Partnership%20Parents%20during%20HBL/Resource-Kit-HBL-Part-2.pdf)
 
-[Resource Kit for Parents on Home-Based Learning (Part 3)](https://hongwen.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-3.pdf)
+[Resource Kit for Parents on Home-Based Learning (Part 3)](/files/Learning%20Hub/Partnership%20Parents%20during%20HBL/Resource-Kit-HBL-Part-3.pdf)
 
-[Resource Kit for Parents on Home-Based Learning (Part 4)](https://hongwen.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-4.pdf)
+[Resource Kit for Parents on Home-Based Learning (Part 4)](/files/Learning%20Hub/Partnership%20Parents%20during%20HBL/Resource-Kit-HBL-Part-4.pdf)
 
 Please refer to the links below for more information on HBL:
+
+|                                       |                                        |                             |
+|---------------------------------------|----------------------------------------|-----------------------------|
+| Home-Based Learning @ Hong Wen School |       Daily HBL Schedule By Class      |             SLS             |
+|        SLS Technical Assistance       | Video Conferencing Guide and Tutorials | Additional Learning Portals |
