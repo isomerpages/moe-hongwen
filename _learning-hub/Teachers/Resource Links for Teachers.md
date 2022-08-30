@@ -4,15 +4,11 @@ permalink: /learning-hub/Teachers/Resource-Links-for-Teachers/
 description: ""
 third_nav_title: Teachers
 ---
-
 <div>
-
-
-
 
 <a href="https://icon.moe.edu.sg/">
 
-<img src="/images/Learning%20Hub/Teachers/Resource%20Links%20for%20Teachers/icon2_0-e1556181317917.png">
+<img style="width:50%;height:50%" src="/images/Learning%20Hub/Teachers/Resource%20Links%20for%20Teachers/icon2_0-e1556181317917.png">
 
 </a>
 
