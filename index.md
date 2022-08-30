@@ -58,9 +58,9 @@ sections:
       url: /permalink
       image: /images/Homepage/PSG-Family-Day-2018.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Hong Wen Conferred Awards
+      button: read
       alt: Image alt text
+      url: /permalink
+      image: /images/Homepage/SDA-BPAs-w-White-Background-2.jpg
 ---
