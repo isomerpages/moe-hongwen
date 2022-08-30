@@ -1,6 +1,18 @@
 ---
 title: Additional Learning Portals
-permalink: /learning-hub/Pupils/Additional-Learning-Portals
+permalink: /learning-hub/Pupils/Additional-Learning-Portals/
 description: ""
 third_nav_title: Pupils
 ---
+**[Da-Mu-Zhi](http://www.zbschools.sg/)**
+
+ **[E-zhishi](http://www.ezhishi.net/)**
+
+ **[Xuele](https://www.mtl.moe.edu.sg/xuele)**
+
+Please refer to the links below for more information on HBL:
+
+|                                       |                                     |                                        |
+|---------------------------------------|-------------------------------------|----------------------------------------|
+| Home-based Learning @ Hong Wen School |     Daily HBL Schedule by Class     |                   SLS                  |
+|        SLS Technical Assistance       | Partnership with Parents during HBL | Video Conferencing Guide and Tutorials |
