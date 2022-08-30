@@ -4,7 +4,26 @@ permalink: /learning-hub/Teachers/Resource-Links-for-Teachers/
 description: ""
 third_nav_title: Teachers
 ---
-[![Icon2 0](https://hongwen.moe.edu.sg/wp-content/uploads/2019/04/icon2_0-e1556181317917.png "ICON 2.0")](https://icon.moe.edu.sg/)
+
+<div>
+
+
+
+
+<a href="https://icon.moe.edu.sg/">
+
+<img src="/images/Learning%20Hub/Teachers/Resource%20Links%20for%20Teachers/icon2_0-e1556181317917.png">
+
+</a>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
 
 [![Pac Gov Small](https://hongwen.moe.edu.sg/wp-content/uploads/2019/04/pac_gov_small.png "PaC@Gov")](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp)
 
