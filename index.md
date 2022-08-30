@@ -32,11 +32,11 @@ sections:
       url: /permalink
       image: /images/Homepage/H03.png
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: National Chinese Calligraphy 2022
+      button: read
       alt: Image alt text
+      url: /permalink
+      image: /images/Homepage/Updated_Website.jpg
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
