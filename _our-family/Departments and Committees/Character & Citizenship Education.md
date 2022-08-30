@@ -4,7 +4,7 @@ permalink: /our-family/Departments-and-Committees/Character-Citizenship-Educatio
 description: ""
 third_nav_title: Departments and Committees
 ---
-#### **Department Staff  **
+#### **Department Staff**
 
 
 
