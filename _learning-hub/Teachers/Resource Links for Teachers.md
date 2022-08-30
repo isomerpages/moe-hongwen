@@ -18,9 +18,6 @@ third_nav_title: Teachers
 
 </div>
 
-</div>
-
-
 <div>
 
 <a href="https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp">
@@ -32,8 +29,6 @@ third_nav_title: Teachers
 </div>
 
 <div>
-
-</div>
 
 </div>
 
@@ -51,8 +46,6 @@ third_nav_title: Teachers
 
 </div>
 
-</div>
-
 <div>
 
 <a href="https://www.opal2.moe.edu.sg/csl/s/singapore-teaching-practice/wiki/page/view?title=The+Singapore+Teaching+Practice">
@@ -64,8 +57,6 @@ third_nav_title: Teachers
 </div>
 
 <div>
-
-</div>
 
 </div>
 
@@ -83,8 +74,6 @@ third_nav_title: Teachers
 
 </div>
 
-</div>
-
 <div>
 
 <a href="https://www.hrp.gov.sg/">
@@ -96,8 +85,6 @@ third_nav_title: Teachers
 </div>
 
 <div>
-
-</div>
 
 </div>
 
@@ -115,8 +102,6 @@ third_nav_title: Teachers
 
 </div>
 
-</div>
-
 <div>
 
 <a href="http://hongwen.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME">
@@ -128,7 +113,5 @@ third_nav_title: Teachers
 </div>
 
 <div>
-
-</div>
 
 </div>
