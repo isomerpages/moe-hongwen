@@ -24,4 +24,4 @@ Please refer to the links below for more information on HBL:
 |                                       |                                        |                             |
 |---------------------------------------|----------------------------------------|-----------------------------|
 | [Home Based Learning @ Hong Wen School](/learning-hub/Pupils/Home-Based-Learning-Hong-Wen-School/) |       Daily HBL Schedule By Class      |             [SLS](/learning-hub/Pupils/Student-Learning-Space-SLS/)             |
-|        [SLS Technical Assistance](/learning-hub/Pupils/SLS-Technical-Assistance/)       | Video Conferencing Guide and Tutorials | Additional Learning Portals |
+|        [SLS Technical Assistance](/learning-hub/Pupils/SLS-Technical-Assistance/)       | Video Conferencing Guide and Tutorials | [Additional Learning Portals](/learning-hub/Pupils/Additional-Learning-Portals/) |
