@@ -69,17 +69,17 @@ Singapore has remained safe and peaceful over the years because of the efforts o
 
 **Recess Activities – Porridge Rationing and Activity Stations**
 
-![](/images/Our%20Family/Departments%20committees/CCE/TDD-Porridge-Eating_resized-300x200.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Family/Departments%20committees/CCE/TDD-Porridge-Eating_resized-300x200.jpg">
 
-![](/images/Our%20Family/Departments%20committees/CCE/TDD-Porridge-Rationing-300x200.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Family/Departments%20committees/CCE/TDD-Porridge-Rationing-300x200.jpg">
 
-![](/images/Our%20Family/Departments%20committees/CCE/TDD-Station-Activity-300x200.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Family/Departments%20committees/CCE/TDD-Station-Activity-300x200.jpg">
 
-![](/images/Our%20Family/Departments%20committees/CCE/TDD-Station-Activity-2-300x200.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Family/Departments%20committees/CCE/TDD-Station-Activity-2-300x200.jpg">
 
-![](/images/Our%20Family/Departments%20committees/CCE/TDD-Recess-Activities-2_resized-300x200.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Family/Departments%20committees/CCE/TDD-Recess-Activities-2_resized-300x200.jpg">
 
-![](/images/Our%20Family/Departments%20committees/CCE/TDD-Recess-Activities-1_resized-300x200.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Family/Departments%20committees/CCE/TDD-Recess-Activities-1_resized-300x200.jpg">
 
 **International Friendship Day**
 
@@ -87,10 +87,10 @@ This is a day dedicated to the understanding of Singapore’s relations with its
 
 **Assembly Programme for International Friendship Day**
 
-![](/images/Our%20Family/Departments%20committees/CCE/Assembly-Programme-for-IFD-300x200.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Family/Departments%20committees/CCE/Assembly-Programme-for-IFD-300x200.jpg">
 **Recess Activities for International Friendship Day**
 
-![](/images/Our%20Family/Departments%20committees/CCE/Recess-Activities-for-IFD-300x200.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Family/Departments%20committees/CCE/Recess-Activities-for-IFD-300x200.jpg">
 **Racial Harmony Day**
 
 Schools commemorate Racial Harmony Day on 21st July. On this day in 1964, Singapore saw racial riots. Racial Harmony Day serves to remind our pupils that social division costs us dearly and that race and religion are potential fault-lines in Singapore society. It is a day for schools to reflect on, and celebrate our success as a harmonious nation and society built on a rich diversity of cultures and heritages.
@@ -98,13 +98,13 @@ Schools commemorate Racial Harmony Day on 21st July. On this day in 1964, Singap
 Students should learn to make friends with people of other races and religions and not make fun of people who are different. Students should also learn that in Singapore, people are treated equally regardless of their race and religion and they should also do the same. Students should appreciate the different cultures that make up Singapore.
 
 **Henna Activity on Racial Harmony Day**
-![](/images/Our%20Family/Departments%20committees/CCE/Henna-Activity-on-Racial-Harmony-Day_resized-300x169.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Family/Departments%20committees/CCE/Henna-Activity-on-Racial-Harmony-Day_resized-300x169.jpg">
 
 **Students learning about Kompang**
-![](/images/Our%20Family/Departments%20committees/CCE/Students-learning-about-Kompang_resized-300x200.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Family/Departments%20committees/CCE/Students-learning-about-Kompang_resized-300x200.jpg">
 
 **National Day**
-![](/images/Our%20Family/Departments%20committees/CCE/ND-Observance-Ceremony-e1608002534486-200x300.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Family/Departments%20committees/CCE/ND-Observance-Ceremony-e1608002534486-200x300.jpg">
 
 National Day marks our Separation from Malaysia, and our emergence as an independent country in the community of nations. Since 1998, a National Day Ceremony was introduced in schools. This Ceremony aims to bring to the students a greater sense of the historical importance and solemnity of National Day. Schools conduct a **15-minute National Day Ceremony** which is more formal than the festivities that schools usually organise.
 
@@ -140,9 +140,9 @@ During FTGP, Form Teachers engage pupils through One-to-One Interaction so as to
 
 Values-In-Action (VIA) is a learning experience in Character and Citizenship Education (CCE) that enhances students’ development as socially responsible citizens through ownership of their contribution to the community.
 
-![](/images/Our%20Family/Departments%20committees/CCE/P6VIA-e1608002614341-225x300.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Family/Departments%20committees/CCE/P6VIA-e1608002614341-225x300.jpg">
 
-![](/images/Our%20Family/Departments%20committees/CCE/P5VIA-e1608002750667-225x300.jpg)
+<img style="width:50%;height:50%" src="/images/Our%20Family/Departments%20committees/CCE/P5VIA-e1608002750667-225x300.jpg">
 
 4d.   CCE is also infused in all IP subjects English, Mathematics, Science and Chinese through daily lessons. CCE is also infused in Physical Education, Co-Curricular Activities, Programme for Active Learning, Chinese Cultural Programme, Environment Programme and Aesthetics.
 
