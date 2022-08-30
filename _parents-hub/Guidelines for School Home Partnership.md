@@ -14,8 +14,8 @@ description: ""
 *   We hope to clarify the nature of school-home partnership so that we can partner each other more meaningfully.
 *   We would like parents to work hand in hand with us to support your children in learning self-management skills, taking responsibility and building resilience.
 
-[Guidelines – Listicle](https://hongwen.moe.edu.sg/wp-content/uploads/2019/02/Guidelines-Listicle.pdf)
+[Guidelines – Listicle](/files/Parents'%20Hub/Guidelines%20for%20School/Guidelines-Listicle.pdf)
 
-[Guidelines – Illustrated comics](https://hongwen.moe.edu.sg/wp-content/uploads/2019/02/Guidelines-Illustrated-comics.pdf)
+[Guidelines – Illustrated comics](/files/Parents'%20Hub/Guidelines%20for%20School/Guidelines-Illustrated-comics.pdf)
 
 ![](/images/Parents'%20Hub/Guidelines%20for%20school/School-Home-Partnership.png)
