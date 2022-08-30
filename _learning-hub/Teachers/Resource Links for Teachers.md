@@ -53,7 +53,21 @@ third_nav_title: Teachers
 
 </div>
 
-[![Teaching Practice](https://hongwen.moe.edu.sg/wp-content/uploads/2022/05/teaching-practice-300x96.jpg)](https://www.opal2.moe.edu.sg/csl/s/singapore-teaching-practice/wiki/page/view?title=The+Singapore+Teaching+Practice)
+<div>
+
+<a href="https://www.opal2.moe.edu.sg/csl/s/singapore-teaching-practice/wiki/page/view?title=The+Singapore+Teaching+Practice">
+
+<img style="width:50%;height:50%" src="/images/Learning%20Hub/Teachers/Resource%20Links%20for%20Teachers/teaching-practice-300x96.jpg">
+
+</a>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
 
 [![Sc M 1](https://hongwen.moe.edu.sg/wp-content/uploads/2022/05/sc-m-1-300x63.jpg)](https://scmobile.moe.edu.sg/login)
 
