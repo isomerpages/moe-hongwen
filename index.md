@@ -16,11 +16,13 @@ sections:
       image: /images/Homepage/H01.png
       url: /permalink
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Learning for Life (Sports and Outdoor Education)
+      description: "The theme of our school's Learning for Life Programme (Sports and
+        Outdoor Education) is \"Sports for Character, Sports for All\". "
+      button: Read more
       alt: Image alt text
+      url: /permalink
+      image: /images/Homepage/H02.png
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
