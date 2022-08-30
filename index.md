@@ -51,11 +51,12 @@ sections:
       image: /images/Homepage/hc49-e1491972777457.jpg
       url: /permalink
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      description: Be part of your child's schooling experience. join Parents Support
+        Group (PSG)
+      button: read
       alt: Image alt text
+      url: /permalink
+      image: /images/Homepage/PSG-Family-Day-2018.jpg
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
