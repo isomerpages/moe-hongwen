@@ -35,7 +35,7 @@ sections:
       title: National Chinese Calligraphy 2022
       button: read
       alt: Image alt text
-      url: /permalink
+      url: /National-Chinese-Calligraphy-2022/
       image: /images/Homepage/Updated_Website.jpg
   - infopic:
       title: Our Enduring Legacy
