@@ -2,6 +2,7 @@ collections:
   learning-hub:
     output: true
     order:
+      - Pupils/Example Title.md
       - Pupils/Home Based Learning @ Hong Wen School.md
       - Pupils/Student Learning Space (SLS).md
       - Pupils/SLS Technical Assistance.md
