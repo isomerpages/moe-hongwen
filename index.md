@@ -14,14 +14,14 @@ sections:
       button: Read More
       alt: Image alt text
       image: /images/Homepage/H01.png
-      url: /permalink
+      url: /school-calendar-and-programme/Signature-Programmes/Special-Assistance-Plan-SAP/
   - infopic:
       title: Learning for Life (Sports and Outdoor Education)
       description: "The theme of our school's Learning for Life Programme (Sports and
         Outdoor Education) is \"Sports for Character, Sports for All\". "
       button: Read more
       alt: Image alt text
-      url: /permalink
+      url: /school-calendar-and-programme/Signature-Programmes/Learning-for-Life-Sports-and-Outdoor-Education/
       image: /images/Homepage/H02.png
   - infopic:
       title: Learning for Life (Student Leadership and Community Service)
@@ -29,7 +29,7 @@ sections:
         A Gracious LEader who contributes to Society (EAGLES)".
       button: Read more
       alt: Image alt text
-      url: /permalink
+      url: /school-calendar-and-programme/Signature-Programmes/Learning-for-Life-Leadership-and-Service/
       image: /images/Homepage/H03.png
   - infopic:
       title: National Chinese Calligraphy 2022
