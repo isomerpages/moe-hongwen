@@ -49,18 +49,18 @@ sections:
       button: read
       alt: Image alt text
       image: /images/Homepage/hc49-e1491972777457.jpg
-      url: /permalink
+      url: /about-us/Hong-Wen-School-Instagram/
   - infopic:
       description: Be part of your child's schooling experience. join Parents Support
         Group (PSG)
       button: read
       alt: Image alt text
-      url: /permalink
+      url: /parents-hub/Parents-Support-Group/
       image: /images/Homepage/PSG-Family-Day-2018.jpg
   - infopic:
       title: Hong Wen Conferred Awards
       button: read
       alt: Image alt text
-      url: /permalink
+      url: /about-us/School-Achievements/
       image: /images/Homepage/SDA-BPAs-w-White-Background-2.jpg
 ---
