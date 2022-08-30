@@ -38,11 +38,11 @@ sections:
       url: /permalink
       image: /images/Homepage/Updated_Website.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Our Enduring Legacy
+      button: read
       alt: Image alt text
+      url: /permalink
+      image: /images/Homepage/100th-e1609986303750.jpg
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
