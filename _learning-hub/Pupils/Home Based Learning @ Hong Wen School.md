@@ -38,5 +38,5 @@ Please click on the level that your child is in to view the respective class HBL
 |                                        |                             |                                     |
 |-|-| -|
 |                                        |                             |                                     |
-|                   SLS                  |   SLS Technical Assistance  | Partnership with Parents during HBL |
-| Video Conferencing Guide and Tutorials | Additional Learning Portals |                                     |
+|                   [SLS](/learning-hub/Pupils/Student-Learning-Space-SLS/)                  |   [SLS Technical Assistance](/learning-hub/Pupils/SLS-Technical-Assistance/)  | [Partnership with Parents during HBL](/Partnership-with-Parents-during-HBL/) |
+| [Video Conferencing Guide and Tutorials](/Video-Conferencing-Guide-and-Tutorials/) | [Additional Learning Portals](/learning-hub/Pupils/Additional-Learning-Portals/) |                                 
