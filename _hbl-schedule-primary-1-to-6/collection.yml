@@ -2,5 +2,6 @@ collections:
   hbl-schedule-primary-1-to-6:
     output: true
     order:
+      - Primary 4.md
       - Primary 5.md
       - Primary 6.md
