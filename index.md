@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Homepage/Homepage.gif
       key_highlights:
-        - title: Learning Hub
+        - title: 学习园地 LEARNING HUB
           description: For Pupils & Teachers
           url: /learning-hub/Pupils/Home-Based-Learning-Hong-Wen-School/
   - infopic:
