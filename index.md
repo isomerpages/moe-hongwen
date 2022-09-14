@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/Homepage.gif
+      key_highlights:
+        - title: Learning Hub
+          description: For Pupils & Teachers
+          url: ""
   - infopic:
       title: Special Assistance Plan (SAP)
       description: Chinese Cultural Programme (CCP) is our school’s SAP flagship programme.
@@ -64,4 +68,3 @@ sections:
       url: /about-us/School-Achievements/
       image: /images/Homepage/SDA-BPAs-w-White-Background-2.jpg
 ---
-
