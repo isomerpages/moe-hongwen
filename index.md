@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Learning Hub
           description: For Pupils & Teachers
-          url: ""
+          url: /learning-hub/Pupils/Home-Based-Learning-Hong-Wen-School/
   - infopic:
       title: Special Assistance Plan (SAP)
       description: Chinese Cultural Programme (CCP) is our school’s SAP flagship programme.
