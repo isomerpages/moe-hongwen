@@ -4,14 +4,14 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Welcome to Hong Wen School
 sections:
   - hero:
       background: /images/Homepage/Homepage.gif
       key_highlights:
-        - title: 学习园地 LEARNING HUB
-          description: For Pupils & Teachers
-          url: /learning-hub/Pupils/Home-Based-Learning-Hong-Wen-School/
+        - title: Like our Instagram Page
+          description: ""
+          url: ""
   - infopic:
       title: Special Assistance Plan (SAP)
       description: Chinese Cultural Programme (CCP) is our school’s SAP flagship programme.
