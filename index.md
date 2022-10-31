@@ -12,7 +12,7 @@ sections:
         - title: Like our Instagram Page
           description: ""
           url: ""
-        - title: Join our PSG
+        - title: Join our Parent Support Group
           description: Key Highlight description
           url: ""
   - infopic:
