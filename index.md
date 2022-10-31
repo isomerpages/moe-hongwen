@@ -19,7 +19,7 @@ sections:
           description: ""
           url: ""
         - title: Hong Wen conferred awards
-          description: Key Highlight description
+          description: ""
           url: ""
   - infopic:
       title: Special Assistance Plan (SAP)
