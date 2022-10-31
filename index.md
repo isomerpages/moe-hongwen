@@ -15,6 +15,9 @@ sections:
         - title: Join our Parent Support Group
           description: Key Highlight description
           url: ""
+        - title: Our Enduring Legacy
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: Special Assistance Plan (SAP)
       description: Chinese Cultural Programme (CCP) is our school’s SAP flagship programme.
