@@ -13,7 +13,7 @@ sections:
           description: ""
           url: ""
         - title: Join our Parent Support Group
-          description: Key Highlight description
+          description: ""
           url: ""
         - title: Our Enduring Legacy
           description: Key Highlight description
