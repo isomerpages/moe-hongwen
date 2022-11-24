@@ -7,7 +7,7 @@ permalink: /
 notification: Welcome to Hong Wen School
 sections:
   - hero:
-      background: /images/Homepage/Homepage.gif
+      background: /images/Homepage/Character_Art_Banner-v5.jpg
       key_highlights:
         - title: Like our Instagram Page
           description: ""
