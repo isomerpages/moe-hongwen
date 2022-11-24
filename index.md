@@ -4,7 +4,7 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to Hong Wen School
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/Character_Art_Banner-v5.jpg
