@@ -1,0 +1,17 @@
+collections:
+  our-family:
+    output: true
+    order:
+      - School Mgmt Committee SMC/SMC Members (2020 – 2022).md
+      - School Mgmt Committee SMC/SMC Financial Report.md
+      - School Mgmt Committee SMC/.keep
+      - School Executive Committee.md
+      - Staff.md
+      - Departments and Committees/English Language.md
+      - Departments and Committees/Mathematics.md
+      - Departments and Committees/Science.md
+      - Departments and Committees/Character & Citizenship Education.md
+      - Departments and Committees/PE and Aesthetics.md
+      - Departments and Committees/Innovation.md
+      - Departments and Committees/.keep
+      - Alumni Association.md
