@@ -20,3 +20,7 @@ description: ""
 [Information Sheet for September 2022](/files/Parents'%20Hub/2022%20information%20sheets/Information-Sheet-for-September-2022.pdf)
 
 *  [P6 Study break and P1 to P5 HBL during PSLE](/files/Parents'%20Hub/2022%20information%20sheets/P6-Study-break-and-P1-to-P5-HBL-during-PSLE.pdf)
+
+[Information Sheet for October 2022](/files/Parents'%20Hub/2022%20information%20sheets/Information-Sheet-for-October-2022.pdf)
+
+[Information Sheet for November 2022](/files/Parents'%20Hub/2022%20information%20sheets/Information-Sheet-for-October-2022.pdf)
