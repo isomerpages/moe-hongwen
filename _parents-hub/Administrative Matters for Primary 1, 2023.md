@@ -21,7 +21,7 @@ P1 Orientation - Presentation by Year Head
 
 [ANNEX A – Terms and Conditions for School Bus Services](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/3-ANNEX-A-Terms-and-Conditions-for-School-Bus-Services-2023.pdf)
 
-[3\. Booklist for Primary 1 2023](https://hongwen.moe.edu.sg/wp-content/uploads/2022/10/2.-Booklist-for-Primary-1-2023.pdf)[3. Booklist for Primary 1 2023](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/2-Booklist-for-Primary-1-2023.pdf)
+[3\. Booklist for Primary 1 2023](https://hongwen.moe.edu.sg/wp-content/uploads/2022/10/2.-Booklist-for-Primary-1-2023.pdf)
 
 [Step by Step guide on ordering textbook online from Pacific Bookstore portal](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/3-Step-by-Step-guide-on-ordering-textbook-online-from-Pacific-Bookstore-portal.pdf)
 
