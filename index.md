@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Like our Instagram Page
           description: ""
-          url: instagram.com/hongwenschool_official
+          url: https://www.instagram.com/hongwenschool_official/
         - title: Join our Parent Support Group
           description: ""
           url: https://www.hongwen.moe.edu.sg/parents-hub/Parents-Support-Group/
