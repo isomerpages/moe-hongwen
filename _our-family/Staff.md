@@ -9,7 +9,7 @@ description: ""
 
 | Class            | Form Teachers                               |                                          |
 |------------------|---------------------------------------------|------------------------------------------|
-| 1 Responsibility | Mr Chua   chua_chun_hua@moe.edu.sg          | Mdm Yasmine  thennarasu_a@moe.edu.sg     |
+| 1 Responsibility | Mdm Azizah   azizah_idris@moe.edu.sg          | Ms Yip yip_shi_ying@moe.edu.sg     |
 | 1 Integrity      | Mr Mai   mai_qing_jiang@moe.edu.sg          | Ms Ng   ng_lay_lian@moe.edu.sg           |
 | 1 Compassion     | Mrs Chua  tan_siew_lay@moe.edu.sg           | Mdm Teo teo_gek_hong@moe.edu.sg          |
 | 1 Excellence     | Ms Ling   ling_moi_lang@moe.edu.sg          | Mrs Teo  low_li_lian@moe.edu.sg          |
