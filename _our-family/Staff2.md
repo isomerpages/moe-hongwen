@@ -3,7 +3,7 @@ title: Staff2
 permalink: /our-family/permalink/
 description: Form Teachers
 ---
-<table style="margin-left:-7.5pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+<table style="margin-left:-1.5pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:
  0in 5.4pt 0in 5.4pt;mso-border-insideh:1.0pt solid black;mso-border-insidev:
  1.0pt solid black" width="660" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:89.5pt;border:solid black 1.0pt;
@@ -431,3 +431,5 @@ description: Form Teachers
   padding:5.0pt 5.0pt 5.0pt 5.0pt;height:19.65pt" valign="top" width="300"><p style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:10.0pt" lang="EN">Mrs Arusu</span></p><p style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:10.0pt" lang="EN">rathika_techinamurthi@moe.edu.sg</span></p></td></tr></tbody></table>
+	
+	1.5
