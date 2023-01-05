@@ -4,7 +4,7 @@ permalink: /our-family/School-Mgmt-Committee-SMC/SMC-Members-2020-2022/
 description: ""
 third_nav_title: School Mgmt Committee SMC
 ---
-| School Management Committee (2023 – 2025) |                                 | 宏文学校董事会 (2022 -2025) |               |
+| School Management Committee (2023 – 2025) |                                 | 宏文学校董事会 (2023 -2025) |               |
 |-------------------------------------------|---------------------------------|-----------------------------|---------------|
 | 1                                         | Mr Ng Kim Choon  BBM            | 黄金春先生 BBM              | Chairman      |
 | 2                                         | Mr Ng Chee Hwa                  | 黄志华先生                  | Vice-Chairman |
