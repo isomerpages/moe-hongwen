@@ -3,8 +3,7 @@ title: Staff2
 permalink: /our-family/permalink/
 description: Form Teachers
 ---
-       
-<table style="margin-left:-27.5pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+<table style="margin-left:-7.5pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:
  0in 5.4pt 0in 5.4pt;mso-border-insideh:1.0pt solid black;mso-border-insidev:
  1.0pt solid black" width="660" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:89.5pt;border:solid black 1.0pt;
