@@ -10,7 +10,7 @@ third_nav_title: School Mgmt Committee SMC
 | 2                                         | Mr Ng Chee Hwa                  | 黄志华先生                  | Vice-Chairman |
 | 3                                         | Mr Ng Tian Lee  BBM (L)         | 黄天霖先生 BBM (L)          | Vice-Chairman |
 | 4                                         | Mr Ng Kim Ming                  | 黄金明先生                  | Secretary     |
-| 5                                         | Mr Ng Boon Poh                  | 黄文莆先生                  | Treasurer     |
+| 5                                         | Mr Ho Kim Seng                  | 何金生先生                  | Treasurer     |
 | 6                                         | Dr Koh Khee Meng                | 许其明教授                  | SMC Member    |
 | 7                                         | Mr Ng Ngiap Khiang Francis  PBM | 黄业強先生 PBM              | SMC Member    |
 | 8                                         | Mr Ng Kok Wah  BBM              | 黄国华先生 BBM              | SMC Member    |
