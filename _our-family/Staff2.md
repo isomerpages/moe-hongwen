@@ -432,4 +432,4 @@ description: Form Teachers
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:10.0pt" lang="EN">Mrs Arusu</span></p><p style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:10.0pt" lang="EN">rathika_techinamurthi@moe.edu.sg</span></p></td></tr></tbody></table>
 	
-	1.5
+	                                                           1.5
