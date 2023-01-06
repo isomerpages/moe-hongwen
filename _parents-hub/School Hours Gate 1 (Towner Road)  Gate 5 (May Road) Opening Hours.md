@@ -29,18 +29,17 @@ As part of the school’s safe distancing and safe management measures, dismissa
 | Gate 1 (Towner Road) Opening Hours      |                  |
 |-----------------------------------------|------------------|
 | School Arrival & Dismissal              |                  |
-| Monday to Friday                        | 6.30am to 7.30am |
-| Monday to Friday                        | 1.15pm to 2.00pm |
+| Monday to Friday                        | 6.40am to 7.30am |
+| Monday to Friday                        | 1.25pm to 2.00pm |
 | Sat / Sun / Public Holidays             | Gate Closed      |
 
 | Gate 5 (May Road) Opening Hours              |                  |
 |----------------------------------------------|------------------|
 | School Arrival & Dismissal                   |                  |
-| Monday to Friday                             | 6.30am to 7.30am |
-| Monday to Friday                             | 1.15pm to 2.15pm |
+| Monday to Friday                             | 6.40am to 7.30am |
+| Monday to Friday                             | 1.25pm to 2.00pm |
 |                                              |                  |
 | **Afternoon Programme (Monday to Thursday)** |                  |
-| Monday & Wednesday                           | 3.00pm to 3.15pm |
-|                                              | 3.50pm to 4.30pm |
-| Tuesday & Thursday                           | 4.15pm to 4.45pm |
+| Monday to Thursday                           | 3.00pm to 3.25pm |
+|                                              | 4.00pm to 4.30pm |
 | Sat / Sun / Public Holidays                  | Gate Closed      |
