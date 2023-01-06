@@ -5,7 +5,11 @@ description: ""
 ---
 **MOE Financial Assistance Scheme**
 
-[MOE FAS Application Form](/files/Parents'%20Hub/MOE%20FAS%20Scheme/MOE FAS Application Form 2023.pdf)
+[MOE FAS Application Form](/files/Parents'%20Hub/MOE%20FAS%20Scheme/MOE-FAS Application-Form-2023.pdf)
+
+[MOE FAS Application Form]
+(/files/Parents%20Hub/MOE%20FAS%20Scheme/MOE-FAS-Application-Form-2023.pdf)
+
 
 [Home Access 3.0 Application Form (HOMES)](/files/Parents'%20Hub/MOE%20FAS%20Scheme/HA-30-App-Form-v20-HOMES_FINAL-5-Apr.pdf)
 
