@@ -6,9 +6,9 @@ description: Form Teachers
 ![](/images/Our%20Family/Staff2/D11.png)
 ![](/images/Our%20Family/Staff2/D12.png)
 
-![](/images/Our%20Family/Staff2/D01.png)
-![](/images/Our%20Family/Staff2/D02.png)
-![](images/Our%20Family/Staff2/D03.png)
+![](/images/Our%20Family/Staff2/F01.png)
+![](/images/Our%20Family/Staff2/F02.png)
+![](images/Our%20Family/Staff2/F03.png)
 
 
 |     Class               |     Form Teacher                                                          |     Form Teacher                                                                                                                            |
