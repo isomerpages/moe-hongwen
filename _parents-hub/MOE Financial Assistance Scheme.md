@@ -5,13 +5,7 @@ description: ""
 ---
 **MOE Financial Assistance Scheme**
 
-[MOE FAS Application Form](/files/Parents'%20Hub/MOE%20FAS%20Scheme/MOE-FAS-Application-Form-Sep-21.pdf)
-
-
-[MOE FAS Application Form NEW]
-(/files/Parents%20Hub/MOE%20FAS%20Scheme/MOE-FAS-Application-Form-2023.pdf)
-
-[MOE FAS Application Form 2]
+[MOE FAS Application Form](/files/Parents'%20Hub/MOE%20FAS%20Scheme/MOE-FAS-Application-Form-2023.pdf)
 
 [Home Access 3.0 Application Form (HOMES)](/files/Parents'%20Hub/MOE%20FAS%20Scheme/HA-30-App-Form-v20-HOMES_FINAL-5-Apr.pdf)
 
@@ -20,8 +14,6 @@ description: ""
 [NPP Application Form for MOE-SPED FAS](/files/Parents'%20Hub/MOE%20FAS%20Scheme/NPP-Application-Form-v56-1-January-22-for-MOE-SPED-FAS.pdf)
 
 [NEW PCs and BB](/files/Parents'%20Hub/MOE%20FAS%20Scheme/NEW-PCs-and-BB_9Jul21.pdf)
-
-[MOE\_FAS\_Pamphlet\_2022](/files/Parents'%20Hub/MOE%20FAS%20Scheme/MOE_FAS_Pamphlet_2022.pdf)
 
 [NPP Application Form for NON MOE-SPED FAS](/files/Parents'%20Hub/MOE%20FAS%20Scheme/NPP-Application-Form-v1-1-January-22-for-NON-MOE-SPED-FAS.pdf)
 
