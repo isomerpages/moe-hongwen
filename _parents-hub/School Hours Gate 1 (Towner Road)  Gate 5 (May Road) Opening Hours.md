@@ -11,12 +11,12 @@ As part of the school’s safe distancing and safe management measures, dismissa
 
 | School Hours (Monday to Friday ) |                  |
 |----------------------------------|------------------|
-| Primary 1                        | 7.30am to 1.15pm |
-| Primary 2                        | 7.30am to 1.20pm |
-| Primary 3                        | 7.30am to 1.25pm |
-| Primary 4                        | 7.30am to 1.30pm |
-| Primary 5                        | 7.30am to 1.35pm |
-| Primary 6                        | 7.30am to 1.40pm |
+| Primary 1                        | 7.30am to 1.25pm |
+| Primary 2                        | 7.30am to 1.25pm |
+| Primary 3                        | 7.30am to 1.35pm |
+| Primary 4                        | 7.30am to 1.35pm |
+| Primary 5                        | 7.30am to 1.30pm |
+| Primary 6                        | 7.30am to 1.30pm |
 
 | Recess Timings            |                    |
 |---------------------------|--------------------|
