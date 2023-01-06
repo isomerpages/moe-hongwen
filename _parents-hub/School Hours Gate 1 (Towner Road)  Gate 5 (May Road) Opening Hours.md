@@ -24,7 +24,8 @@ As part of the school’s safe distancing and safe management measures, dismissa
 | Primary 2 & 3             | 10.00am to 10.30am  |
 | Primary 5 & 6             | 10.30am to 11.00am |
 
-*Daily 5-min snack break at 11.55am
+*Daily 5-min snack break at 11.55am (Primary 1& 4), 12.25pm (Primary 2 & 3) and 8.55am (Primary 5 &6)
+
 
 | Gate 1 (Towner Road) Opening Hours      |                  |
 |-----------------------------------------|------------------|
