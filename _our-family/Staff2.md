@@ -5,6 +5,12 @@ description: Form Teachers
 ---
 ![](/images/Our%20Family/Staff2/D11.png)
 ![](/images/Our%20Family/Staff2/D12.png)
+
+![](/images/Our%20Family/Staff2/D01.png)
+![](/images/Our%20Family/Staff2/D02.png)
+![](images/Our%20Family/Staff2/D03.png)
+
+
 |     Class               |     Form Teacher                                                          |     Form Teacher                                                                                                                            |
 |-------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 |     1 Responsibility    |     Mdm Azizah Idris     azizah_idris@moe.edu.sg                          |     Ms Yip Shi Ying     yip_shi_ying@moe.edu.sg                                                                                             |
