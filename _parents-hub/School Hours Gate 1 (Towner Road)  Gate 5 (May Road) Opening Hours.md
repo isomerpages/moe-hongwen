@@ -20,9 +20,9 @@ As part of the school’s safe distancing and safe management measures, dismissa
 
 | Recess Timings            |                    |
 |---------------------------|--------------------|
-| Primary 1 & 4             | 9.00am to 9.30am   |
-| Primary 2 & 5             | 9.30am to 10.00am  |
-| Primary 3 & 6             | 10.00am to 10.30am |
+| Primary 1 & 4             | 9.30am to 10.00am   |
+| Primary 2 & 3             | 10.00am to 10.30am  |
+| Primary 5 & 6             | 10.30am to 11.00am |
 
 *Daily 5-min snack break at 11.55am
 
