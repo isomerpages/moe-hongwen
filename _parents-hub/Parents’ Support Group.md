@@ -27,11 +27,9 @@ To partner with the school for the betterment of our children
 
 We Lead. We Learn. We Serve.
 
-![](/images/Parents'%20Hub/Parents%20support%20group/PSG-Exco-768x576.jpg)
+![](/images/Parents'%20Hub/Parents%20support%20group/image0-min.jpeg)
 PSG Executive Committee
 
-![](/images/Parents'%20Hub/Parents%20support%20group/Recess-Parents-768x512.jpg)
-Recess Duty and Reading Support Parents
 
 <img style="width:70%;height:50%" src="/images/Parents'%20Hub/Parents%20support%20group/psg_contactus.png">
 
@@ -47,6 +45,6 @@ Or 或者
 Write us a note and handover to the General Office and marked clearly “FOR PARENT SUPPORT GROUP”  
 写字条送到办事处. 请注 “家长会”收
 
-<img style="width:30%;height:50%" src="/images/Parents'%20Hub/Parents%20support%20group/facebook-logo-jpg-facebook-logo-150x150.jpg">
+<img style="width:30%;height:50%" src="/images/Parents'%20Hub/Parents%20support%20group/image0.jpeg">
 
 Click [here](https://www.facebook.com/HongWenSchoolPSG/) to visit the Parents Support Group Facebook page.
