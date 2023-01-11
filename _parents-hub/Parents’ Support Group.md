@@ -45,6 +45,6 @@ Or 或者
 Write us a note and handover to the General Office and marked clearly “FOR PARENT SUPPORT GROUP”  
 写字条送到办事处. 请注 “家长会”收
 
-<img style="width:30%;height:50%" src="/images/Parents'%20Hub/Parents%20support%20group/image0.jpeg">
+<img style="width:30%;height:50%" src="/images/Parents'%20Hub/Parents%20support%20group/image1.jpeg">
 
-Click [here](https://www.facebook.com/HongWenSchoolPSG/) to visit the Parents Support Group Facebook page.
+Click [here](https://www.instagram.com/hong_wen_school_psg/) to visit the Parents Support Group IG page.
