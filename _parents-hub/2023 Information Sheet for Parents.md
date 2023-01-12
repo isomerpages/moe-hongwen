@@ -3,25 +3,7 @@ title: 2023 Information Sheet for Parents
 permalink: /parents-hub/2022-Information-Sheet-for-Parents/
 description: ""
 ---
+### **2023 Information Sheet for Parents**
 
-**2023 Information Sheet for Parents**
+[Information Sheet for January 2023 for P2 to P6 Parents](/files/Parents'%20Hub/2023%20information%20sheets/Information%20Sheet%20for%20January%202023%20for%20P2%20to%20P6.pdf)
 
-[Information Sheet for January / February 2022](/files/Parents'%20Hub/2022%20information%20sheets/Information-Sheet-for-February-2022.pdf)
-
-[Information Sheet for March 2022](/files/Parents'%20Hub/2022%20information%20sheets/Information-Sheet-for-March-2022-v1.pdf)
-
-[Information Sheet for April 2022](/files/Parents'%20Hub/2022%20information%20sheets/Information-Sheet-for-April-2022.pdf)
-
-[Information Sheet for May/June 2022](/files/Parents'%20Hub/2022%20information%20sheets/Information-Sheet-for-May-June-2022.pdf)
-
-[Information Sheet for July 2022](/files/Parents'%20Hub/2022%20information%20sheets/Information-Sheet-for-July-2022.pdf)
-
-[Information Sheet for August 2022](/files/Parents'%20Hub/2022%20information%20sheets/Information-Sheet-for-August-2022-1.pdf)
-
-[Information Sheet for September 2022](/files/Parents'%20Hub/2022%20information%20sheets/Information-Sheet-for-September-2022.pdf)
-
-*  [P6 Study break and P1 to P5 HBL during PSLE](/files/Parents'%20Hub/2022%20information%20sheets/P6-Study-break-and-P1-to-P5-HBL-during-PSLE.pdf)
-
-[Information Sheet for October 2022](/files/Parents'%20Hub/2022%20information%20sheets/Information-Sheet-for-October-2022.pdf)
-
-[Information Sheet for November 2022](/files/Parents'%20Hub/2022%20information%20sheets/Information-Sheet-for-October-2022.pdf)
