@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Character_Art_Banner-v5.jpg
+      background: /images/Homepage/Wall mural_downsized_3360x840.png
       key_highlights:
         - title: Like our Instagram Page
           description: ""
