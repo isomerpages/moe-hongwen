@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Wall mural_downsized.jpg
+      background: /images/Homepage/Wall mural_downsized_medium.png
       key_highlights:
         - title: Like our Instagram Page
           description: ""
