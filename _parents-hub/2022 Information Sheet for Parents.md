@@ -3,7 +3,7 @@ title: 2022 Information Sheet for Parents
 permalink: /parents-hub/2022-Information-Sheet-for-Parents/
 description: ""
 ---
-**2022 Information Sheet for Parents**
+**2023 Information Sheet for Parents**
 
 [Information Sheet for January / February 2022](/files/Parents'%20Hub/2022%20information%20sheets/Information-Sheet-for-February-2022.pdf)
 
