@@ -3,8 +3,6 @@ title: MOE Sexuality Education
 permalink: /school-calendar-and-programme/MOE-Sexuality-Education/
 description: ""
 ---
-
-
 **HONG WEN SCHOOL**
 
 **Moe Sexua****l****ity Education in Schools**
