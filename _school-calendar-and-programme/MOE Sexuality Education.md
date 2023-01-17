@@ -51,7 +51,7 @@ b.       Character and Citizenship Education (CCE)
 2023Sexuality3
 2023Sexuality4
 
-![](/images/School%20Calendar%20%26%20Programme%2FMOE%20sex%20ed/2023_Sexuality1.jpg
+![](/images/School%20Calendar%20&%20Programme/%2FMOE%20sex%20ed/2023_Sexuality1.jpg
 
 **Information for Parents**
 
