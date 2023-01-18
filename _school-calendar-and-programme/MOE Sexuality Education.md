@@ -60,6 +60,6 @@ b.       Character and Citizenship Education (CCE)
 
 9.       Parents who wish to opt their children out of The Sexuality Education Programme in 2023 lessons need to complete an opt-out form. The link to the form will be sent to parents via Parents Gateway and is also downloadable here (please upload parents opt-out form found in Annex **A** and insert a hyperlink for parents to download the form). The completed opt-out form is to be submitted by 25/01/2023.
 
-(/files/School%20Calendar%20&%20Programme/MOE%20sex%20ed/Parent%20Opt%20Out%20Form.pdf)
+(/files/School%20Calendar%20&%20Programme/MOE%20sex%20ed/Parent_Opt_Out_Form.pdf)
 
 10.      Parents can contact the school at 62943340 or hws@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
