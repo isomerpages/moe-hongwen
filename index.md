@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Wall mural_downsized_3360x840.png
+      background: /images/Homepage/HWS_Sch_Motto_resized_200123.jpg
       key_highlights:
         - title: Like our Instagram Page
           description: ""
