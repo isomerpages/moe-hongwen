@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/HWS_Sch_Motto_resized_2023.png
+      background: /images/Homepage/HWS_Sch_Motto_resized_200123.jpg
       key_highlights:
         - title: Like our Instagram Page
           description: ""
