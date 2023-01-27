@@ -4,9 +4,11 @@ permalink: /about-us/Principals-Message/
 description: ""
 ---
 <div>
-	
-<p align="right"><img src="/images/About%20Us/Principal's%20Message/IMG_1945-1-200x300.jpg" alt="" /></p>
 
+<div style="float: left">
+
+<img src="/images/About%20Us/Principal's%20Message/IMG_1945-1-200x300.jpg"/>
+</div><div>
 	
 	
 <p>Hong Wen School, founded in 1920, is a school with more than 100 years of history and continues to grow and flourish. It offers a distinctive education with emphasis placed on Chinese culture and heritage. Our mission of nurturing our students to be leaders of upright character and rooted in the Chinese culture guides us in our purpose of educating a Hong Wen student. We are guided by our school motto of Honesty, Perseverance, Diligence and Thrift, virtues that we want all our students to have.
@@ -20,11 +22,13 @@ It takes a village to raise a child. Hong Wen School alone cannot do all these w
 I firmly believe that Hong Wen will continue to shine with the strong support of everyone in the second century of its history.
 	
 Mrs Theresa Hong	
-Principal
+Principal<p>
 	
 
 
-	
+</div><div>
+</div><div>
+
 
         宏文学校创建于1920年，是一所拥有超过百年历史的学校。我校一直以传承和发扬华族文化为使命，注重培养学生成为拥有正直品德与扎根于华族文化的领导。我们相信每个孩子都能行善，成为一位模范的宏文学生，为校争光。“诚、毅、勤、俭”是我们的校训，也是我们希望所有学生都拥有的美德。
 
@@ -40,4 +44,4 @@ Principal
 
 	
 伍燕玲女士	
-	校长 </p>
+	校长 
