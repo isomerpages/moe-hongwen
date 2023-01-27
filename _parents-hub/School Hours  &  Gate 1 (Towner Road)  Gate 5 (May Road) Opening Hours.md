@@ -1,8 +1,9 @@
 ---
-title: School Hours Gate 1 (Towner Road)  Gate 5 (May Road) Opening Hours
+title: School Hours  &  Gate 1 (Towner Road)  Gate 5 (May Road) Opening Hours
 permalink: /parents-hub/School-Hours-Gate-1-Towner-Road-Gate-5-May-Road-Opening-Hours/
 description: ""
 ---
+
 <img style="width:50%;height:50%" src="/images/Parents'%20Hub/School%20hours%20gate%20opening/Hong-Hong-Wen-Wen-1-300x219.png">
 
 \*All pupils are to be punctual for the daily flag-raising ceremony which begins promptly at 7.30 am.
@@ -30,15 +31,15 @@ As part of the school’s safe distancing and safe management measures, dismissa
 | Gate 1 (Towner Road) Opening Hours      |                  |
 |-----------------------------------------|------------------|
 | School Arrival & Dismissal              |                  |
-| Monday to Friday                        | 6.40am to 7.30am |
-| Monday to Friday                        | 1.25pm to 2.00pm |
+| Arrival (Monday to Friday)                        | 6.40am to 7.30am |
+| Dismissal (Monday to Friday)                        | 1.25pm to 2.00pm |
 | Sat / Sun / Public Holidays             | Gate Closed      |
 
 | Gate 5 (May Road) Opening Hours              |                  |
 |----------------------------------------------|------------------|
 | School Arrival & Dismissal                   |                  |
-| Monday to Friday                             | 6.40am to 7.30am |
-| Monday to Friday                             | 1.25pm to 2.00pm |
+| Arrival (Monday to Friday)                             | 6.40am to 7.30am |
+| Dismissal (Monday to Friday)                             | 1.25pm to 2.00pm |
 |                                              |                  |
 | **Afternoon Programme (Monday to Thursday)** |                  |
 | Monday to Thursday                           | 3.00pm to 3.25pm |

@@ -8,64 +8,41 @@ description: ""
 <div style="float: left">
 
 <img src="/images/About%20Us/Principal's%20Message/IMG_1945-1-200x300.jpg"/>
-
 </div><div>
-2021 has just gone by so quickly that my first year in Hong Wen is now a history. I have felt very much welcomed by all in the Hong Wen Family.
+	
+	
+<p>Hong Wen School, founded in 1920, is a school with more than 100 years of history and continues to grow and flourish. It offers a distinctive education with emphasis placed on Chinese culture and heritage. Our mission of nurturing our students to be leaders of upright character and rooted in the Chinese culture guides us in our purpose of educating a Hong Wen student. We are guided by our school motto of Honesty, Perseverance, Diligence and Thrift, virtues that we want all our students to have.
+	
+In educating our next generations of learners to have upright character, our students must possess the strong moral compass and live out the school's values of Respect, Responsibility, Resilience, Integrity, Compassion and Excellence in their every day lives. In an ever changing and uncertain world, these values become even more important as they guide a person to continue to do the right things in the uncertain and volatile environment. While we anchored our students in strong values and Chinese heritage, we are mindful of the need to educate our students in managing and taking responsibility in the technological world, and to have the competencies, such as critical and inventive thinking, and communication skills to help them leap forward.
+	
+The Hong Wen education is one that encompasses the five domains of  德、智、体、群、美  where through activities and programmes, we strive to build the character of our students in body and mind. Through the acquisition of knowledge, our students do their best and learn to work in teams.
+	
+It takes a village to raise a child. Hong Wen School alone cannot do all these without the support of our School Management Committee, our School Alumni, our Parents and all partners in education.
+	
+I firmly believe that Hong Wen will continue to shine with the strong support of everyone in the second century of its history.
+	
+Mrs Theresa Hong	
+Principal<p>
+	
 
 
-Let me take this opportunity to welcome our new Vice-Principal, Ms Grace Foo, to the Hong Wen Family.
+<div>
+</div><div>
 
 
-2021 has been another challenging year for all, with many programmes planned curtailed. Nonetheless, our children and teachers demonstrated the resilience to face the situations and respond to the changes with confidence. Despite the challenges and uncertainties, our children had had the opportunities to continue to learn and experience different activities in different forms and manner, and continue to have the similar enriched experiences. 
+<p>宏文学校创建于1920年，是一所拥有超过百年历史的学校。我校一直以传承和发扬华族文化为使命，注重培养学生成为拥有正直品德与扎根于华族文化的领导。我们相信每个孩子都能行善，成为一位模范的宏文学生，为校争光。“诚、毅、勤、俭”是我们的校训，也是我们希望所有学生都拥有的美德。
+
+若要教育我们的下一代具有正直的品德，他们必须先拥有正确的道德价值观。因此，我们也会时刻提醒学生在日常生活中实践学校所灌输的价值观－“尊重、尽责、坚韧、正直、关爱和卓越。”在多变和未知的将来，这些价值观变得格外重要，因为它们将指导一个人在不确定和多变的环境中继续做正确的事。
+
+此外，我们也意识到教育必须与时并进。学生得掌握先进的科技知识，并具备批判性和创造性思维、有效的沟通技巧等能力，帮助他们应付未知的将来。
+
+宏文教育是涵盖德、智、体、群、美5个领域的教育，通过各种活动，让学生的身心都得到健康的发展。学生也会学习如何与伙伴合作，培养他们的团队精神。
+
+培育下一代任重道远，还需靠多方面的配合，宏文学校若没得到管理委员会、校友、家长和其他教育合作伙伴的支持，肯定无法独自取得今日的成就。
+
+我坚信宏文学校在各方的大力支持下，将在迈向第二个世纪的道路上继续绽放光芒。
 
 	
-With the strong support of our parents and stakeholders, we will continue to work together to keep the school safe and keep the learning going with the collective efforts of all. I want to thank all parents, students and stakeholders for working with us to keep the school safe for all to learn since the pandemic started.
-
-	
-The focus for 2022 is to continue to build the character of our students, anchored on our school core values of Respect, Resilience, Responsibility, Integrity, Compassion and Excellence (R3ICE). Our actions and programmes will be very much guided by the values we want to imbue in our students so that they can be a Hong Wen Student who is 孝顺、 好学、 守礼 (Filial, Passionate in Learning, Gracious in Actions).
-
-	
-Here in Hong Wen, we remain steadfast in providing our students with a Happy, Heathy and Vibrant Learning Community and as we move forward, there will be more vibrant learning spaces done up in the school in the years to come.
-
-	
-It is my personal belief that a child will be motivated to learn if the child is instilled with the discipline and values. I will work together with my staff to journey with our stakeholders to bring out the best in every child in Hong Wen, to nurture our young to be leaders of upright character and be rooted in the Chinese culture.
-
-	
-Together, we will embark on this journey of nurturing the future generations! Let us embrace the new year with gusto and confidence that Singapore will ride through this pandemic as one nation, one people.
-
-	
-Thank you.
-
-	
-Mrs Theresa Hong
-
-Principal
-
-
-	
-2021年一转眼就过去了，不知不觉，我在宏文学校也已任职一年了。这一年里，非常感谢大家给予我的支持，让我很快就能融入宏文这个大家庭。
-
-	
-我借此机会欢迎我校的新副校长－苻云萍女士加入宏文学校。
-
-	
-2021 年对所有人来说是充满挑战的一年，许多学校里的活动因疫情而无法进行。尽管如此，我们的学生和老师都信心满满，并以坚韧不拔的精神去应对这些变化。我校在各种活动都得不断地做出调整，让学生通过不同的形式和方式参与，继续拥有丰富的学习体验。
-
-	
-在家长及各合作方的大力支持下，学生能在安全及舒适的环境下继续学习。我在此感谢大家在疫情期间所付出的努力，一同确保学校的安全。
-
-	
-2022 年的重点是继续培养学生的品德，我们将以学校的六大核心价值观－“尊重、尽责、坚韧、正直、同情和卓越”为基础来培育学生。通过课堂上的教学和学校其他的各类活动，我们会把这些价值观灌输给所有学生，希望他们能成为孝顺、好学、守礼的孩子。
-
-	
-在宏文学校，我们将坚定不移地为学生提供一个快乐、健康和充满活力的学习社区。在未来的几年里，学校将会建造更多学习空间，让学生体验更多元化的学习。
-
-	
-我个人认为，如果孩子懂得遵守纪律和拥有正确的价值观，他也同时会有学习的动力。我将与所有教职员和其他合作伙伴一起努力，让宏文的每个学生都展现最好的一面，培养他们成为正直的领袖，并扎根于中华文化。
-
-	
-我们将一起踏上培育下一代的旅程！让我们以满腔的热情和信心迎接新的一年，与疫情的抗战尚未成功，但我相信只要全民一心，新加坡一定能战胜疫情。
-
-	
-伍燕玲女士  
-校长
+<div>
+伍燕玲女士	
+	校长<p>
