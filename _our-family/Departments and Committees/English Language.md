@@ -4,6 +4,7 @@ permalink: /our-family/Departments-and-Committees/English-Language/
 description: ""
 third_nav_title: Departments and Committees
 ---
+
 ![](/images/Our%20Family/Departments%20committees/English%20language/EL-teachers.jpg)
 
 #### **Key Information**
