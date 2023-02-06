@@ -4,36 +4,36 @@ permalink: /our-family/Departments-and-Committees/Science/
 description: ""
 third_nav_title: Departments and Committees
 ---
-#### **Department Staff**
+Department Staff
+-
+<table style="border:none;border-collapse:collapse;"><colgroup><col width="234"><col width="350"></colgroup><tbody><tr style="height:20.25pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Neo Sock Khim (HOD/SC)</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Tan Li Ying Marilyn (LH/SC)</span></p></td></tr><tr style="height:20.25pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Farah Aqilah</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Michelle Tan (HOD/ Pupil Management)&nbsp;</span></p></td></tr><tr style="height:20.25pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Kow Bi Xia</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Mohd Zaifar</span></p></td></tr><tr style="height:20.25pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Chow Song Yan</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Koh Yan Li</span></p></td></tr><tr style="height:8.25pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Jennie Tham</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><br></td></tr></tbody></table>
 
+  
+  
 
-#### **Key Information**
+Key Information
+-
+##### Science Department
 
+In line with the MOE’s Science Curriculum Framework, our Science Department adopts Inquiry-based Learning as the key pedagogy to develop critical thinking skills, positive attitudes and curiosity in the teaching and learning of Science.
 
-#### **Science Department**
+  
 
-In line with the MOE’s Science Curriculum Framework, our Science Department adopts **Inquiry-based Learning** as the key pedagogy to develop critical thinking skills, positive attitudes and curiosity in the teaching and learning of Science.
+![](https://lh6.googleusercontent.com/mq-FvH4rJ7-rfwbB35ED1HQOmKNS3dLolDgWXHMZfkOJdw9th6nqGRUeLAufzhP6K5vLbUmhBcEv5uB7liIYJUi3cGToNwof_Lihm9gctt2NIJ2lL_yFAQHQomLkRvrltRjGF5Wfo2NIm1_6Q7gVW7Q)
 
-![](/images/Our%20Family/Departments%20committees/Science/P3-IBL-2_resize.jpg)
+![](https://lh5.googleusercontent.com/WXNeEbnaX6bmujqQ7EQ2-koQCop9lHV_N0Qm915FQ9JA3R7PN7Ud2faofX7DD0mNDfebvVWNP9-bbykb40u7nkRLdUxGpI3gQGsu8v2OyxbrV1BXgLEUiQJF71Dx7vvya2IfXWCqWq90h1lqeqYFu3E)
 
-![](/images/Our%20Family/Departments%20committees/Science/P3-IBL_resize.jpg)
+![](https://lh4.googleusercontent.com/rLfthBdfDnzEWcLbdBsU1WfUpk3trBjQbhfivF7nPy1fLA4YzzLySNj9Ie-c3BDZ35WQbOu_M6zcAbWicKsEIXCaY_i4xpYYIlftEPMW038w9MD4wbJ3UH1lbdFvMDEcbenhl0_F8YHuVgDIX9IhUOs)
 
-![](/images/Our%20Family/Departments%20committees/Science/P5-IBL_resize.jpg)
+Apart from day-to-day science lessons, the Science Department has also created additional resources to support inquiry-based learning in Science. This includes the Process Skills Package (PSP) and the Scientists@Work package.
 
-Apart from day-to-day science lessons that are designed using the 5E Learning Cycle, the Science Department has also created additional resources to support inquiry-based learning in Science. This includes the **_Process Skills Package_** (PSP) and the **_Scientists@Work_** package.
+  
 
-Using the PSP, pupils are taught explicitly the different types of process skills while with the _Scientists@Work_ package, pupils get to apply the process skills learnt through conducting investigations that are carried out over a period of time. This allows pupils to acquire process skills in context through first-hand experience as well as understand experimental design better.
+Using the PSP, pupils are taught explicitly the different types of process skills while with the Scientists@Work package, pupils get to apply the process skills learnt through conducting investigations that are carried out over a period of time. This allows pupils to acquire process skills in context through first-hand experience as well as understand experimental design better.
 
-For the P3 and P4 pupils, these investigations will culminate in their **_Young Innovators’ Project (YIP)_** and selected winning projects will be exhibited on Innovation Day. Through this, we hope to develop our pupils into collaborative and self-directed learners.
+  
 
-The Science Department has also designed a customised Science Journal as one of the key strategies to support Inquiry Based Learning. This **_Customised Science Journal_** provides a more structured approach for pupils to do journaling. The features in the Journal book also encourage inquiry in pupils by getting them to ask questions, and reflective thinking when they reflect on their learning. Lastly, this is a useful tool to make pupils’ thinking visible to provide feedback to teachers.
+The Science Department has also designed a customised Science Journal as one of the key strategies to support Inquiry Based Learning. This Customised Science Journal provides a more structured approach for pupils to do journaling. The features in the Journal book also encourage inquiry in pupils by getting them to ask questions, and reflective thinking when they reflect on their learning. Lastly, this is a useful tool to make pupils’ thinking visible to provide feedback to teachers.
 
-#### Young Innovators’ Project
-
-![](/images/Our%20Family/Departments%20committees/Science/P3-YIP_resized.jpg)
-
-#### Farm of Hope
-
-The **Hong Wen Farm of HOPE (Healthy Organically Produced Eco-greens)** aims to inculcate in pupils the values of responsibility and compassion. This programme is also in support of the nation’s goal in achieving 30 percent of Singapore’s nutritional needs locally by 2030. The Science Representatives and Environment Advocates are involved in looking after the organic plots at different stages of the plants’ life cycle.  The produce is shared with the school community.
-
-![](/images/Our%20Family/Departments%20committees/Science/S01.png)
+  
+**
