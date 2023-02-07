@@ -136,11 +136,11 @@ We will provide a myriad of opportunities for pupils to express themselves artis
 
 ![](https://lh5.googleusercontent.com/R764479ipiZXzG4Er0AXSkC5Lon0-ShMw1StqAf8Fs-eIDV5PVu5F3iEaKM5t7w5NWouT6bCvMb_WA0Q6SOWQg0eaqn8BBaE9QIJ5pba0tWfugGzg8lEHdVaWvzQrm0F4lL-cw7j5YtH8vMtf47l0XMjQp7fA-w3)![](https://lh6.googleusercontent.com/tMOULzhkCB5wdEKaxiq9QDsxDu6JqUu_ZX9Y2oUGvmKAUaQ8_FRlrXlDQuHVf_rKY6qLUObGaj_Re9yVFRoq-foLNqy487NO1PtSw0JjnudAWdhtJpCxTyUvgLNZo-nOu3XCnJK4ah8swoqTNmc2WSMiyidTiiaP)
 
-  
-  
+#### P6 Graduation Day Project 
+Graduation Collage displayed at the Memory Lane 
 
-#### P6 Ukulele Ensemble Performance for Graduation Day 
+![](https://lh4.googleusercontent.com/PovUPASmA0ASnBfnz2KgQc8N3m0GOZeWezeJPSe80MItmKH4xyFULMk9t3Pe8xvlHhhQSaNiz2zjkdfdPxAPSBbEADxoNTyxrb5jV-cLWC-fKq4uj7PGfbIQMg_P1gUwg0HIY9jh6MmAOxrmJDoyfcY)
 
-![](https://lh4.googleusercontent.com/b0zhj4hQJXEdJOJD87YfP7JhEJK1SWJaapSBMSOU173aCOq3xkQpTZvjSAqkb6mT-CsjTTLjvKgdPKv6WE4NsN2Ig3vzq7Vw0OPtZRavRGAYX9XFKEkKk4YHT5Cw1DVL13_9ipB0JtYa-kp0FyBTtuPyPHWgBd79)
+Song Writing Package - Our Memories by Class of 2022
 
-(Photos taken in 2019)
+
