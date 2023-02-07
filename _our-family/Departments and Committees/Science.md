@@ -11,7 +11,7 @@ third_nav_title: Departments and Committees
 
 # Key Information
 
-##### Science Department
+### Science Department
 
 In line with the MOE’s Science Curriculum Framework, our Science Department adopts Inquiry-based Learning as the key pedagogy to develop critical thinking skills, positive attitudes and curiosity in the teaching and learning of Science.
 
@@ -32,6 +32,3 @@ Using the PSP, pupils are taught explicitly the different types of process skill
   
 
 The Science Department has also designed a customised Science Journal as one of the key strategies to support Inquiry Based Learning. This Customised Science Journal provides a more structured approach for pupils to do journaling. The features in the Journal book also encourage inquiry in pupils by getting them to ask questions, and reflective thinking when they reflect on their learning. Lastly, this is a useful tool to make pupils’ thinking visible to provide feedback to teachers.
-
-  
-**
