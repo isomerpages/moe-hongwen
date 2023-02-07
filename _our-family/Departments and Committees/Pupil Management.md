@@ -4,7 +4,7 @@ permalink: /our-family/Departments-and-Committees/pupil-management/
 description: ""
 third_nav_title: Departments and Committees
 ---
-# Committee Members
+# Members of Committee
 
 **![Pupil Management Dept](https://lh5.googleusercontent.com/8-7sUVpsgNaHbIy1_rIA8JYbJorEfuRO3aqH9zBMdylv1twpuyJSuFco7VAfbDd67lwI89ANqDqKpJ10isq1HvNDpx98hwqOuCm8Aj8-mMPxRm6XCFCG35Hc4NpGDuOnv8NVCrZz6TfzjPNdRXWFEMCXNxfsccxc)**
 
@@ -21,5 +21,3 @@ Discipline guides pupils in the internalisation of values and behaviours, so tha
 ### Pastoral Care
 
 Our School Counsellor, Special Needs Officers and Allied Educator (Teaching & Learning) provide pupils with social, emotional and behavioural guidance so as to support them in their learning.
-
-
