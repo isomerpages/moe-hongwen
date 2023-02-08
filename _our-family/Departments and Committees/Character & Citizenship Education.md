@@ -43,11 +43,11 @@ National Education is part of a holistic education. It aims to develop national 
 
   
 
-##### Main programmes:
+#### Main programmes:
 
-###### Cohort Learning Journeys (CLJs)
+##### Cohort Learning Journeys (CLJs)
 
-###### Total Defence Day
+##### Total Defence Day
 
 Total Defence Day (TDD) marks the day Singapore was surrendered to the Japanese in 1942 and serves to remind us that we must not take our safety and security lightly.
 
