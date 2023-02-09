@@ -4,10 +4,6 @@ permalink: /our-family/Departments-and-Committees/ICT/
 description: ""
 third_nav_title: Departments and Committees
 ---
-
-# Members of Department
-
-
 <table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:18pt;font-family:Arial;color:#ff0000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:610px;height:414px;"><img src="https://lh3.googleusercontent.com/tbwMhDNk9mLSW4E04mrWsLmms9aGkD3SjyTaZ8zSDiy34veLxP373hLN3OJkxMeifFypiiS0ZEs4r21dakJXd6tyeH65w03hKXroiPxjjxpLA3IiAUONHwnN2SY27VgURPdMs75ul6T1sZapXfPpFA" width="610" height="611.4006447396471" style="margin-left:0px;margin-top:-25.708277234674295px;"></span></span></p></td></tr></tbody></table>
 
  <br style=“line-height:500;”>
