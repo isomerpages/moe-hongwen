@@ -4,11 +4,6 @@ permalink: /our-family/Departments-and-Committees/PE-and-Aesthetics/
 description: ""
 third_nav_title: Departments and Committees
 ---
-# Members of Department
-
-
-  
-
 ![](https://lh5.googleusercontent.com/N3tAgNXvE8jv-SA6J76THOVxeS-YwfZ4HrIQGuctp7b9ZE3n_HdZPWCh2FSzS8bxYCz8UefHiIRcX6PVsJ79eoNnYRJ9F5PdVNBgqCMy4jAjt0pHq69BgbWoElFvagNz2HOsS2nHADsi5x3Zc2m_REE)
 
  
@@ -143,5 +138,6 @@ Graduation Collage displayed at the Memory Lane 
 
 Song Writing Package - Our Memories by Class of
 2022
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WYVg0l8kRCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
