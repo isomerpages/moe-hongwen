@@ -4,16 +4,11 @@ permalink: /our-family/Departments-and-Committees/SAP/
 description: ""
 third_nav_title: Departments and Committees
 ---
-Special Assistance Plan (SAP)
-=============================
-
-特选部
+# 特选部
 
   
 
 ![](https://lh6.googleusercontent.com/R17O9n7-v0xB5au71m22Noh56SFhi5OgJXg_-UfYpcdvrSvazdeCRH1UFtXd46afaZM5IIOJ3-K5XVbb2d4Q_61V_rkONz3EkAMQhGvhNAL8ZK1lNPjLRPsJZGtextYucSCK6EEGxX2ZiGYLTQt6r3I)
-
-# 部门成员 (Members of Department)
 
 陈雅云师（部门主任）
 
