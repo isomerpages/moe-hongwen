@@ -26,7 +26,7 @@ sections:
       button: read
       alt: Image alt text
       url: /National-Chinese-Calligraphy-2022/
-      image: /images/Homepage/Updated_Website.jpg
+      image: /images/Homepage/2023_National Chinese Calli_Landing Page.jpg
       subtitle: Upcoming events
   - infopic:
       button: Read More
