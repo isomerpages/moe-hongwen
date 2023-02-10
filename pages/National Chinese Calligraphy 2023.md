@@ -1,11 +1,13 @@
 ---
-title: National Chinese Calligraphy 2022
+title: National Chinese Calligraphy 2023
 permalink: /National-Chinese-Calligraphy-2022/
 description: ""
 ---
-![](/images/Homepage/Updated_Website.jpg)
 
-2022 年全国小学生挥春比赛成绩
+![About National Chinese Calligraphy Competition 2023](/images/Homepage/2023_National%20Chinese%20Calli_Read%20More.jpg)
+
+
+2023 年全国小学生挥春比赛成绩
 
 宏文学校联合校友会举办的2022年全国小学生挥春比赛一共吸引了约527人报名参赛。由衷感谢各校学生踊跃参赛，在此恭喜所有得奖者！
 
