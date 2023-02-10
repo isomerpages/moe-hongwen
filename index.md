@@ -79,10 +79,4 @@ sections:
       url: /about-us/School-Achievements/
       image: /images/Homepage/SDA-BPAs-w-White-Background-2.jpg
       subtitle: Hong Wen Awards
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
