@@ -73,7 +73,8 @@ Recess Activities – Porridge Rationing and Activity Stations
 
   
 
- ##### International Friendship Day
+##### International Friendship Day
+ 
 
 This is a day dedicated to the understanding of Singapore’s relations with its neighbours, and aims to nurture in students the spirit of friendship and collaboration among different people.
 
