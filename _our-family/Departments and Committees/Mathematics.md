@@ -6,6 +6,7 @@ third_nav_title: Departments and Committees
 ---
 ![](https://lh6.googleusercontent.com/YBYtUSP70F4JRZF5CxfZAe2jIuv535ufTT67Oc8xw9QkAnoDTd8X9ono378YaZzB6FVGD7ti5HaBgE5gOKYxACF5ogBwjUnXeAYYEnfdiCjJt75Kl8KcjibWemdyW4yeZcPLL5JtUUvyS0PAwy4JWjA)
 
+# Members of Department
   
 
 <table style="border:none;border-collapse:collapse;"><colgroup><col width="300"><col width="326"></colgroup><tbody><tr style="height:20.25pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Benny Ng (HOD / Maths)</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Kenny Lew (SH-ICT)</span></p></td></tr><tr style="height:20.25pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Chiam Heng Chek (ST)</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Ling In Kee</span></p></td></tr><tr style="height:20.25pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Siti Nur Kamaliah (LSM)</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Irni Yusnita</span></p></td></tr><tr style="height:20.25pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Shirley Koh (LSM)</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Teo Gek Hong&nbsp;</span></p></td></tr><tr style="height:20.25pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Toh Wei</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Kua-Tang Yoke Teng</span></p></td></tr><tr style="height:20.25pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Chung Xingyi</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Jason Tan</span></p></td></tr><tr style="height:20.25pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Joanna Khong</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Irni Yusnita&nbsp;</span></p></td></tr></tbody></table>
@@ -18,8 +19,8 @@ third_nav_title: Departments and Committees
   
   
 
-Key Information
----------------
+## Key Information
+
 
   
 
@@ -63,7 +64,7 @@ In Hong Wen School, students learn Mathematical concepts and skills through the 
   
   
 
-P5 Mathaquarium
+#### P5 Mathaquarium
 
 ![math-aquarium](https://lh6.googleusercontent.com/o_wRUobuSaq0c4lNzSAAgVvdH5QUQqo9hDRGoQml0sky2JP7S2KN5ewSO_Fb_-h7KDGifY2cF6sT5VQVNEOFUkpJzy1C4xSWhPtFUiz-Q6iXTpM96ev9XUTcHuD1boz5JlwpOm2Uw-ABxl6TRsbY3deYZ6VFTWK8)
 
@@ -79,7 +80,7 @@ The objective of the programme is for all Primary 5 students to work in groups a
   
   
 
-P5   4-in-1 Maths Cards (created by HWS teachers)
+#### P5 4-in-1 Maths Cards (created by HWS teachers)
 
   
 
@@ -94,19 +95,19 @@ Games such as the in-house created 4-in-1 Maths Cards  are used to enhance teac
 
   
 
-Factual Fluency
+#### Factual Fluency
 
 Our students go through daily exercises to build their factual fluency, including but not limited to their number bonds from 1 to 20, and multiplication facts.  Having good factual fluency builds students’ confidence and  contributes to their ability to solve mathematical problems.  
 
   
 
-Math Olympiad Participation 
+#### Math Olympiad Participation 
 
   
 
 Students who have shown good aptitude in Mathematics are invited to participate in Math Olympiad Competitions held by MOE schools to stretch their potential further.
 
-School-Based Programmes infusing Mathematics
+#### School-Based Programmes infusing Mathematics
 
   
 
@@ -115,8 +116,8 @@ Our P1-P5 students get to apply and see relevance in the Mathematics concepts le
   
   
 
-Useful Links
-------------
+### Useful Links
+
 
 [https://www.mathplayground.com/](https://www.mathplayground.com/)
 
