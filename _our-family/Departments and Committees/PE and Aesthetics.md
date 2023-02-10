@@ -119,12 +119,10 @@ We will provide a myriad of opportunities for pupils to express themselves artis
   
 
 #### P3 Food Art
+<br style=“line-height:500;”>
+<table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col><col><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:189px;height:252px;"><img src="https://lh6.googleusercontent.com/7LkVieoPmdvjkKX512RX3eRsa8fqh-phIpBNrm9izYlJst-xngt74_vOMy0g-weJKjacbzJfhSEKTXRZUb0x1dUYeS9t7FPyYnl-cUKqA2Oux4LBl7-IC_29Dvb-Cs4Ox1Qb7f6CMzDWrnoNNKCtyS-kWCjQfmkS" width="189" height="252" style="margin-left:0px;margin-top:0px;"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:190px;height:254px;"><img src="https://lh6.googleusercontent.com/q06hiwEWlJPI5ebjUJ4vsPccosc71ewo8Mf4VbhnDZTMJ3HIv3-re6bUJO7jYQwNc0Xl572aRxxYMoINSbksLDNkJ3tQUwLyS1-wamFBYl45oeatoi0uxtm7ApmeE-vpxI2p0YcKvRcjEA6n0R0GCvkixo3R_Bmp" width="190" height="254" style="margin-left:0px;margin-top:0px;"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:193px;height:257px;"><img src="https://lh4.googleusercontent.com/1Ivu7QaK3eiyS7JHSpNu4HEUKjgulI5dK3je3Xd89vSySUx9J8TtFmlfLNne1UeiCaIEPHANlriHkCI49TunHuE22iSMBrgao9nwq42EtwDYSIt2YvvwPjBrHDr65ztNJywkQ9IbpgZjdq5W1Q9ktMMnwZAZj8WO" width="193" height="257" style="margin-left:0px;margin-top:0px;"></span></span></p></td></tr></tbody></table>
 
-![](https://lh3.googleusercontent.com/BNXDd2oZ4OEd_wWuyyaKxpiu4oJQKwLgJpI1x0CQL8h5oSa42Hpdy0iAf5NE2pgn-IVmZw1yGjxX1Lz_Y94F-W7C5OCrMff_aysMCdHAoWivWAS-B_7LLWfIOhZKyJOEMi2iNFAWwnaUZQkcQIDt_YNPlLl_eJwz)![](https://lh5.googleusercontent.com/wKmTjbRyYLY6S_VQGDO5nQGiiOHVkXh9E6Rt8Ebvtwp2-yUpum6gH4-pj_oULJqK7NH5m5nkatxlPbxVO5w-Ro_fyKbYD1FtjTdcuPxVRF8JHXSsjJ3t5WMZdtp7THAYF3HKVlDICmC4bmlo8sWLai_EfJ83pV-J)![](https://lh4.googleusercontent.com/6uHfQgLVZjjwOwebkS0CLieU8atDN0U1Lya5aFc2G70WYW1sAkZE8ejNEH1CWAA8oy7kITrsPa_YmtD-sHuufpoRey3KlH83ZhRPPcaiK0cPgFmq3U9cit1IUxZJhgTPRTPQ3ErkIJ-FaQ1N-ludeCjPnOJvOuQx)
-
-  
-  
-
+ 
 #### P4 Museum-Based Learning @ National Gallery Singapore
 
   
@@ -139,5 +137,4 @@ Graduation Collage displayed at the Memory Lane 
 Song Writing Package - Our Memories by Class of
 2022
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WYVg0l8kRCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0gy7RJrq05Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
