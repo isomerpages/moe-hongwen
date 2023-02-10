@@ -9,18 +9,18 @@ sections:
   - hero:
       background: /images/Homepage/HWS_Sch_Motto_resized_200123.jpg
       key_highlights:
-        - title: Like our Instagram Page
-          description: ""
-          url: https://www.instagram.com/hongwenschool_official/
-        - title: Join our Parent Support Group
-          description: ""
-          url: https://www.hongwen.moe.edu.sg/parents-hub/Parents-Support-Group/
         - title: Our Enduring Legacy
           description: ""
           url: https://www.hongwen.moe.edu.sg/about-us/School-Corporate-Videos/
         - title: Hong Wen conferred awards
           description: ""
           url: https://www.hongwen.moe.edu.sg/about-us/School-Achievements/
+        - title: Join our Parent Support Group
+          description: ""
+          url: https://www.hongwen.moe.edu.sg/parents-hub/Parents-Support-Group/
+        - title: Like our Instagram Page
+          description: ""
+          url: https://www.instagram.com/hongwenschool_official/
   - infopic:
       title: Special Assistance Plan (SAP)
       description: Chinese Cultural Programme (CCP) is our school’s SAP flagship programme.
