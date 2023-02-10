@@ -4,11 +4,6 @@ permalink: /our-family/Departments-and-Committees/Chinese-Language/
 description: ""
 third_nav_title: Departments and Committees
 ---
-部门成员 (Department Staff)
-=======================
-
-  
-
 ![华文部门](https://lh5.googleusercontent.com/iDToBR1wWSbFL48mNrJpIBG570JKeD2C8cCiuY9tPmkHzJqQjVL_S0lCJQndmYPDnjc9VNdHnqFvV_A1cfg2eEQhxXOPmh4TMIjBfn4RGfYZ6CH8o2wM2DlPmJgZ_z009o4ArkYmRm_4TRoh06tgv8NnPpY5iF68)
 
   
@@ -18,7 +13,7 @@ third_nav_title: Departments and Committees
   
   
 
-我们的课程 (Key Information)
+## 我们的课程 (Key Information)
 
   
 
@@ -62,7 +57,3 @@ Leveraging on inter-departmental collaboration and community partnerships, the s
   
 
 <table style="border:none;border-collapse:collapse;"><colgroup><col width="295"><col width="295"></colgroup><tbody><tr style="height:24pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">知识网</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">http://www.ezhishi.net/</span></p></td></tr><tr style="height:24pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">早报校园 / 大拇指</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">https://zbschools.sg/&nbsp;</span></p></td></tr><tr style="height:24pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2020-2021年小学课外读物推荐书单</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">https://www.cpcll.sg/resources/reading-group</span></p></td></tr><tr style="height:24pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">受新加坡考评局批准使用的词典列表</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">https://www.seab.gov.sg/home/examinations/approved-dictionaries</span></p></td></tr></tbody></table>
-
-  
-  
-**

@@ -4,41 +4,18 @@ permalink: /our-family/Departments-and-Committees/SAP/
 description: ""
 third_nav_title: Departments and Committees
 ---
-Special Assistance Plan (SAP)
-=============================
-
-特选部
+# 特选部
 
   
 
 ![](https://lh6.googleusercontent.com/R17O9n7-v0xB5au71m22Noh56SFhi5OgJXg_-UfYpcdvrSvazdeCRH1UFtXd46afaZM5IIOJ3-K5XVbb2d4Q_61V_rkONz3EkAMQhGvhNAL8ZK1lNPjLRPsJZGtextYucSCK6EEGxX2ZiGYLTQt6r3I)
 
-陈雅云师（部门主任）
 
-叶诗莹师（科主任）
-
-陈盈秀师
-
-黄丽莲师
-
-黄胤杰师
-
-江子龙师
-
-李青松师
-
-李巧兰师
-
-李尤如师
-
-许清惠师
-
-张弘师
+<table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">陈雅云师（部门主任）</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">叶诗莹师（科主任）</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">陈盈秀师</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">黄丽莲师</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">黄胤杰师</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">江子龙师</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">李青松师</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">李巧兰师</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">李尤如师</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">许清惠师</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">张弘师</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><br></td></tr></tbody></table>
 
   
-  
 
-愿景：
+## 愿景：
 
   
 
@@ -57,7 +34,7 @@ Special Assistance Plan (SAP)
   
   
 
-各年级华族文化课程内容如下：
+### 各年级华族文化课程内容如下：
 
   
 
@@ -76,7 +53,7 @@ Special Assistance Plan (SAP)
 
   
 
-华族文化大使培训计划
+### 华族文化大使培训计划
 
   
 
@@ -96,7 +73,7 @@ Special Assistance Plan (SAP)
 
   
 
-国际交流活动
+## 国际交流活动
 
   
 
@@ -109,7 +86,7 @@ Special Assistance Plan (SAP)
   
   
 
-校内外活动
+### 校内外活动
 
   
 
@@ -130,7 +107,7 @@ Special Assistance Plan (SAP)
   
   
 
-品德教育美展
+### 品德教育美展
 
 以美术熏陶，以品德展现！
 
