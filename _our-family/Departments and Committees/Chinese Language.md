@@ -4,11 +4,6 @@ permalink: /our-family/Departments-and-Committees/Chinese-Language/
 description: ""
 third_nav_title: Departments and Committees
 ---
-# 部门成员 (Members of Department)
-
-
-  
-
 ![华文部门](https://lh5.googleusercontent.com/iDToBR1wWSbFL48mNrJpIBG570JKeD2C8cCiuY9tPmkHzJqQjVL_S0lCJQndmYPDnjc9VNdHnqFvV_A1cfg2eEQhxXOPmh4TMIjBfn4RGfYZ6CH8o2wM2DlPmJgZ_z009o4ArkYmRm_4TRoh06tgv8NnPpY5iF68)
 
   
