@@ -89,7 +89,7 @@ Recess Activities for International Friendship Day
 
   
 
-###### Racial Harmony Day
+##### Racial Harmony Day
 
 Schools commemorate Racial Harmony Day on 21st July. On this day in 1964, Singapore saw racial riots. Racial Harmony Day serves to remind our pupils that social division costs us dearly and that race and religion are potential fault-lines in Singapore society. It is a day for schools to reflect on, and celebrate our success as a harmonious nation and society built on a rich diversity of cultures and heritages.
 
@@ -116,7 +116,7 @@ Students learning about Kompang![](https://lh5.googleusercontent.com/u1PNp8_GTu3
   
 ![](https://lh4.googleusercontent.com/F8rdTfd97OWycfV6CNrowQVfvU2ig_irbGQ8F0kqx4_z7CWQXlUd7fqrbUIysDf2AIXeXP6o81n1PlXfHxiAdfAb1AwcRydLDOeDRULMh4LnU15wEuYCBhUSxT7IJvds2le8xlXEmsDth1JhR0I8xLw)
 
-###### National Day
+##### National Day
 
   
 
@@ -218,5 +218,4 @@ Pupils who display good behaviours consistently are eligible for the following a
 * Hong Wen STAR Pupil Award
 
   
-
-\*Note: All photos shown here were taken during pre-Covid times.
+*Note: All photos shown here were taken during pre-Covid times.
