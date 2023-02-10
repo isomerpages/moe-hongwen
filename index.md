@@ -22,12 +22,12 @@ sections:
           description: ""
           url: https://www.instagram.com/hongwenschool_official/
   - infopic:
-      title: Special Assistance Plan (SAP)
       description: Chinese Cultural Programme (CCP) is our school’s SAP flagship programme.
       button: Read More
       alt: Image alt text
       image: /images/Homepage/H01.png
       url: /school-calendar-and-programme/Signature-Programmes/Special-Assistance-Plan-SAP/
+      subtitle: Special Assistance Plan (SAP)
   - infopic:
       title: Learning for Life (Sports and Outdoor Education)
       description: "The theme of our school's Learning for Life Programme (Sports and
