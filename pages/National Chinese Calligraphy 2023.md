@@ -3,7 +3,7 @@ title: National Chinese Calligraphy 2023
 permalink: /National-Chinese-Calligraphy-2022/
 description: ""
 ---
-![About National Chinese Calligraphy Competition 2023](/images/Homepage/2023_National%20Chinese%20Calli_Read%20More.jpg)
+![Results of 2023 National Calligraphy Competition](/images/Special%20Assistance%20Plan%202/HWScalligraphy%20website.jpg)
 
 
 2023年全国小学生挥春比赛
