@@ -22,7 +22,7 @@ sections:
           description: ""
           url: https://www.instagram.com/hongwenschool_official/
   - infopic:
-      title: National Chinese Calligraphy Competition 2023
+      title: Results of National Chinese Calligraphy Competition 2023
       button: read
       alt: Image alt text
       url: /National-Chinese-Calligraphy-2022/
