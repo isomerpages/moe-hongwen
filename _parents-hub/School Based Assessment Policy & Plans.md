@@ -31,9 +31,12 @@ description: ""
 ##### **2023 Examination Timetable & Scope of Assessment**
 
 
-**Examination Timetable**
-*To be updated later*
+**Weighted Assessment (2) Schedule and Scope of Assessment**
+[2023 P3 WA2 Schedule and Scope of Assessment](/files/Parents'%20Hub/School%20Based%20assessment%20policy/2023%20wa2%20p3%20schedule_and_scope_of_assessment.pdf)
 
+[2023 P4 WA2 Schedule and Scope of Assessment](/files/Parents'%20Hub/School%20Based%20assessment%20policy/2023%20wa2%20p4%20schedule_and_scope_of_assessment.pdf)
 
-**Scope of Assessment**
-*To be updated later*
+[2023 P5 WA2 Schedule and Scope of Assessment](/files/Parents'%20Hub/School%20Based%20assessment%20policy/2023%20wa2%20p5%20schedule_and_scope_of_assessment.pdf)
+
+[2023 P6 WA2 Schedule and Scope of Assessment](/files/Parents'%20Hub/School%20Based%20assessment%20policy/2023%20wa2%20p6%20schedule_and_scope_of_assessment.pdf)
+
