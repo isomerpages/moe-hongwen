@@ -36,11 +36,6 @@ description: ""
 
 \* Contact Person: Mdm Sally Tan [\[AK(3\]](#_msocom_3)&nbsp;
 
-\*\*How to get there?\*\*
-
-\* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-
-\* Bus number: 900 - 3 minutes walking distance
 
 \*\*Interest applicants must meet the following criteria:\*\*
 
