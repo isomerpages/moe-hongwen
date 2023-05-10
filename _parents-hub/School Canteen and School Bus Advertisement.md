@@ -28,13 +28,13 @@ description: ""
 
 3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-\* Address: xxxx S737777
+\* Address: 30 TOWNER ROAD 327829
 
-\* Contact No: 6666 4444
+\* Contact No: 62943340
 
-\* Email: abc\_ps@moe.edu.sg
+\* Email: hws@moe.edu.sg
 
-\* Contact Person: Mdm Sally Tan [\[AK(3\]](#_msocom_3)&nbsp;
+\* Contact Person: Mr Mohammed Fauzi Rahman
 
 
 \*\*Interest applicants must meet the following criteria:\*\*
