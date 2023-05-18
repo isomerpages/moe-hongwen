@@ -55,16 +55,9 @@ description: ""
 
 \* Possess catering experience or experience operating in a school environment.
 
-\* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).[\[AK(4\]](#_msocom_4)&nbsp;
+\* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA)
 
 \*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.\*
 
 * * *
 
-&nbsp;[\[AK(1\]](#_msoanchor_1)Advertisements. School to update their advertisements
-
-&nbsp;[\[AK(2\]](#_msoanchor_2)Insert attachment here
-
-&nbsp;[\[AK(3\]](#_msoanchor_3)School to update their address and details
-
-&nbsp;[\[AK(4\]](#_msoanchor_4)School to add any other requirements they require
