@@ -16,7 +16,7 @@ description: ""
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-\* \[Application Form\](/files/Parents'%20Hub/Sch%20Canteen%20and%20Sch%20Bus%20Advert/Canteen_appexistingsch.pdf)
+[Application Form](/files/Parents'%20Hub/Sch%20Canteen%20and%20Sch%20Bus%20Advert/canteen_appexistingsch.pdf)
 
 2\. Attached the following documents together with the application form:
 
