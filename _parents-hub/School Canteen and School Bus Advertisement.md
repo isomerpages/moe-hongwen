@@ -3,11 +3,11 @@ title: School Canteen and School Bus Advertisement
 permalink: /parents-hub/school-canteen-bus-advertisement/
 description: ""
 ---
-\#### School Canteen Advertisement
+**School Canteen Advertisement**
 
-| Type of Stall | Closing Date | Requirements |
+| Type of Stall     | Closing Date | Requirements |
 
-| ------------- | ------------- | -------------- |
+| -------------     | ------------- | -------------- |
 
 
 |HALAL CUISINE | 19 May 2023 | Rice or noodle stalls are acceptable.|
