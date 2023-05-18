@@ -16,7 +16,7 @@ description: ""
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-\* \[Application Form\][\[AK(2\]](#_msocom_2)&nbsp;
+\* \[Application Form\](/files/Parents'%20Hub/school%20canteen%20bus%20advertisement/appexistingsch.pdf)
 
 2\. Attached the following documents together with the application form:
 
