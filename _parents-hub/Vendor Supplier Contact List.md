@@ -51,4 +51,4 @@ Email: [hongwen@littleprofessors.com.sg](mailto:hongwen@littleprofessors.com.sg
 **Application Form**  
 [Application Form Canteen]
 (/files/Parents'%20Hub/Vendorsupplier%20contact%20list/CanteenAppExistingSch.pdf)
-
+[Canteen Advert](/files/Parents'%20Hub/Vendorsupplier%20contact%20list/canteenappexistingsch.pdf)
