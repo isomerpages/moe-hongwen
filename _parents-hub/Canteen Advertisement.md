@@ -5,9 +5,9 @@ description: ""
 ---
 **School Canteen Advertisement**
 
-| Type of Stall     | Closing Date | Requirements |
+| Type of Stall                  | Closing Date       | Requirements       |
 
-| -------------     | ------------- | -------------- |
+| --------------------     | ----------------- | -------------------|
 
 
 |HALAL CUISINE | 19 May 2023 | Rice or noodle stalls are acceptable.|
@@ -60,4 +60,3 @@ description: ""
 \*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.\*
 
 * * *
-
