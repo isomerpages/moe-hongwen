@@ -15,6 +15,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 1.      [Call for Proposal]
 (/files/Parents'%20Hub/Vendorsupplier%20contact%20list/call_for_proposal.pdf) 
+[Call for Proposal](/files/Parents'%20Hub/Sch%20Canteen%20and%20Sch%20Bus%20Advert/canteen_appexistingsch.pdf)
 
 2.       
 
