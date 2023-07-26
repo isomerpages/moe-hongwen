@@ -9,7 +9,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Service Requirements**
 
-1. [Call for Proposal](/files/Parents'%20Hub/Sch%20Canteen%20and%20Sch%20Bus%20Advert/call_for_proposal.pdf)
+1\. [Call for Proposal](/files/Parents'%20Hub/Sch%20Canteen%20and%20Sch%20Bus%20Advert/call_for_proposal.pdf)
 
 2\. [Agree for Appointment of School Bus Operator](/files/Parents'%20Hub/Sch%20Canteen%20and%20Sch%20Bus%20Advert/agreement_for_appointment_of_school_bus_operator_annex_b.pdf)
 
@@ -34,5 +34,3 @@ To apply, please refer to the Service Requirements and the Application Procedure
 * Nearest MRT: Boon Keng MRT (NE9 line) – 15 minutes walking distance
 
 * Bus number: 21, 139 - 5 minutes walking distance
-
-
