@@ -17,8 +17,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Application Procedure**
 
-1\. Complete the 
-[Call for Proposal - Annex A](/files/Parents'%20Hub/Sch%20Canteen%20and%20Sch%20Bus%20Advert/%2FBus/Call_for_Proposal_Annex_A.pdf)
+1\. Complete the [Call for Proposal - Annex A](/files/Parents'%20Hub/Sch%20Canteen%20and%20Sch%20Bus%20Advert/call_for_proposal_annex_a_ok.pdf)
 
 2\. Submit the completed Call for Proposal – Annex A by closing date, 7 August 2023 @ 4pm, to the School’s General Office.
 
@@ -35,4 +34,5 @@ To apply, please refer to the Service Requirements and the Application Procedure
 * Nearest MRT: Boon Keng MRT (NE9 line) – 15 minutes walking distance
 
 * Bus number: 21, 139 - 5 minutes walking distance
+
 
