@@ -4,7 +4,7 @@ permalink: /our-family/Departments-and-Committees/Chinese-Language/
 description: ""
 third_nav_title: Departments and Committees
 ---
-![华文部门](https://lh5.googleusercontent.com/iDToBR1wWSbFL48mNrJpIBG570JKeD2C8cCiuY9tPmkHzJqQjVL_S0lCJQndmYPDnjc9VNdHnqFvV_A1cfg2eEQhxXOPmh4TMIjBfn4RGfYZ6CH8o2wM2DlPmJgZ_z009o4ArkYmRm_4TRoh06tgv8NnPpY5iF68)
+**![](https://lh4.googleusercontent.com/kmRF3eMduOujlHBOBikCQDtb920Tt21qfQrj9mXxnMsCvE_n2Mw42Trhk2E2G4cdHEc9tuRlyXkSmI39UVbOlbPIEXdlTLzZ6Qh8NzmEVXDKAgS58KxmvtrOa3Ikkd-jbnKC1RzgTY1PqGsoBss03J0)**
 
   
 
@@ -19,7 +19,7 @@ third_nav_title: Departments and Committees
 
 ![](https://lh6.googleusercontent.com/0hvk_fQig4gQTycyJi5l0jYK3CQLnpxG8GF-vkvO8KS3fXUuuToL3QogXYNnohNmM0P99B6gFO3ML-EE4mDV0G5aXYaHVf1uwx3zadGdzWfJ2wq25YL_9upqPqCE_AcvzSYhFS8srM5xg8c1KULUrqkONBD55RW1)
 
-“乐学华文@宏文” 华文华语与文化双周 
+“乐学华文@宏文” 华文华语与文化双周&nbsp;
 
   
 
@@ -31,7 +31,7 @@ third_nav_title: Departments and Committees
 
 Chinese Language and Cultural Fortnight
 
-To promote the acquisition of Chinese language learning and raise cultural awareness, Hong Wen School has infused a strong cultural element into the annual MTL Fortnight and re-positioned it as the school’s ‘Chinese Language & Cultural Fortnight’ (CLC Fortnight). A specific theme anchors the fortnight of activities with the objectives of motivating students in language acquisition and deepening their awareness of the Chinese culture. 
+To promote the acquisition of Chinese language learning and raise cultural awareness, Hong Wen School has infused a strong cultural element into the annual MTL Fortnight and re-positioned it as the school’s ‘Chinese Language &amp; Cultural Fortnight’ (CLC Fortnight). A specific theme anchors the fortnight of activities with the objectives of motivating students in language acquisition and deepening their awareness of the Chinese culture.&nbsp;
 
 Leveraging on inter-departmental collaboration and community partnerships, the school puts up a comprehensive and well-curated programme for students, which includes assembly activities and cultural camps. One of the highlights is the Recess Carnival, where students reinforce their language competencies and raise their cultural awareness through purposeful play. As the students make meaning out of these experiences, they become more confident and self-directed in the learning of language and culture.
 

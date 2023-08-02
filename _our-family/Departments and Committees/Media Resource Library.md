@@ -4,7 +4,7 @@ permalink: /our-family/Departments-and-Committees/Media-Resource-Library/
 description: ""
 third_nav_title: Departments and Committees
 ---
-![media-resource-library-committee](https://lh6.googleusercontent.com/QExheir2bWxNHmtVNGf4seGeqNP7wXBq8JmqNJaxL-2KwWZ6k_p7wksHfe5xcYLyCm8TTBgIW9cka1jRR97fae_VbWSIjmE0gGcN70qpfRb6BcuZMTQROYcak62ziP1zhCI6wB1onxgNf7nrgbPChVF5vVlhraRr)
+**![](https://lh3.googleusercontent.com/5T7g7wP0tw_iuU_JwXlwmBWs5Xo--iLNhnMz7SOBpWtDZSdUitbownaR-jskQsDXgKm4v5pRGwyjMltPsi6o9RmGeS9rkV02oxk8nAYDPrsHpUxJf032p8QVrMoblrqUdfk_iOx8U4V7BSpaRY2aDD0)**
 
 
 <table style="border:none;border-collapse:collapse;"><colgroup><col width="284"><col width="298"></colgroup><tbody><tr style="height:21.75pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Maslita Suhadi&nbsp; (LH / EL )</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Winnie Su</span></p></td></tr><tr style="height:21.75pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Yasminebehom Thennarasu</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Ling Moi Lang</span></p></td></tr><tr style="height:21.75pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Joanna Khong</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Teo Li Lian</span></p></td></tr></tbody></table>
@@ -17,7 +17,7 @@ third_nav_title: Departments and Committees
 
   
 
-The School Library Committee’s key focus is to promote a reading culture amongst pupils and staff. With the variety of programmes for pupils to engage in, it hopes to instil in pupils the joy for reading and develop individuals into independent and strong bilingual readers. 
+The School Library Committee’s key focus is to promote a reading culture amongst pupils and staff. With the variety of programmes for pupils to engage in, it hopes to instil in pupils the joy for reading and develop individuals into independent and strong bilingual readers.&nbsp;
 
   
   
@@ -73,7 +73,7 @@ NLB e-resources site:
 
   
 
-Libby: 
+Libby:&nbsp;
 
 [libbyapp.com](http://libbyapp.com)
 
