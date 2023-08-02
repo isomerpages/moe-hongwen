@@ -22,4 +22,5 @@ third_nav_title: Departments and Committees
 
 我们的应用学习项目希望学生成为拥有思考能力、好奇心与同理心的终身学习者，努力实践并且积极应用知识与技能为社会创造价值。
 
-**
+**Applied Learning Programme**
+
