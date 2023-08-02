@@ -44,5 +44,6 @@ As students embark on the inventive and critical thinking process of ideating an
 
 **Learning Disposition of Empathy**               
 With the focus on real-world concerns on sustainability and the lack of resources, students learn to care for the environment (empathy) and explore ways to change habits to reduce environment. 
+
 At the end of the six years education with HWS, we envision our students to be:
 
