@@ -33,10 +33,11 @@ The Applied Learning Programme (ALP) in Hong Wen School focuses on developing In
 
 In support of the Singapore Green Plan 2030, Hong Wen School will imbue in our students the responsibility to do their part in building a sustainable future through the ALP. Students will get a chance to delve deeper in areas of environmental sustainability and innovation.
 
-**Objectives of HWS ALP**                                 
+**Objectives of HWS ALP**   
+![](/images/Our%20Family/Departments%20committees/Applied%20Learning%20Programme_ALP/alp_02.JPG)
 To design effective learning experiences, the school will adopt the Modified Design Thinking (MDT) to develop the 21st CC and learning dispositions in our students. MDT supports a climate of inquiry where students are responsible for their own learning, going through the different phases to pose questions, investigate and apply knowledge and skills to real-world issues. It also increases the opportunities for collaboration and provides multiple instances for meaningful feedback from teacher and peers.
 
-
+![](/images/Our%20Family/Departments%20committees/Applied%20Learning%20Programme_ALP/alp_03.JPG)
 To nurture our students to learn for life and possess the intrinsic motivation to apply these relevant 21st CC to real world issues, the ALP will focus on developing two core dispositions in our students:
 
 **Learning Disposition of Thinking and Curiosity**  
@@ -44,7 +45,7 @@ As students embark on the inventive and critical thinking process of ideating an
 
 **Learning Disposition of Empathy**               
 With the focus on real-world concerns on sustainability and the lack of resources, students learn to care for the environment (empathy) and explore ways to change habits to reduce environment. 
-
+![](/images/Our%20Family/Departments%20committees/Applied%20Learning%20Programme_ALP/alp_04.jpg)
 At the end of the six years education with HWS, we envision our students to be:
 
    
