@@ -47,3 +47,5 @@ As students embark on the inventive and critical thinking process of ideating an
 With the focus on real-world concerns on sustainability and the lack of resources, students learn to care for the environment (empathy) and explore ways to change habits to reduce environment. 
 ![](/images/Our%20Family/Departments%20committees/Applied%20Learning%20Programme_ALP/alp_04.jpg)
 At the end of the six years education with HWS, we envision our students to be:
+
+![](/images/Our%20Family/Departments%20committees/Applied%20Learning%20Programme_ALP/alp_table.jpg)
