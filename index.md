@@ -22,7 +22,6 @@ sections:
           description: ""
           url: https://www.instagram.com/hongwenschool_official/
   - infopic:
-      title: Results of National Chinese Calligraphy Competition 2023
       button: read
       alt: Image alt text
       url: /National-Chinese-Calligraphy-2022/
@@ -36,7 +35,7 @@ sections:
       subtitle: Special Assistance Plan (SAP)
       title: Chinese Cultural Programme (CCP)
   - infopic:
-      title: "Sports & Outdoor Education "
+      title: Sports & Outdoor Education
       button: Read more
       alt: Image alt text
       url: /school-calendar-and-programme/Signature-Programmes/Learning-for-Life-Sports-and-Outdoor-Education/
