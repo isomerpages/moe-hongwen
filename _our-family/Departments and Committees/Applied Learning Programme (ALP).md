@@ -83,5 +83,4 @@ At the end of the six years education with HWS, we envision our students to be:
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoBodyText" style="margin-right:11.4pt;text-align:justify;
   text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;
-	![](/images/Our%20Family/Departments%20committees/Applied%20Learning%20Programme_ALP/alp_07.jpg)
 </span></p></td></tr></tbody></table>
