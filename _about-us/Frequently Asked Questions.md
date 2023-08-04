@@ -128,15 +128,19 @@ The following are the official platforms for communication with parents:
     
 
   
-Parents can refer to the monthly Information Sheet available under [‘2023 Information Sheet for Parents’](https://www.hongwen.moe.edu.sg/parents-hub/2022-Information-Sheet-for-Parents/) on the school website.**
+Parents can refer to the monthly Information Sheet available under [‘2023 Information Sheet for Parents’](https://www.hongwen.moe.edu.sg/parents-hub/2022-Information-Sheet-for-Parents/) on the school website.
 
 <a id="f2" name="f2">**Parents Gateway**</a>
 
+Parents Gateway is a mobile app for parents, available on iOS and Android devices. Through Parents Gateway, parents are updated of the school’s programmes and may provide consent for their children to participate in school activities. More information on Parents Gateway and how to install the mobile application can be found under [‘Parent Gateway Mobile App’](https://www.hongwen.moe.edu.sg/parents-hub/Parents-Gateway-Mobile-App/) on the school website.
 
 <a id="3" name="f3">**Communication with Teachers**</a>
 
+Parents/guardians are encouraged to contact the teachers directly via email. The teachers’ contact may be found under [‘Our Family - Staff’](https://www.hongwen.moe.edu.sg/our-family/Staff/) on the school website.
+
 <a id="f4" name="f4">**Signing up as Parent Volunteer**</a>
 
+Information on Parent Volunteers may be found under [‘Parents’ Hub – Parent Volunteer’](https://www.hongwen.moe.edu.sg/parents-hub/Parent-Volunteer-2023-Primary-1-Registration-Exercise-for-Admission/) on the school website.
 
 
-
+<hr>
