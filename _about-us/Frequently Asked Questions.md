@@ -78,6 +78,24 @@ The General Office is closed on weekends and public holidays.
 
 #### Recess, Lunch and Take 5
 
+<a id="b1" name="b1">**Recess Timings**</a>
+
+Time and duration for the different recesses are reflected in the student’s timetable.
+Duration for each recess is 30 minutes for the three recesses.
+P1 and P4: 9.30 am to 10.00 am
+P2 and P3: 10.00 am to 10.30 am
+P5 and P6: 10.30 am to 11.00 am
+
+
+
+
+<a id="b2" name="b2">**Take 5**</a>
+
+<a id="b3" name="b3">**Lunch**</a>
+
+
+
+
 #### School Vendors
 
 #### Safety Matters
