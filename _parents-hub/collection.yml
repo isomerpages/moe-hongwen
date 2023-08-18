@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - School Bus Service.md
       - Administrative Matters for Primary 1, 2023.md
       - Application for Leave of Absence (LOA).md
       - Guidelines for School Home Partnership.md
@@ -24,3 +23,4 @@ collections:
       - Vendor Supplier Contact List.md
       - Canteen Advertisement.md
       - School Bus Advertisement.md
+      - School Bus Service.md
