@@ -24,7 +24,7 @@ sections:
   - infopic:
       button: read
       alt: Image alt text
-      url: /National-Chinese-Calligraphy-2022/
+      url: /character-art-exhibition-2023/
       image: /images/Homepage/cae poster 2023.png
       subtitle: Upcoming events
   - infopic:
