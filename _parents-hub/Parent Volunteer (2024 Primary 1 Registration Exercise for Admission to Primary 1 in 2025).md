@@ -28,4 +28,4 @@ description: ""
 
 You may submit your electronic application form via the following link:
 
-**[Hong Wen School Parent Volunteer Application (for admission to P1 in 2025)]**(https://form.gov.sg/630eb650886e500011d5c498)
+**[Applications are now closed]**
