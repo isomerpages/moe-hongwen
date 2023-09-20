@@ -3,12 +3,13 @@ title: Administrative Matters for Primary 1, 2023
 permalink: /parents-hub/Administrative-Matters-for-Primary-1-2022/
 description: ""
 ---
-[P1 Orientation - Address by Principal (Nov 2022)](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/P1%20Orientation%202022%20(Principal).pdf)
+<!--[P1 Orientation - Address by Principal (Nov 2022)](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/P1%20Orientation%202022%20(Principal).pdf)
 
 P1 Orientation - Presentation by Year Head
 * [Part 1 of Presentation](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/03%20YH%20Address%20(18%20Nov%202022)_Part%201.pdf)
 * [Part 2 of Presentation](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/03%20YH%20Address%20(18%20Nov%202022)_Part%202.pdf)
-* [Part 3 of Presentation](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/03%20YH%20Address%20(18%20Nov%202022)_Part%203.pdf)
+* [Part 3 of Presentation](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/03%20YH%20Address%20(18%20Nov%202022)_Part%203.pdf) 
+
 
 
 [Main letter – Administrative Matters for Primary 1, 2023](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/Main-Letter-Administrative-Matters-for-Primary-1-2023-Sep.pdf)
@@ -31,4 +32,4 @@ P1 Orientation - Presentation by Year Head
 
 [5. Parents Gateway (PG) – Step by Step Guide to PG Onboarding](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/5-Parents-Gateway-PG-Step-by-Step-Guide-to-PG-Onboarding.pdf)
 
-[HWS Uniform Measurement Guide](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/HWS-Uniform-Measurement-Guide.pdf)
+[HWS Uniform Measurement Guide](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/HWS-Uniform-Measurement-Guide.pdf)-->
