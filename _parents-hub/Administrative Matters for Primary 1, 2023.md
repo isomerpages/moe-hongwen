@@ -22,8 +22,7 @@ P1 Orientation - Presentation by Year Head
 
 [Main letter – Administrative Matters for Primary 1, 2024](/files/Parent%20Hub/Adminmattersforprimary12024/letter_to_parents_primary_1_2024_cohort_main_letter_sep.pdf)
 
-[1. Student Care Centre @ Hong Wen School 2024](/files/Parents'%20Hub/Admin_matters_for_pri_1_2024/1_student_care_centre_hong_wen_school_2024.pdf)
-
+[1. Student Care Centre @ Hong Wen School 2024](/files/Parent%20Hub/Adminmattersforprimary12024/1_student_care_centre_hong_wen_school_2024.pdf)
 
 [2. HWS Uniform Measurement Guide](/files/Parent%20Hub/Adminmattersforprimary12024/2_hws_uniform_measurement_guide_2024.pdf)
 
