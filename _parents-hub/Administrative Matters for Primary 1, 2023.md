@@ -20,6 +20,7 @@ P1 Orientation - Presentation by Year Head
 
 [Primary 1 Admin Day Letter (October)](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/Primary-1-Admin-Day-Letter-October.pdf)-->
 
+[Main letter – Administrative Matters for Primary 1, 2024](/files/Parent%20Hub/Adminmattersforprimary12024/letter_to_parents_primary_1_2024_cohort_main_letter_sep.pdf)
 
 [1. Student Care Centre @ Hong Wen School 2024](/files/Parents'%20Hub/Admin_matters_for_pri_1_2024/1_student_care_centre_hong_wen_school_2024.pdf)
 
