@@ -23,6 +23,10 @@ P1 Orientation - Presentation by Year Head
 
 [1. Student Care Centre @ Hong Wen School 2024](/files/Parents'%20Hub/Admin_matters_for_pri_1_2024/1_student_care_centre_hong_wen_school_2024.pdf)
 
+[2. HWS Uniform Measurement Guide]
+(/files/Parent%20Hub/2_hws_uniform_measurement_guide_2024.pdf)
+
+
 
 <!--[2.Request for School Bus Services_2023](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/Request-for-School-Bus-Services_2023.pdf)
 
