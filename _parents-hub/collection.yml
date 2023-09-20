@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Parent Volunteers.md
       - Administrative Matters for Primary 1, 2024.md
       - Application for Leave of Absence (LOA).md
       - Guidelines for School Home Partnership.md
@@ -13,6 +12,7 @@ collections:
       - School Based Assessment Policy & Plans.md
       - Subject Based Banding (Primary Schools).md
       - Parents’ Support Group.md
+      - Parent Volunteers.md
       - School Hours  &  Gate 1 (Towner Road)  Gate 5 (May Road) Opening Hours.md
       - Dental Clinic Operating Hours.md
       - Student Insurance.md
