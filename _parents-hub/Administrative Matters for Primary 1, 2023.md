@@ -34,4 +34,4 @@ P1 Orientation - Presentation by Year Head
 
 [HWS Uniform Measurement Guide](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/HWS-Uniform-Measurement-Guide.pdf)-->
 
-[1.Student Care Centre @ Hong Wen School](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/1-Student-Care-Centre-@-Hong-Wen-School-2023.pdf)
+[1.Student Care Centre @ Hong Wen School](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/1_Student_Care_Centre_Hong_Wen_School_2024.pdf)
