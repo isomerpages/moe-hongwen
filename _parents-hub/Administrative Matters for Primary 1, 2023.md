@@ -27,6 +27,9 @@ P1 Orientation - Presentation by Year Head
 
 [2. HWS Uniform Measurement Guide](/files/Parent%20Hub/Adminmattersforprimary12024/2_hws_uniform_measurement_guide_2024.pdf)
 
+[3a. Request for School Bus Services_2024](/files/Parent%20Hub/Adminmattersforprimary12024/3a_request_for_school_bus_services_2024.pdf)
+
+[3b. ANNEX A – Terms and Conditions for School Bus Services](/files/Parent%20Hub/Adminmattersforprimary12024/3b_annex_a_terms_and_conditions_for_school_bus_services_2024.pdf)
 <!--[2.Request for School Bus Services_2023](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/Request-for-School-Bus-Services_2023.pdf)
 
 [ANNEX A – Terms and Conditions for School Bus Services](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/3-ANNEX-A-Terms-and-Conditions-for-School-Bus-Services-2023.pdf)
