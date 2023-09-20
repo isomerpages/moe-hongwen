@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Parent Volunteers.md
       - Administrative Matters for Primary 1, 2024.md
       - Application for Leave of Absence (LOA).md
       - Guidelines for School Home Partnership.md
