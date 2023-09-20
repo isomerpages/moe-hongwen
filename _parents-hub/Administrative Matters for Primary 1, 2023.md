@@ -24,6 +24,9 @@ P1 Orientation - Presentation by Year Head
 
 [1.Student Care Centre @ Hong Wen School](/files/Parents'%20Hub/Admin%20matters%20for%20pri%2001/1-Student-Care-Centre-@-Hong-Wen-School-2023.pdf)
 
+[Student Care 2023](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/1-Student-Care-Centre-@-Hong-Wen-School-2023.pdf)
+
+
 <!--[2.Request for School Bus Services_2023](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/Request-for-School-Bus-Services_2023.pdf)
 
 [ANNEX A – Terms and Conditions for School Bus Services](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/3-ANNEX-A-Terms-and-Conditions-for-School-Bus-Services-2023.pdf)
