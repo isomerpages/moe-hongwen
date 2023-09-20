@@ -3,6 +3,8 @@ title: Administrative Matters for Primary 1, 2023
 permalink: /parents-hub/Administrative-Matters-for-Primary-1-2022/
 description: ""
 ---
+[1.Student Care Centre @ Hong Wen School](/files/Parents'%20Hub/Admin_matters_for_pri_1_2024/1_student_care_centre_hong_wen_school_2024.pdf)
+
 <!--[P1 Orientation - Address by Principal (Nov 2022)](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/P1%20Orientation%202022%20(Principal).pdf)
 
 P1 Orientation - Presentation by Year Head
@@ -34,4 +36,3 @@ P1 Orientation - Presentation by Year Head
 
 [HWS Uniform Measurement Guide](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/HWS-Uniform-Measurement-Guide.pdf)-->
 
-[1.Student Care Centre @ Hong Wen School](/files/Parents'%20Hub/Admin_matters_for_pri_1_2024/1_student_care_centre_hong_wen_school_2024.pdf)
