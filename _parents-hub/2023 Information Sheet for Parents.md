@@ -5,6 +5,8 @@ description: ""
 ---
 ### **2023 Information Sheet for Parents**
 
+[Information Sheet for October 2023](/files/Parents'%20Hub/2023%20information%20sheets/information%20sheet%20for%20october%202023.pdf)
+
 [Information Sheet for September 2023](/files/Parents'%20Hub/2023%20information%20sheets/information%20sheet%20for%20september%202023.pdf)
 
 [Information Sheet for August 2023](/files/Parents'%20Hub/2023%20information%20sheets/information%20sheet%20for%20august%202023.pdf)
