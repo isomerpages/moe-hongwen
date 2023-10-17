@@ -3,18 +3,6 @@ title: Administrative Matters for Primary 1, 2024
 permalink: /parents-hub/administrative-matters-for-primary-1-2022/
 description: ""
 ---
-<!--[P1 Orientation - Address by Principal (Nov 2022)](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/P1%20Orientation%202022%20(Principal).pdf)
-
-P1 Orientation - Presentation by Year Head
-* [Part 1 of Presentation](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/03%20YH%20Address%20(18%20Nov%202022)_Part%201.pdf)
-* [Part 2 of Presentation](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/03%20YH%20Address%20(18%20Nov%202022)_Part%202.pdf)
-* [Part 3 of Presentation](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/03%20YH%20Address%20(18%20Nov%202022)_Part%203.pdf) 
-
-
-
-[Main letter – Administrative Matters for Primary 1, 2023](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/Main-Letter-Administrative-Matters-for-Primary-1-2023-Sep.pdf)
-
-[Primary 1 Admin Day Letter (October)](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/Primary-1-Admin-Day-Letter-October.pdf)-->
 
 [Main letter – Administrative Matters for Primary 1, 2024](/files/Parent%20Hub/Adminmattersforprimary12024/letter_to_parents_primary_1_2024_cohort_main_letter_sep.pdf)
 
@@ -31,6 +19,23 @@ P1 Orientation - Presentation by Year Head
 [4b. Step by Step guide on ordering textbook online from Pacific Bookstore portal](/files/4b_step%20by%20step%20guide%20on%20ordering%20textbook%20online%20from%20pacific%20bookstore%20portal.pdf)
 
 [5. Parents Gateway (PG) - Step by Step Guide to PG Onboarding](/files/5_parents%20gateway%20(pg)%20-%20step%20by%20step%20guide%20to%20pg%20onboarding.pdf)
+
+
+
+<!--[P1 Orientation - Address by Principal (Nov 2022)](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/P1%20Orientation%202022%20(Principal).pdf)
+
+P1 Orientation - Presentation by Year Head
+* [Part 1 of Presentation](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/03%20YH%20Address%20(18%20Nov%202022)_Part%201.pdf)
+* [Part 2 of Presentation](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/03%20YH%20Address%20(18%20Nov%202022)_Part%202.pdf)
+* [Part 3 of Presentation](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/03%20YH%20Address%20(18%20Nov%202022)_Part%203.pdf) 
+
+
+
+[Main letter – Administrative Matters for Primary 1, 2023](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/Main-Letter-Administrative-Matters-for-Primary-1-2023-Sep.pdf)
+
+[Primary 1 Admin Day Letter (October)](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/Primary-1-Admin-Day-Letter-October.pdf)-->
+
+
 
 
 <!--[2.Request for School Bus Services_2023](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/Request-for-School-Bus-Services_2023.pdf)
