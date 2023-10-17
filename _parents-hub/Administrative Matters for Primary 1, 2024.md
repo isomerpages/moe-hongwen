@@ -26,6 +26,11 @@ P1 Orientation - Presentation by Year Head
 
 [3b. ANNEX A – Terms and Conditions for School Bus Services](/files/Parent%20Hub/Adminmattersforprimary12024/3b_annex_a_terms_and_conditions_for_school_bus_services_2024.pdf)
 
+[4a. Booklist for Primary 1 2024](/files/4a_booklist%20for%20primary%201%202024.pdf)
+
+[4b. Step by Step guide on ordering textbook online from Pacific Bookstore portal](/files/4b_step%20by%20step%20guide%20on%20ordering%20textbook%20online%20from%20pacific%20bookstore%20portal.pdf)
+
+[5. Parents Gateway (PG) - Step by Step Guide to PG Onboarding](/files/5_parents%20gateway%20(pg)%20-%20step%20by%20step%20guide%20to%20pg%20onboarding.pdf)
 
 
 <!--[2.Request for School Bus Services_2023](/files/Parents'%20Hub/Admin%20matters%20for%20pri%201/Request-for-School-Bus-Services_2023.pdf)
