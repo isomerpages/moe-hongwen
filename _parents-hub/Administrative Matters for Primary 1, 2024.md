@@ -3,8 +3,9 @@ title: Administrative Matters for Primary 1, 2024
 permalink: /parents-hub/administrative-matters-for-primary-1-2022/
 description: ""
 ---
-
 [Main letter – Administrative Matters for Primary 1, 2024](/files/Parent%20Hub/Adminmattersforprimary12024/letter_to_parents_primary_1_2024_cohort_main_letter_sep.pdf)
+
+[Letter to Parents of Primary 1, 2024  - October ](/files/letter%20to%20parents%20of%20primary%201,%202024%20%20-%20october%20.pdf)
 
 [1. Student Care Centre @ Hong Wen School 2024](/files/Parent%20Hub/Adminmattersforprimary12024/1_student_care_centre_hong_wen_school_2024.pdf)
 
