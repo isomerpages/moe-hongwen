@@ -25,7 +25,7 @@ sections:
       button: read
       alt: Image alt text
       url: /character-art-exhibition-2023/
-      image: /images/Homepage/cae poster 2023.png
+      image: /images/Homepage/cae 2023_moe broadcast_final.jpeg
       subtitle: Upcoming events
   - infopic:
       button: Read More
