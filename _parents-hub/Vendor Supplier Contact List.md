@@ -34,6 +34,8 @@ Email:&nbsp;[hongwen@littleprofessors.com.sg](mailto:hongwen@littleprofessors.co
 
 **2024 Book List**
 
+[Primary 1 book list - 2024](/files/Parents'%20Hub/Booklists_2024/P1_Booklist_2024.pdf)
+
 [Primary 2 book list - 2024](/files/Parents'%20Hub/Booklists_2024/P2_Booklist_2024.pdf)
 
 [Primary 3 book list - 2024](/files/Parents'%20Hub/Booklists_2024/P3_Booklist_2024.pdf)
