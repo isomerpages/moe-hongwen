@@ -2,6 +2,7 @@
 title: Vendor Supplier Contact List
 permalink: /parents-hub/Vendor-Supplier-Contact-List/
 description: ""
+variant: markdown
 ---
 **Bookshop Vendor**
 
@@ -30,6 +31,24 @@ Email: [contact@shanghai-uniforms.com](mailto:contact@shanghai-uniforms.com) 
 Little Professors (Hong Wen School)  
 Contact : 8725 6091  
 Email: [hongwen@littleprofessors.com.sg](mailto:hongwen@littleprofessors.com.sg)
+
+**2024 Book List**
+
+[Primary 2 book list - 2024](/files/Parents'%20Hub/Booklists_2024/P2_Booklist_2024.pdf)
+
+[Primary 3 book list - 2024](/files/Parents'%20Hub/Booklists_2024/P3_Booklist_2024.pdf)
+
+[Primary 4 book list - 2024](/files/Parents'%20Hub/Booklists_2024/P4_Booklist_2024.pdf)
+
+[Primary 5 book list - 2024](/files/Parents'%20Hub/Booklists_2024/P5_Booklist_2024.pdf)
+
+[Primary 5 (Foundation) book list - 2024](/files/Parents'%20Hub/Booklists_2024/P5_F_Booklist_2024.pdf)
+
+[Primary 6 book list - 2024](/files/Parents'%20Hub/Booklists_2024/P6_Booklist_2024.pdf)
+
+[Primary 6 (Foundation) book list - 2024](/files/Parents'%20Hub/Booklists_2024/P6_F_Booklist_2024.pdf)
+
+
 
 **2023 Book List**  
 [Primary 1 book list – 2023](/files/Parents'%20Hub/Vendorsupplier%20contact%20list/p1_bklist_2023.pdf)  
