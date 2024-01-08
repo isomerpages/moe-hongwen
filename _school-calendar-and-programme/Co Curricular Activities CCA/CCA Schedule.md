@@ -13,5 +13,5 @@ variant: markdown
 
 ![Club CCAs](/images/CCA_2024_3.jpeg)
 
-### P3 CCA Exposure Day
+### P3 CCA Exposure Day (2022)
 [https://sites.google.com/moe.edu.sg/hwsccaexposureday/home](https://sites.google.com/moe.edu.sg/hwsccaexposureday/home)
