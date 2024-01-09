@@ -33,9 +33,9 @@ As part of the school’s safe distancing and safe management measures, dismissa
 
 **Recess and Take 5 Timings for P1 to P6 Students from Mondays to Thursdays (Term1)**
 
+
+
 **Recess and Take 5 Timings for P1 to P6 Students on Fridays (Term1)**
-
-
 
 | Gate 1 (Towner Road) Opening Hours      |                  |
 |-----------------------------------------|------------------|
