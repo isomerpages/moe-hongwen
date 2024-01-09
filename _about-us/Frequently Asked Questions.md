@@ -19,7 +19,9 @@ variant: markdown
 
 <a href="#b2">Take 5</a>
 
+<!--
 <a href="#b3">Lunch</a>
+-->
 
 ### School Vendors
 
@@ -148,7 +150,7 @@ The following are the official platforms for communication with parents:
     
 
   
-Parents can refer to the monthly Information Sheet available under [‘2023 Information Sheet for Parents’](https://www.hongwen.moe.edu.sg/parents-hub/2022-Information-Sheet-for-Parents/) on the school website.
+Parents can refer to the monthly Information Sheet available under [‘2024 Information Sheet for Parents’](https://www.hongwen.moe.edu.sg/parents-hub/2022-Information-Sheet-for-Parents/) on the school website.
 
 <a id="f2" name="f2">**Parents Gateway**</a>
 
