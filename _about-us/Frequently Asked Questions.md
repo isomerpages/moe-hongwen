@@ -108,7 +108,11 @@ Duration for each recess is 30 minutes for the three recesses.
 
 For more information on recommended ‘Take 5’ snacks, refer to [‘Parents’ Hub – Healthy ‘Take 5’ Snacks’](https://www.hongwen.moe.edu.sg/parents-hub/Healthy-Take-5-Snacks/)
 
-<a id="b3" name="b3">**Lunch**</a>
+<!--
+<a name="b3" id="b3">**Lunch**</a>
+-->
+
+
 
 Students may be required at times to remain in school for supplementary, enrichment classes or CCAs. Lunchtime for these students will be from 1.30 pm to 2.05 pm.
 
