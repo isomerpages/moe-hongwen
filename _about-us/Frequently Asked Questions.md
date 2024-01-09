@@ -110,11 +110,12 @@ For more information on recommended ‘Take 5’ snacks, refer to [‘Parents’
 
 <!--
 <a name="b3" id="b3">**Lunch**</a>
--->
+
 
 
 
 Students may be required at times to remain in school for supplementary, enrichment classes or CCAs. Lunchtime for these students will be from 1.30 pm to 2.05 pm.
+-->
 
 #### School Vendors
 
