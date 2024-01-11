@@ -5,11 +5,8 @@ description: ""
 third_nav_title: Departments and Committees
 variant: markdown
 ---
-**![](https://lh4.googleusercontent.com/kmRF3eMduOujlHBOBikCQDtb920Tt21qfQrj9mXxnMsCvE_n2Mw42Trhk2E2G4cdHEc9tuRlyXkSmI39UVbOlbPIEXdlTLzZ6Qh8NzmEVXDKAgS58KxmvtrOa3Ikkd-jbnKC1RzgTY1PqGsoBss03J0)**
 
-  
-
-<table style="border:none;border-collapse:collapse;">
+  <table style="border:none;border-collapse:collapse;">
   <colgroup>
     <col width="301">
     <col width="301">
