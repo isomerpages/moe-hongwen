@@ -70,4 +70,4 @@ Email:&nbsp;[hongwen@littleprofessors.com.sg](mailto:hongwen@littleprofessors.co
 [Name Tag Ordering Portal](http://www.stitchwerkz.sg/nametags_hws)
 
 **Canteen Stall Price List**  
-[2023 Canteen Price List](/files/Parents'%20Hub/Vendorsupplier%20contact%20list/Canteen_prices_2023.pdf)
+[2024 Canteen Price List](/files/Parents'%20Hub/Vendorsupplier%20contact%20list/Canteen_prices_2024.pdf)
