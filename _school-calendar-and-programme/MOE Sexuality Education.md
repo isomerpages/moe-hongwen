@@ -54,3 +54,13 @@ b.       Character and Citizenship Education (CCE)
 ![Primary 5 CCE Lessons 2024](/images/WhatsApp_Image_2024_01_12_at_11_52_24.jpeg)![Primary 5 CCE Lessons 2024 part 2](/images/WhatsApp_Image_2024_01_12_at_11_52_23__1_.jpeg)
 ![Primary 6 CCE Lessons 2024](/images/WhatsApp_Image_2024_01_12_at_11_52_23.jpeg)
 
+       
+
+**Information for Parents**
+
+8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+
+9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable [here](/files/2024_SEd_Parent_Opt_Out_Letter.pdf). The completed opt-out form is to be submitted by 26/01/2024.
+
+10.      Parents can contact the school at 62943340 or hws@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
+
