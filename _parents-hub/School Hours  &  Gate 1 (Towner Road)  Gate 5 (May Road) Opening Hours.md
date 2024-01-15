@@ -50,8 +50,9 @@ As part of the school’s safe distancing and safe management measures, dismissa
 
 
 **
-<!--
 
+
+<!--
 | Gate 1 (Towner Road) Opening Hours      |                  |
 |-----------------------------------------|------------------|
 | School Arrival &amp; Dismissal              |                  |
@@ -69,8 +70,8 @@ As part of the school’s safe distancing and safe management measures, dismissa
 | Monday to Thursday                           | 3.00pm to 3.25pm |
 |                                              | 4.00pm to 4.30pm |
 | Sat / Sun / Public Holidays                  | Gate Closed      |
-
 -->
+
 
 ![](/images/Parents'%20Hub/School%20hours%20gate%20opening/Gate_hours_1.png)
 
