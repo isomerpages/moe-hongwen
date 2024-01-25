@@ -1,0 +1,22 @@
+collections:
+  our-family:
+    output: true
+    order:
+      - School Mgmt Committee SMC/SMC Members (2023 – 2025).md
+      - School Mgmt Committee SMC/SMC Financial Report.md
+      - School Mgmt Committee SMC/.keep
+      - School Executive Committee.md
+      - Staff.md
+      - Departments and Committees/Applied Learning Programme (ALP).md
+      - Departments and Committees/.keep
+      - Departments and Committees/English Language.md
+      - Departments and Committees/Chinese Language.md
+      - Departments and Committees/Mathematics.md
+      - Departments and Committees/Science.md
+      - Departments and Committees/PE and Aesthetics.md
+      - Departments and Committees/Character & Citizenship Education.md
+      - Departments and Committees/Pupil Management.md
+      - Departments and Committees/Info and Communication Technology.md
+      - Departments and Committees/Special Assistance Plan (SAP).md
+      - Departments and Committees/Media Resource Library.md
+      - Alumni Association.md

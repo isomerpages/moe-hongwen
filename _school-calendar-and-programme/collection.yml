@@ -1,0 +1,15 @@
+collections:
+  school-calendar-and-programme:
+    output: true
+    order:
+      - School Calendar.md
+      - Signature Programmes/Special Assistance Plan SAP.md
+      - Signature Programmes/Learning for Life Sports and Outdoor Education.md
+      - Signature Programmes/Learning for Life Student Leadership and Community
+        Service.md
+      - Signature Programmes/.keep
+      - Co Curricular Activities CCA/CCA Schedule.md
+      - Co Curricular Activities CCA/CCA Policy.md
+      - Co Curricular Activities CCA/.keep
+      - Programme for Active Learning (PAL).md
+      - MOE Sexuality Education.md
