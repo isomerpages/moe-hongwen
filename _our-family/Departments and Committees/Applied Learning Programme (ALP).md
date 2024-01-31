@@ -88,7 +88,7 @@ in the practical application of knowledge in an authentic learning environment.<
 in our students the responsibility to do their part in building a sustainable
 future through the ALP. Students will get a chance to delve deeper in areas
 of environmental sustainability and innovation.</p>
-<p><strong>Objectives of HWS ALP</strong>
+<p><strong>Objectives of HWS ALP</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -107,14 +107,14 @@ for meaningful feedback from teacher and peers.</p>
 <p>To nurture our students to learn for life and possess the intrinsic motivation
 to apply these relevant 21st CC to real world issues, the ALP will focus
 on developing two core dispositions in our students:</p>
-<p><strong>Learning Disposition of Thinking and Curiosity</strong>
+<p><strong>Learning Disposition of Thinking and Curiosity</strong> 
 <br>As students embark on the inventive and critical thinking process of ideating
 and creating, the collaborative process of sharing ideas will help to increase
 their curiosity and desire to seek connections and explanations. The open
 sharing can lead to reflectiveness on their own views. They also learn
 to think independently through questions and build their ability to process
 information fairly and accurately.</p>
-<p><strong>Learning Disposition of Empathy</strong>
+<p><strong>Learning Disposition of Empathy</strong> 
 <br>With the focus on real-world concerns on sustainability and the lack of
 resources, students learn to care for the environment (empathy) and explore
 ways to change habits to reduce negative impact on the environment.</p>
