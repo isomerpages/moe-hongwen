@@ -3,64 +3,256 @@ title: Info and Communication Technology
 permalink: /our-family/Departments-and-Committees/ICT/
 description: ""
 third_nav_title: Departments and Committees
-variant: markdown
+variant: tiptap
 ---
-**![](https://lh4.googleusercontent.com/qa4FXPA5u7wG7vGG9SCjDP5plJp6FUq9XZHZYyekgginT3UcaMSgJ0TJWPgrZ-l3XHiPGtlcMwF73OMYf2nBI9pXa4-HEkBNJ4yOTOZ2O-zuvG4zZiUCnGOQr7P6YacVXzPwbgCfit4catvGSm5Au4U)**
-
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="324"><col width="278"></colgroup><tbody><tr style="height:25.5pt"><td style="border-left:solid #808080 1.11111pt;border-right:solid #808080 1.11111pt;border-bottom:solid #808080 1.11111pt;border-top:solid #808080 1.11111pt;vertical-align:top;background-color:#ffffff;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.656;margin-top:0pt;margin-bottom:11pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Kenny Lew Sin Tat (SH/ICT)</span></p></td><td style="border-left:solid #808080 1.11111pt;border-right:solid #808080 1.11111pt;border-bottom:solid #808080 1.11111pt;border-top:solid #808080 1.11111pt;vertical-align:top;background-color:#ffffff;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.656;margin-top:0pt;margin-bottom:11pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Dilys Tan</span></p></td></tr><tr style="height:25.5pt"><td style="border-left:solid #808080 1.11111pt;border-right:solid #808080 1.11111pt;border-bottom:solid #808080 1.11111pt;border-top:solid #808080 1.11111pt;vertical-align:top;background-color:#ffffff;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.656;margin-top:0pt;margin-bottom:11pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Gladys Ong Ying Wen (SH/Maths)</span></p></td><td style="border-left:solid #808080 1.11111pt;border-right:solid #808080 1.11111pt;border-bottom:solid #808080 1.11111pt;border-top:solid #808080 1.11111pt;vertical-align:top;background-color:#ffffff;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.656;margin-top:0pt;margin-bottom:11pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Seetoh Hsu Ping</span></p></td></tr><tr style="height:25.5pt"><td style="border-left:solid #808080 1.11111pt;border-right:solid #808080 1.11111pt;border-bottom:solid #808080 1.11111pt;border-top:solid #808080 1.11111pt;vertical-align:top;background-color:#ffffff;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.656;margin-top:0pt;margin-bottom:11pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Muhd Zaifar</span></p></td><td style="border-left:solid #808080 1.11111pt;border-right:solid #808080 1.11111pt;border-bottom:solid #808080 1.11111pt;border-top:solid #808080 1.11111pt;vertical-align:top;background-color:#ffffff;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.656;margin-top:0pt;margin-bottom:11pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Phoebe Cheong Si En</span></p></td></tr><tr style="height:25.5pt"><td style="border-left:solid #808080 1.11111pt;border-right:solid #808080 1.11111pt;border-bottom:solid #808080 1.11111pt;border-top:solid #808080 1.11111pt;vertical-align:top;background-color:#ffffff;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.656;margin-top:0pt;margin-bottom:11pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Shazwani Mustaffa</span></p></td><td style="border-left:solid #808080 1.11111pt;border-right:solid #808080 1.11111pt;border-bottom:solid #808080 1.11111pt;border-top:solid #808080 1.11111pt;vertical-align:top;background-color:#ffffff;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.656;margin-top:0pt;margin-bottom:11pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Ng Choon Peng</span></p></td></tr><tr style="height:25.5pt"><td style="border-left:solid #808080 1.11111pt;border-right:solid #808080 1.11111pt;border-bottom:solid #808080 1.11111pt;border-top:solid #808080 1.11111pt;vertical-align:top;background-color:#ffffff;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.656;margin-top:0pt;margin-bottom:11pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Alvin Niow (ICT Manager)</span></p></td><td style="border-left:solid #808080 1.11111pt;border-right:solid #808080 1.11111pt;border-bottom:solid #808080 1.11111pt;border-top:solid #808080 1.11111pt;vertical-align:top;background-color:#ffffff;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.656;margin-top:0pt;margin-bottom:11pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Marcus (DE)</span></p></td></tr></tbody></table>
-
-
-## Key Information
-
-
-### EdTech Masterplan 2030 Vision
-
-Technology-transformed learning, to prepare students for a technology-transformed world
-
-### Department Mission
-
-With the child central to our mission, the ICT Department purposes to equip our students with the skills to learn with technology. We also endeavour to inspire them to use technology to create and to pursue their dreams in life.&nbsp;
-
-<table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:610px;height:343px;"><img src="https://lh3.googleusercontent.com/UC8N1eCP2WvsqAW6J8UBTSEpH0-Lkv3CBvPtTc2XBIZjl9AbnU3_QlD7wtZJotYSVisIbaMwWOkAm13wlawBB-qkLSlBRDQlkQn0hJORucq-MVqi5gRsUTahdJw7rEjMpBN4Iq5WxvQrFvXd1lvPRQ" width="610" height="343" style="margin-left:0px;margin-top:0px;"></span></span></p></td></tr></tbody></table>
-
-  
-
-### Digital Literacy Programme
-
-The Digital Literacy Programme in Hong Wen aims to equip our students with competencies to create, connect and curate information in the digital environment. It also serves to develop skills for self-learning and collaborate in a digitally-connected environment.
-
-The programme is integrated with the Instructional Programme (IP). This provides meaningful contexts for their learning and application.
-
-The Digital Literacy continuum in Hong Wen:
-
-<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
-
-<table data-sheets-root="1" style="table-layout:fixed;font-size:10pt;font-family:Arial;width:0px;border-collapse:collapse;border:none" border="1" dir="ltr" cellpadding="0" cellspacing="0" xmlns="http://www.w3.org/1999/xhtml"><colgroup><col width="100"><col width="403"></colgroup><tbody><tr style="height:20px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Level&quot;}" style="border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:0px 3px 0px 3px;vertical-align:top;background-color:#f6b26b;font-size:20pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Level</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ICT Tool&quot;}" style="border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:0px 3px 0px 3px;vertical-align:top;background-color:#f6b26b;font-size:20pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;">ICT Tool</td></tr><tr style="height:20px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;P1&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:0px 3px 0px 3px;vertical-align:top;font-size:15pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">P1</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SLS Log-in\nTouch Typing (EL)\nP1 Hanyu Pinyin Typing (HCL)\nMoo-O&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:0px 3px 0px 3px;vertical-align:top;font-size:15pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">SLS Log-in<br>Touch Typing (EL)<br>P1 Hanyu Pinyin Typing (HCL)<br>Moo-O</td></tr><tr style="height:20px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;P2&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:0px 3px 0px 3px;vertical-align:top;font-size:15pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">P2</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MSPPT/Google Docs\nKidsAtWork\nP2 Hanyu Pinyin Typing (HCL)\nMoo-O&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:0px 3px 0px 3px;vertical-align:top;font-size:15pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">MSPPT/Google Docs<br>KidsAtWork<br>P2 Hanyu Pinyin Typing (HCL)<br>Moo-O</td></tr><tr style="height:20px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;P3&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:0px 3px 0px 3px;vertical-align:top;font-size:15pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">P3</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kubo (Advance)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:0px 3px 0px 3px;vertical-align:top;font-size:15pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Kubo (Advance)</td></tr><tr style="height:20px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;P4&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:0px 3px 0px 3px;vertical-align:top;font-size:15pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">P4</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NDE\n(National Digital Education)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:0px 3px 0px 3px;vertical-align:top;font-size:15pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Application of MSEXCEL/MSPPT</td></tr><tr style="height:20px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;P5&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:0px 3px 0px 3px;vertical-align:top;font-size:15pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">P5</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sphero Bolt (CFF)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:0px 3px 0px 3px;vertical-align:top;font-size:15pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Sphero Bolt (CFF)</td></tr><tr style="height:20px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;P6&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:0px 3px 0px 3px;vertical-align:top;font-size:15pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">P6</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;IMDA AI Module&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:0px 3px 0px 3px;vertical-align:top;font-size:15pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">IMDA AI Module</td></tr></tbody></table>
-<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
-
-For more information on digital literacy standards, visit [MOE’s resource site on New Media Literacies](https://sites.google.com/moe.edu.sg/baseline-ict/home).
-
-  
-
-### Cyber Wellness
-
-To cultivate responsible digital learners, Hong Wen’s Cyber wellness programme seeks to increase students’ awareness of appropriate online behaviour and of how to protect oneself in cyberspace. We are aligned to MOE’s Cyber wellness Framework and adopts the Sense-Think-Act approach in bringing across Cyber wellness messages to our students.
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="621"></colgroup><tbody><tr style="height:21pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;background-color:#cccccc;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:13pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Programme</span></p></td></tr><tr style="height:55.5pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Differentiated Assembly Programme</span></p><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(P1 to P4) ‘Online Strangers – Friends or Fiends?’</span></p><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(P5 to P6) ‘Fake News and Fact Checking’</span></p><br></td></tr><tr style="height:55.5pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">P5 Workshop on use of Social Media</span></p><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">‘Countering Online Aggression’</span></p></td></tr><tr style="height:21.75pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Cyber wellness Advocacy Activities</span></p><br></td></tr><tr style="height:27pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lessons during Form Teachers’ Guidance periods</span></p><br></td></tr></tbody></table>
-
-For more information on [Cyber wellness education, visit MOE website](https://beta.moe.gov.sg/programmes/cyber-wellness/).
-
-  
-
-### Code For Fun
-
-##### P2 Kubo
-
-<table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col><col><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:109px;"><img src="https://lh4.googleusercontent.com/UNZOOUNbX2EtgYFoOa0utAbavb16oXEmnHpB0l5UPFpqi9XKUvlm3fNYi5-3VoQWykE0EJ7DHlV0DpYUUjydAbiDwvcEQAZ1_5A8FES95WKaEh3T-NLn4Rt4y_HJQ8T5Q4glel8pitJny3amo_mhbg" width="194" height="109" style="margin-left:0px;margin-top:0px;"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:109px;"><img src="https://lh6.googleusercontent.com/9wxKJJ6jN5bZ7VsC1CRkYfE4dRCZUnkxIH2dbcTHqikwEKMaX8hkuGrmBHjvfCTx7dZi5GhqcEQse4Dvry1yBl2UU4pEaQFfM4s9ACC59EVnfZxD-6d38uCH-df1Kro9XCyndsCjbu-HcHJt5qSOKA" width="194" height="109" style="margin-left:0px;margin-top:0px;"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:109px;"><img src="https://lh5.googleusercontent.com/H2_KnsAl4zlFY9ha0W-CBibiJRx93OjLc4dZseqL-ZppMVR1KXLhgGLLXrlVhNVJJlEIGOxT5zaRPY9tJ6OrUidlDV6Q6QURjvWNYz5pC3t1Rte_YyzDviSJK17ZnhkqqHCX7Qt1wRbgegAm38Wy5Q" width="194" height="109" style="margin-left:0px;margin-top:0px;"></span></span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:109px;"><img src="https://lh6.googleusercontent.com/VpfbyMqVV19iwmsQrQPbpDAMlnvkMk7Nx_YjtO21R-LgWtAAYgkAJ5VdOPgswRC6n16agUUrBahKSZI1M0rmDHbl3rxNMhbxNxg-ItohNFiif7q2TQDN3DdD4p0uzCJcsYVX_VZSH31fLZNGw3PLwg" width="194" height="109" style="margin-left:0px;margin-top:0px;"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:109px;"><img src="https://lh3.googleusercontent.com/ZcHVIVI8o-wSJc4Lsdm5lP5wiJTm52OwQwcNJrEELNFPb7rDB5CW-LxCywHK6j2ZnT0LsMM7fyVj-oMe1laWnv7isMVJjNPZogHXoo6V-lLumapo0qARPavT5sHmy7h5l36EghIe4a6GJBjf1B6TEA" width="194" height="109" style="margin-left:0px;margin-top:0px;"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:112px;"><img src="https://lh5.googleusercontent.com/Hrjkdaruc57nzL-VMNgedX6ZzKQlKlP6wXdYrFT9uDbOvx1xuwLQxykY3-4c1NnyAx2PRPLYO26C6HjD_hva6Nh2T8-JZNFkV3m1SNkwrqF4TdqkjU5Ch9F_g5jk5etcmnTFg-BwIsHkE1FoC1oupg" width="194" height="140.72496285157382" style="margin-left:0px;margin-top:-6.228405014096669px;"></span></span></p></td></tr></tbody></table>
-
-  
-
-##### P5 Sphero Bolt
-
-<table style="border:none;border-collapse:collapse;table-layout:fixed;width:468pt"><colgroup><col><col><col></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:109px;"><img src="https://lh6.googleusercontent.com/HJPd5VYMzPF427o5cxqdDwUg-Peali21KYSmpVYOff1K4hHA9b89vRQRDcMVen3LWnkyWAcmiTgTBDGWzZ3kS2B0WwgPUR5RhpQUakRbZwj3EPFHxRpS-wE1FC3xvaRC1IOBqvLuUPG8MU4mfHSgNw" width="194" height="109" style="margin-left:0px;margin-top:0px;"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:109px;"><img src="https://lh5.googleusercontent.com/v1S5uGMUv3KXtogamGwzzkgZGZLwvL7xtCQ3UAq2LCNMaVzmCw4EeLzhknKpbLZwIXv29jMR58n8sNhL2Atdlkf97AP4fRiY4cWO9MDLdak_9fLqQJ74ejWGEDEdah6uxtMjrZCcNo3ACkq2NXiq4Q" width="194" height="109" style="margin-left:0px;margin-top:0px;"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:109px;"><img src="https://lh5.googleusercontent.com/puOrUAHwu-UvfFekBGKqX-Cjh3fgECJywayns5JPMM8CsOsGxyfPixO5801cNs9zioBNVqfzIpQCR1ipZNaJ8lGkaGQS-JIfAUzFeBPLU5IYduBELke4Y0FI2mv8dCgb7Ee7E2dbKXP5fjRk7imaaQ" width="194" height="109" style="margin-left:0px;margin-top:0px;"></span></span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:140px;"><img src="https://lh3.googleusercontent.com/YiqsSvJ3ZAnr8MQzUpxNBx8Q6rZYwkbf02vS78KgMZd7hnl4-Kw7Pk89jSGcpj7-jeDktByjK8Aoj0HregXG4qkdEydGXPxM6tRs58ZYQ6fsaIveLNQsVkB7IqaTSiHMe0lIMSdd76QDhaT35vgvYg" width="194" height="140" style="margin-left:0px;margin-top:0px;"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:194px;height:145px;"><img src="https://lh4.googleusercontent.com/X-FtOK5x3F7isMkJTYnYZ8YOmdvMEVd1AAOeyLF24LJP5qpaFG-Q6I9tJVw1gLHfHIIckUiVj072DfZ8b8_f3sOG2OqGW-gaCbXeLQKevLViDzkSnAAuyrqRxm61TINK0BgyHyMaIlx0Qi1TUPv8Hg" width="194" height="145" style="margin-left:0px;margin-top:0px;"></span></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><br></td></tr></tbody></table>
+<p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kenny Lew Sin Tat (SH/ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Dilys Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Gladys Ong Ying Wen (SH/Maths)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Seetoh Hsu Ping</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Zaifar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Phoebe Cheong Si En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shazwani Mustaffa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Choon Peng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Niow (ICT Manager)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Marcus (DE)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Key Information</h2>
+<h3>EdTech Masterplan 2030 Vision</h3>
+<p>Technology-transformed learning, to prepare students for a technology-transformed
+world</p>
+<h3>Department Mission</h3>
+<p>With the child central to our mission, the ICT Department purposes to
+equip our students with the skills to learn with technology. We also endeavour
+to inspire them to use technology to create and to pursue their dreams
+in life.&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Digital Literacy Programme</h3>
+<p>The Digital Literacy Programme in Hong Wen aims to equip our students
+with competencies to create, connect and curate information in the digital
+environment. It also serves to develop skills for self-learning and collaborate
+in a digitally-connected environment.</p>
+<p>The programme is integrated with the Instructional Programme (IP). This
+provides meaningful contexts for their learning and application.</p>
+<p>The Digital Literacy continuum in Hong Wen:</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Tool</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SLS Log-in
+<br>Touch Typing (EL)
+<br>P1 Hanyu Pinyin Typing (HCL)
+<br>Moo-O</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSPPT/Google Docs
+<br>KidsAtWork
+<br>P2 Hanyu Pinyin Typing (HCL)
+<br>Moo-O</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kubo (Advance)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Application of MSEXCEL/MSPPT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sphero Bolt (CFF)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IMDA AI Module</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>For more information on digital literacy standards, visit <a href="https://sites.google.com/moe.edu.sg/baseline-ict/home" rel="noopener noreferrer nofollow" target="_blank">MOE’s resource site on New Media Literacies</a>.</p>
+<h3>Cyber Wellness</h3>
+<p>To cultivate responsible digital learners, Hong Wen’s Cyber wellness programme
+seeks to increase students’ awareness of appropriate online behaviour and
+of how to protect oneself in cyberspace. We are aligned to MOE’s Cyber
+wellness Framework and adopts the Sense-Think-Act approach in bringing
+across Cyber wellness messages to our students.</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Programme</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Differentiated Assembly Programme</strong>
+</p>
+<p>(P1 to P4) ‘Online Strangers – Friends or Fiends?’</p>
+<p>(P5 to P6) ‘Fake News and Fact Checking’</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P5 Workshop on use of Social Media</strong>
+</p>
+<p>‘Countering Online Aggression’</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Cyber wellness Advocacy Activities</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lessons during Form Teachers’ Guidance periods</strong>
+</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>For more information on <a href="https://beta.moe.gov.sg/programmes/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">Cyber wellness education, visit MOE website</a>.</p>
+<h3>Code For Fun</h3>
+<h5>P2 Kubo</h5>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>P5 Sphero Bolt</h5>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
