@@ -248,9 +248,18 @@ cultures and forms.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student’s Art" src="/images/PHOTO_2024_02_07_15_37_02.jpeg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student’s Art" src="/images/PHOTO_2024_02_07_15_37_34.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student’s Art" src="/images/PHOTO_2024_02_07_15_37_18.jpeg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
