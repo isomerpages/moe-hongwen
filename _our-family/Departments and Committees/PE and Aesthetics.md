@@ -102,14 +102,6 @@ build character.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://lh3.googleusercontent.com/rAtrU3sPXoLbtpqzyGfCyaBcz1Zae2cnH_3HtT2egHgut_3mGLcLmxnPd2yDbxVVlkcTh5m466Ywor2o4bQsdZmB6VLuI9ZEKRPov3HPXqIc13KwbUzSo4c68w1X1ecoeFY4tiY0umUkoBBS0XWQ_A_2VtqsODqO">
 </div>
-<h4>P5 &amp; P6 Track &amp; Field Day</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh3.googleusercontent.com/WiNQPt2Uzz6Kh0ASBLDpwZkUC_X5dhix1NO44UFlcZdszkkYaYK0rQtkA9YenIRjyaEHoM7YG6TtFeG9zGmX1egIhneZM1Q9w8onK1Ig3VHdrZzoLBneUF2WRFCgnmv0cKbDm1VkAv1kYBXtiyHP93r8cw9IVto-">
-</div>
-<h4>Lower Primary Sports Day</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh5.googleusercontent.com/rjRjXYlKourgs0QuVQx324KCRhbCXwv7P85FcN0t9eJievHt-9wxblsk1Ycju7Si8i5Vmm9qdO4EFL0AbO4LAf8wBSrSH8mUmR46jjkJSrQ5FbJFtc2GT2sO_HZrwuueBaIe7oNkVheKG_hhL6Wo39cyJCl7p2cB">
-</div>
 <h4>P5 Camp</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://lh6.googleusercontent.com/so6pFKrC5Kvt_4cPc9Ytk9AmPkhPopxv6Ff4bp1nkT5MByAmTymlMS0izjXtddoCf90DVHxkAcGcEfg6a58xMmxfzn5Ab-y8aTRwkSpVjd4UAY1F9ucVqFRtrLIXj9kq3k_8illlGYF5yycR3yor9jlWb23DSyNq">
