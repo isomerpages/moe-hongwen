@@ -208,7 +208,7 @@ in the learning of language and culture.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>年小学课外读物推荐书单</p>
+<p>小学课外读物推荐书单</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.cpcll.sg/resources/reading-group" rel="noopener noreferrer nofollow" target="_blank">Reading Group</a>
