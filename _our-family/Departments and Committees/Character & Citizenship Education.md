@@ -230,6 +230,7 @@ citizens through ownership of their contribution to the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="https://lh6.googleusercontent.com/TKhaqc08O_4CdacitYh3Bhv7SH41kcWoHF3E7eXJlJhF29DTjLM3esIzOi2HNAnSZlAImBrJpkeGbiSUmqtKPeaptIjjBLoHvoIBTfF9p2a7UBHUPQcNSK9x7uBAfE94uL4EaDcJ1IRYn7n3a5ZGV_E">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="https://lh3.googleusercontent.com/YIp80u-TuYs18o8qQeYBqGVaVhE3vF_Wg3kwAOjI0oMVRX8HGWqhOY3D1AljHFw0ztxpN9qMy5K0ibrnDfs6lwyBUbAWGrDFRCcEc4FIibwC9f-AfVUGjUeXvY8j_BadhxcUqd2ZCbsCE43Db31MReo">
 </div>
