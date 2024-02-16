@@ -228,10 +228,10 @@ and guide pupils in the development of their Social and Emotional Competencies.<
 Education (CCE) that enhances students’ development as socially responsible
 citizens through ownership of their contribution to the community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh6.googleusercontent.com/TKhaqc08O_4CdacitYh3Bhv7SH41kcWoHF3E7eXJlJhF29DTjLM3esIzOi2HNAnSZlAImBrJpkeGbiSUmqtKPeaptIjjBLoHvoIBTfF9p2a7UBHUPQcNSK9x7uBAfE94uL4EaDcJ1IRYn7n3a5ZGV_E">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="https://lh6.googleusercontent.com/TKhaqc08O_4CdacitYh3Bhv7SH41kcWoHF3E7eXJlJhF29DTjLM3esIzOi2HNAnSZlAImBrJpkeGbiSUmqtKPeaptIjjBLoHvoIBTfF9p2a7UBHUPQcNSK9x7uBAfE94uL4EaDcJ1IRYn7n3a5ZGV_E">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh3.googleusercontent.com/YIp80u-TuYs18o8qQeYBqGVaVhE3vF_Wg3kwAOjI0oMVRX8HGWqhOY3D1AljHFw0ztxpN9qMy5K0ibrnDfs6lwyBUbAWGrDFRCcEc4FIibwC9f-AfVUGjUeXvY8j_BadhxcUqd2ZCbsCE43Db31MReo">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="https://lh3.googleusercontent.com/YIp80u-TuYs18o8qQeYBqGVaVhE3vF_Wg3kwAOjI0oMVRX8HGWqhOY3D1AljHFw0ztxpN9qMy5K0ibrnDfs6lwyBUbAWGrDFRCcEc4FIibwC9f-AfVUGjUeXvY8j_BadhxcUqd2ZCbsCE43Db31MReo">
 </div>
 <h3>4d. &nbsp; Infusion of CCE</h3>
 <p>CCE is also infused in all IP subjects English, Mathematics, Science and
