@@ -3,19 +3,105 @@ title: Pupil Management
 permalink: /our-family/Departments-and-Committees/pupil-management/
 description: ""
 third_nav_title: Departments and Committees
+variant: tiptap
 ---
-**![](https://lh6.googleusercontent.com/UjXieLkl3jtQz5ibl5-6FIF9NsY2qcl1kK0aIYRow4RociH9UQTmEhP-vVDgtSmLehjIWxVbYv2Lk1Lzg-draxyfuRsLJTV7XYV64zgTvl_y9SraIwXNYySEO32sAlN2Syiy1Yf2IcNMaEiOX-sVoYk)**
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="200"><col width="200"><col width="224"></colgroup><tbody><tr style="height:21.75pt"><td colspan="3" style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Michelle Tan (HOD / Pupil Management)</span></p></td></tr><tr style="height:21.75pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Pupil Leadership</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Character-Based Discipline</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Pastoral Care</span></p></td></tr><tr style="height:21.75pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Marena Zulaiha&nbsp;</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Chiam Heng Chek</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Jamie Sing (SC)</span></p></td></tr><tr style="height:21.75pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Chung Xingyi</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Luo-Tan Min Leng</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr James Goh (SENO)</span></p></td></tr><tr style="height:21.75pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Cheryl Lee&nbsp;</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mr Sng Jin Lun</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Alice Koh (SENO)</span></p></td></tr><tr style="height:21.75pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Pang Weili</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Chia Su Si</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Jasima Afreen (SENO)</span></p></td></tr><tr style="height:21.75pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Irni Yusnita</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Koh Yan Li</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><br></td></tr><tr style="height:21.75pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Dilys Tan&nbsp;</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Jennie Tham</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><br></td></tr><tr style="height:21.75pt"><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:2pt;"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Kho Bhay Sian Grace</span></p></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><br></td><td style="border-left:solid #808080 1.125pt;border-right:solid #808080 1.125pt;border-bottom:solid #808080 1.125pt;border-top:solid #808080 1.125pt;vertical-align:top;padding:4pt 8pt 4pt 8pt;overflow:hidden;overflow-wrap:break-word;"><br></td></tr></tbody></table>
-
-# Key Information
-
-
-### Character-Based Discipline
-
-Discipline guides pupils in the internalisation of values and behaviours, so that they can learn and grow. Pupils also learn to take responsibility for their actions and work towards the goal of self-discipline.
-
-  
-### Pastoral Care
-
-Our School Counsellor, Special Needs Officers and Allied Educator (Teaching &amp; Learning) provide pupils with social, emotional and behavioural guidance so as to support them in their learning.
+<p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Ms Michelle Tan (HOD / Pupil Management)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Student Leadership and Discipline</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Pastoral Care</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Marena Zulaiha&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Chiam Heng Chek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jamie Sing (SC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chung Xingyi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Luo-Tan Min Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Alice Koh (SENO)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Kua-Tang Yoke Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sng Jin Lun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jasima Afreen (SENO)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kho Bhay Sian Grace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Yan Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jennie Tham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shirley Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Maslita Suhadi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>Key Information</h1>
+<h3>Character-Based Discipline</h3>
+<p>Discipline guides pupils in the internalisation of values and behaviours,
+so that they can learn and grow. Pupils also learn to take responsibility
+for their actions and work towards the goal of self-discipline.</p>
+<h3>Pastoral Care</h3>
+<p>Our School Counsellor, Special Needs Officers and Allied Educator (Teaching
+&amp; Learning) provide pupils with social, emotional and behavioural guidance
+so as to support them in their learning.</p>
