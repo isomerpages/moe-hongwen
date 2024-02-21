@@ -141,7 +141,6 @@ including but not limited to their number bonds from 1 to 20, and multiplication
 facts.&nbsp; Having good factual fluency builds students’ confidence and&nbsp;
 contributes to their ability to solve mathematical problems.</p>
 <h3>P5 Mathaquarium</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="math-aquarium" src="https://lh6.googleusercontent.com/o_wRUobuSaq0c4lNzSAAgVvdH5QUQqo9hDRGoQml0sky2JP7S2KN5ewSO_Fb_-h7KDGifY2cF6sT5VQVNEOFUkpJzy1C4xSWhPtFUiz-Q6iXTpM96ev9XUTcHuD1boz5JlwpOm2Uw-ABxl6TRsbY3deYZ6VFTWK8">
 </div>
