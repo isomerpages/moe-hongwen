@@ -123,12 +123,15 @@ understanding of the Mathematical concepts and skills taught.&nbsp; Opportunitie
 are also provided for students to build their reasoning and communication
 skills in class, whether it is through in-class participation or individual
 journaling tasks.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://lh4.googleusercontent.com/GbeWN85vHtz9DHVNRS1KtB7w2AVldX07LYJpLOXwRody-JE5f5kiuejJmkIyEsOBoT3Wj_i4Y8mkVenfJYK4hMVFdT8_WRgYkULGkBUOchAUWfqUdTa7eUpusd1RgKXRBcs1SFmAkXLNj2NFqcTeGDU">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://lh4.googleusercontent.com/r833vdLvZ7xxEsFsiPkIUR9ouY-Cs-Ld_jZWMmzzHCSCXaexaMHsg6a1StMfBsuN0mZMcNY2cj2yBo8498BWI7f4ccHPAlMkUeKTLzBjGdN0TVA7q3Y6qpsKO7h1mR_14MuXvIPzLjjOhb5sDmGcwwo">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://lh4.googleusercontent.com/N7cPatywUAZ-AjJ2j-XcCKqMQkZRmK92YWyFRBrxVhIkZkzAflmwIVpm14vl0qaAX1V1a83VhOoBhwd-osCdcZFnyOiA7Pzwdv5UCB_4HxNEw_lt-_MzN_yC8n0OuiD4rx_5AAcHFQaalqMl4pfOmeA">
 </div>
