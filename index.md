@@ -23,9 +23,9 @@ sections:
           url: https://www.instagram.com/hongwenschool_official/
   - infopic:
       button: read
-      alt: Image alt text
-      url: /character-art-exhibition-2023/
-      image: /images/Homepage/cae 2023_moe broadcast_final.jpeg
+      alt: NCC 2024
+      url: /nationalcalligraphycompetition2024/
+      image: /images/National_Calligraphy_Competition_2024.jpg
       subtitle: Upcoming events
   - infopic:
       button: Read More
