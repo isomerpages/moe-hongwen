@@ -6,6 +6,8 @@ variant: markdown
 ---
 ### **2024 Information Sheet for Parents**
 
+[Information Sheet for April 2024](/files/Parents'%20Hub/2023%20information%20sheets/Information_Sheet_for_April_2024.pdf)
+
 [Information Sheet for March 2024](/files/Parents'%20Hub/2023%20information%20sheets/Information_Sheet_for_March_2024_v2.pdf)
 
 [Information Sheet for February 2024](/files/Parents'%20Hub/2023%20information%20sheets/Information_Sheet_for_February_2024.pdf)
