@@ -17,17 +17,17 @@ and become confident individuals. In turn, we hope they will recognize
 their strengths and strive to realise their potential.</p>
 <p>To submit artworks, please click on the link according to the level of
 the pupils.</p>
-<p>P1: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p1cae2024</a>
+<p>P1: <a href="https://go.gov.sg/p1cae2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p1cae2024</a>
 </p>
-<p>P2: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p2cae2024</a>
+<p>P2: <a href="https://go.gov.sg/p2cae2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p2cae2024</a>
 </p>
-<p>P3: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p3cae2024</a>
+<p>P3: <a href="https://go.gov.sg/p3cae2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p3cae2024</a>
 </p>
-<p>P4: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p4cae2024</a>
+<p>P4: <a href="https://go.gov.sg/p4cae2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p4cae2024</a>
 </p>
-<p>P5: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p5cae2024</a>
+<p>P5: <a href="https://go.gov.sg/p5cae2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p5cae2024</a>
 </p>
-<p>P6: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p6cae2024</a>
+<p>P6: <a href="https://go.gov.sg/p6cae2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p6cae2024</a>
 </p>
 <p>For more details on the theme, please refer to SLS.</p>
 <p>The deadline for submission is on 28 June!</p>
