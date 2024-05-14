@@ -11,11 +11,10 @@ Library (Victoria Street).</p>
 <p>The exhibition allows our pupils to showcase their artistic talents and
 express themselves creatively, while engaging our School Alumni members
 and fostering a closer relationship between all stakeholders.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">The theme for this year is </a><em><a rel="noopener noreferrer nofollow" target="_blank">Celebrating Diverse Excellence</a></em> 
-<a rel="noopener noreferrer nofollow" target="_blank">[</a>卓越105- 听见你心里的卓越<strong>]. </strong>By celebrating the excellence
-within our students, they learn to affirm themselves and become confident
-individuals. In turn, we hope they will recognize their strengths and strive
-to realise their potential.</p>
+<p>The theme for this year is Celebrating Diverse Excellence [卓越105- 听见你心里的卓越<strong>]. </strong>By
+celebrating the excellence within our students, they learn to affirm themselves
+and become confident individuals. In turn, we hope they will recognize
+their strengths and strive to realise their potential.</p>
 <p>To submit artworks, please click on the link according to the level of
 the pupils.</p>
 <p>P1: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p1cae2024</a>
