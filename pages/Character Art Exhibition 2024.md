@@ -11,24 +11,23 @@ Library (Victoria Street).</p>
 <p>The exhibition allows our pupils to showcase their artistic talents and
 express themselves creatively, while engaging our School Alumni members
 and fostering a closer relationship between all stakeholders.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">The theme for this year is </a><em><a rel="noopener noreferrer nofollow" target="_blank">Celebrating Diverse Excellence</a></em> 
-<a rel="noopener noreferrer nofollow" target="_blank">[</a>卓越105- 听见你心里的卓越<strong>]. </strong>By celebrating the excellence
-within our students, they learn to affirm themselves and become confident
-individuals. In turn, we hope they will recognize their strengths and strive
-to realise their potential.</p>
+<p>The theme for this year is Celebrating Diverse Excellence [卓越105- 听见你心里的卓越<strong>]. </strong>By
+celebrating the excellence within our students, they learn to affirm themselves
+and become confident individuals. In turn, we hope they will recognize
+their strengths and strive to realise their potential.</p>
 <p>To submit artworks, please click on the link according to the level of
 the pupils.</p>
-<p>P1: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p1cae2024</a>
+<p>P1: <a href="https://go.gov.sg/p1cae2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p1cae2024</a>
 </p>
-<p>P2: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p2cae2024</a>
+<p>P2: <a href="https://go.gov.sg/p2cae2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p2cae2024</a>
 </p>
-<p>P3: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p3cae2024</a>
+<p>P3: <a href="https://go.gov.sg/p3cae2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p3cae2024</a>
 </p>
-<p>P4: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p4cae2024</a>
+<p>P4: <a href="https://go.gov.sg/p4cae2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p4cae2024</a>
 </p>
-<p>P5: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p5cae2024</a>
+<p>P5: <a href="https://go.gov.sg/p5cae2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p5cae2024</a>
 </p>
-<p>P6: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p6cae2024</a>
+<p>P6: <a href="https://go.gov.sg/p6cae2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p6cae2024</a>
 </p>
 <p>For more details on the theme, please refer to SLS.</p>
 <p>The deadline for submission is on 28 June!</p>
