@@ -6,9 +6,7 @@ variant: markdown
 ---
 **School Canteen Advertisement**
 
-![School_canteen_advertisement](/images/Parents'%20Hub/School_canteen.png)
-
-
+![School canteen Advertisement](/images/Parents'%20Hub/School_canteen_May_2024.png)
 
 
 
