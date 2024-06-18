@@ -6,7 +6,12 @@ third_nav_title: Departments and Committees
 variant: tiptap
 ---
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -65,7 +70,7 @@ variant: tiptap
 <p>Ms Koh Yan Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Rachel Emmanuelyn David (SENO)</p>
 </td>
 </tr>
 <tr>
