@@ -418,6 +418,12 @@ variant: tiptap
 <p>Mdm Choong Mei Ling Grace</p>
 <p>choong_mei_ling_grace@moe.edu.sg</p>
 <p>钟美玲（年级主任）</p>
+<p></p>
+<p></p>
+<p>Mr Alvin Ng Yin Kiat (AYH)</p>
+<p>ng_yinn_kiat_alvin@moe.edu.sg</p>
+<p>黄胤杰 （年级副主任）</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
