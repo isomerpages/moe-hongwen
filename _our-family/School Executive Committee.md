@@ -5,7 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>School Executive Committee</strong></h2>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -47,13 +54,13 @@ variant: tiptap
 <p>张爱玲副校长</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Vice-Principal</strong>
 </p>
 <p>Mr Bryan Ong</p>
 <p>王思聪副校长</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -86,7 +93,11 @@ variant: tiptap
 <p>杨宝吉 (主任)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Level Head</strong>
+</p>
+<p>Ms Poh Peh Hsia, Debbie</p>
+<p>poh_pei_hsia_debbie@moe.edu.sg</p>
+<p>(科主任）</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
