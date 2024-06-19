@@ -115,8 +115,7 @@ provides meaningful contexts for their learning and application.</p>
 <p>P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MSPPT/Google Docs
-<br>KidsAtWork
+<p>G-slide x KidsAtWork
 <br>P2 Hanyu Pinyin Typing (HCL)
 <br>Moo-O</p>
 </td>
@@ -134,7 +133,7 @@ provides meaningful contexts for their learning and application.</p>
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application of MSEXCEL/MSPPT</p>
+<p>Digital Explorer (MS Office)</p>
 </td>
 </tr>
 <tr>
@@ -212,71 +211,14 @@ across Cyber wellness messages to our students.</p>
 </tbody>
 </table>
 <p>For more information on <a href="https://beta.moe.gov.sg/programmes/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">Cyber wellness education, visit MOE website</a>.</p>
-<h3>Code For Fun</h3>
-<h5>P2 Kubo</h5>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<h5>Digital Literacy Photos</h5>
+<h5></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_1.jpg">
+</div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h5>P5 Sphero Bolt</h5>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1.jpg">
+</div>
 <p></p>
