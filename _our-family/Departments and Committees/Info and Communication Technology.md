@@ -212,7 +212,7 @@ across Cyber wellness messages to our students.</p>
 </table>
 <p>For more information on <a href="https://beta.moe.gov.sg/programmes/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">Cyber wellness education, visit MOE website</a>.</p>
 <p></p>
-<h2>Digital Literacy Photos </h2>
+<h2>Digital Literacy Photos</h2>
 <h4>Primary 1 Touch Typing</h4>
 <table style="minWidth: 50px">
 <colgroup>
