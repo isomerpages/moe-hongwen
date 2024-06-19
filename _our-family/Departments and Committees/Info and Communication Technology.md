@@ -6,22 +6,18 @@ third_nav_title: Departments and Committees
 variant: tiptap
 ---
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Kenny Lew Sin Tat (SH/ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dilys Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Gladys Ong Ying Wen (SH/Maths)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Seetoh Hsu Ping</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +25,7 @@ variant: tiptap
 <p>Mr Muhd Zaifar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Phoebe Cheong Si En</p>
+<p>Ms Seetoh Hsu Ping</p>
 </td>
 </tr>
 <tr>
@@ -48,6 +44,14 @@ variant: tiptap
 <p>Mr Marcus (DE)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Charles (DE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Key Information</h2>
@@ -59,7 +63,10 @@ world</p>
 equip our students with the skills to learn with technology. We also endeavour
 to inspire them to use technology to create and to pursue their dreams
 in life.&nbsp;</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -76,7 +83,11 @@ in a digitally-connected environment.</p>
 <p>The programme is integrated with the Instructional Programme (IP). This
 provides meaningful contexts for their learning and application.</p>
 <p>The Digital Literacy continuum in Hong Wen:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -151,7 +162,10 @@ seeks to increase students’ awareness of appropriate online behaviour and
 of how to protect oneself in cyberspace. We are aligned to MOE’s Cyber
 wellness Framework and adopts the Sense-Think-Act approach in bringing
 across Cyber wellness messages to our students.</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -200,7 +214,12 @@ across Cyber wellness messages to our students.</p>
 <p>For more information on <a href="https://beta.moe.gov.sg/programmes/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">Cyber wellness education, visit MOE website</a>.</p>
 <h3>Code For Fun</h3>
 <h5>P2 Kubo</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -227,7 +246,12 @@ across Cyber wellness messages to our students.</p>
 </tbody>
 </table>
 <h5>P5 Sphero Bolt</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
