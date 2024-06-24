@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Departments and Committees
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -129,8 +133,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>钟秀芳</p>
-<p>Mdm Chong Siew Fong</p>
+<p>郭彩莲</p>
+<p>Mdm Kuek Choy Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>列芝琳</p>
@@ -143,8 +147,8 @@ variant: tiptap
 <p>Mdm Soh Shiou Kam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>叶慧贤</p>
-<p>Mdm Yeh Wai Xian</p>
+<p>黄士恺</p>
+<p>Mr Ng Shi Kai Thomas</p>
 </td>
 </tr>
 </tbody>
@@ -186,7 +190,11 @@ in the learning of language and culture.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://lh5.googleusercontent.com/VYgsd-Yrv_p64g3XsQvS52uxBtXPEiZmGznDGZPXYVnzuMaw8a-HAUxj65a9RKvSRl_j0fL-Vgh5qTSJDkH2sIcFD8UAm2rEgTduWiYlaEDC-Mm-U6y3XQavfvYB9Xbc4jarv78KbIcVq4xL4pXBGT1ln0fwdist">
 </div>
 <p>有关华文学习资源的信息 (Useful Links)</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
