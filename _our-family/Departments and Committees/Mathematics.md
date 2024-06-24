@@ -8,12 +8,19 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://lh6.googleusercontent.com/YBYtUSP70F4JRZF5CxfZAe2jIuv535ufTT67Oc8xw9QkAnoDTd8X9ono378YaZzB6FVGD7ti5HaBgE5gOKYxACF5ogBwjUnXeAYYEnfdiCjJt75Kl8KcjibWemdyW4yeZcPLL5JtUUvyS0PAwy4JWjA">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -60,12 +67,21 @@ variant: tiptap
 <p>Ms Irene Choong</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Mrs Jenny Tham</p>
+</td>
+</tr>
 </tbody>
 </table>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -105,6 +121,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Kamala Durai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Parhana Sawari</p>
 </td>
 </tr>
 </tbody>
