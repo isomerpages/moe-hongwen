@@ -25,16 +25,16 @@ variant: tiptap
 <h5><strong>2024 Examination Timetable &amp; Scope of Assessment</strong></h5>
 <p><strong>Weighted Assessment 2 Schedule and Scope of Assessment</strong>
 </p>
-<p></p>
-<p><a href="/files/64_2024_WA2_P3_Schedule_and_Scope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P3 WA2 Schedule and Scope of Assessment</a>
+<p><a href="/files/2024_WA3_P3_Schedule_and_Scope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P3 WA3 Schedule and Scope of Assessment</a>
 </p>
 <p></p>
-<p><a href="/files/65_2024_WA2_P4_Schedule_and_Scope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 WA2 Schedule and Scope of Assessment</a>
+<p><a href="/files/2024_WA3_P4_Schedule_and_Scope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 WA3 Schedule and Scope of Assessment</a>
 </p>
 <p></p>
-<p><a href="/files/66_2024_WA2_P5_Schedule_and_Sope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 WA2 Schedule and Scope of Assessment</a>
+<p><a href="/files/2024_WA3_P5_Schedule_and_Scope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 WA3 Schedule and Scope of Assessment</a>
 </p>
 <p></p>
-<p><a href="/files/67_2024_WA2_P6_Schedule_and_Scope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 WA2 Schedule and Scope of Assessment</a>
+<p><a href="/files/2024_P6_Prelim_and_PSLE_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Prelim and PSLE Schedule</a>
 </p>
+<p></p>
 <p></p>
