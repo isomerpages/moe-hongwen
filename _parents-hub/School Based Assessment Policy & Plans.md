@@ -23,7 +23,7 @@ variant: tiptap
 <p><a href="/files/Parents'%20Hub/School%20Based%20assessment%20policy/2023%20P6%20Assessment%20Policy,%20Plan,%20WA%20info%20-%20EL,%20MA,%20SC%20&amp;%20CL.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 P6 Assessment Policy and Plan</a>
 </p>
 <h5><strong>2024 Examination Timetable &amp; Scope of Assessment</strong></h5>
-<p><strong>Weighted Assessment 2 Schedule and Scope of Assessment</strong>
+<p><strong>Weighted Assessment 3 Schedule and Scope of Assessment</strong>
 </p>
 <p><a href="/files/2024_WA3_P3_Schedule_and_Scope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P3 WA3 Schedule and Scope of Assessment</a>
 </p>
