@@ -420,7 +420,7 @@ variant: tiptap
 <p>钟美玲（年级主任）</p>
 <p></p>
 <p></p>
-<p>Mr Alvin Ng Yin Kiat (AYH)</p>
+<p>Mr Alvin Ng Yinn Kiat (AYH)</p>
 <p>ng_yinn_kiat_alvin@moe.edu.sg</p>
 <p>黄胤杰 （年级副主任）</p>
 <p></p>
