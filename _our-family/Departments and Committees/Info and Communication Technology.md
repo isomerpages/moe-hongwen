@@ -176,7 +176,8 @@ across Cyber wellness messages to our students.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Differentiated Assembly Programme</strong>
 </p>
-<p>(P1 to P4) ‘Online Strangers – Friends or Fiends?’</p>
+<p>(P1 to P2) ‘Screen Time, Media Multitasking &amp; Devices'</p>
+<p>(P3 to P4) ‘Online Strangers – Friends or Fiends?’</p>
 <p>(P5 to P6) ‘Fake News and Fact Checking’</p>
 <p>
 <br>
@@ -190,26 +191,42 @@ across Cyber wellness messages to our students.</p>
 <p>‘Countering Online Aggression’</p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Cyber wellness Advocacy Activities</strong>
-</p>
-<p>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Lessons during Form Teachers’ Guidance periods</strong>
-</p>
-<p>
-<br>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>P1-P2</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="P1-P2" src="/images/P12.jpg">
+</div>
+</th>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>P3-P4</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P34.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>P5-P6</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P56.jpg">
+</div>
 <p>For more information on <a href="https://beta.moe.gov.sg/programmes/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">Cyber wellness education, visit MOE website</a>.</p>
 <p></p>
 <h2>Digital Literacy Photos</h2>
