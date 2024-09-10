@@ -2,6 +2,7 @@
 title: Edusave Character Award (ECHA)
 permalink: /parents-hub/Edusave-Character-Award-ECHA/
 description: ""
+variant: markdown
 ---
 The Edusave Character Award (ECHA) was introduced by MOE to recognise pupils who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions, and to send a clear and strong signal of the importance that MOE places on character and values, on par with achievements in the academic domain. The award also supports our school’s effort in nurturing pupils of good values and character, who are active contributors and concerned citizens.
 
@@ -28,7 +29,10 @@ The Edusave Character Award (ECHA) was introduced by MOE to recognise pupils who
 
 **Edusave Character Award (ECHA) Nomination Forms**
 
-[Appendix B1 – Nomination form by parents, guardians, SMC and PSG coaches](https://go.gov.sg/appendixb1)  
-[Appendix B2- Self\_Peer nomination form\_Primary 1 and 2](https://go.gov.sg/appendixb2p1p2)  
-[Appendix B2- Self\_Peer nomination form\_Primary 3 and 4](https://go.gov.sg/appendixb2p3p4)  
-[Appendix B2- Self\_Peer nomination form\_Primary 5 and 6](https://go.gov.sg/appendixb2p5p6)
+[Appendix B1 – Nomination form by parents, guardians, SMC and PSG coaches](https://for.edu.sg/nominationformparents)
+
+[Appendix B2- Self_Peer nomination form_Primary 1 and 2](https://for.edu.sg/nominationformp1p2)
+
+[Appendix B2- Self_Peer nomination form_Primary 3 and 4](https://for.edu.sg/nominationformp3p4)
+
+[Appendix B2- Self_Peer nomination form_Primary 5 and 6](https://for.edu.sg/nominationformp5p6)
