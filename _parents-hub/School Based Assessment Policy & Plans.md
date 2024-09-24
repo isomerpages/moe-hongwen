@@ -25,15 +25,13 @@ variant: tiptap
 <h5><strong>2024 Examination Timetable &amp; Scope of Assessment</strong></h5>
 <p><strong>End-of-Year Schedule and Scope of Assessment</strong>
 </p>
-<p><a href="2024 P3 End-of-Year Examinations Schedule and Scope of Assessment" rel="noopener nofollow" target="_blank">2024 P3 End-of-Year Examinations Schedule and Scope of Assessment</a>
+<p><a href="/files/2024_EYE_P3_Timetable_and_Scope_of_Assessment.pdf" rel="noopener nofollow" target="_blank">2024 P3 End-of-Year Examinations Schedule and Scope of Assessment</a>
 </p>
 <p></p>
-<p><a href="/files/2024_WA3_P4_Schedule_and_Scope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 </a>
-<a href="/files/2024_WA3_P3_Schedule_and_Scope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examinations</a><a href="/files/2024_WA3_P4_Schedule_and_Scope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank"> Schedule and Scope of Assessment</a>
+<p><a href="/files/2024_EYE_P4_Timetable_and_Scope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 End-of-Year Examinations Schedule and Scope of Assessment</a>
 </p>
 <p></p>
-<p><a href="/files/2024_WA3_P5_Schedule_and_Scope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 </a>
-<a href="/files/2024_WA3_P3_Schedule_and_Scope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examinations</a><a href="/files/2024_WA3_P5_Schedule_and_Scope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank"> Schedule and Scope of Assessment</a>
+<p><a href="/files/2024_EYE_P5_Timetable_and_Scope_of_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 End-of-Year Examinations Schedule and Scope of Assessment</a>
 </p>
 <p></p>
 <p><a href="/files/2024_P6_Prelim_and_PSLE_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Prelim and PSLE Schedule</a>
