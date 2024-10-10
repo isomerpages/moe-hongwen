@@ -6,4 +6,4 @@ third_nav_title: School Mgmt Committee SMC
 variant: markdown
 ---
 
-![](/images/Our%20Family/Staff/SMC_09012024_OK_OK.png)
+![](/images/SMC_2024_v2.png)
