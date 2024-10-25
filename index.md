@@ -27,8 +27,8 @@ sections:
       id: infopic
       button: READ
       url: /character-art-exhibition-2024/
-      image: /images/WhatsApp_Image_2024_05_14_at_2_00_22_PM__1_.jpg
-      alt: Image alt text
+      image: /images/HWS_Character_Art_Exhibition_2024.jpg
+      alt: Character Art Exhibition 2024
   - infopic:
       button: read
       alt: NCC 2024
