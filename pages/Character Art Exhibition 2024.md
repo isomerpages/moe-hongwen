@@ -45,5 +45,5 @@ is beyond boundary!</p>
 26 October to 15 November 2024. Please refer to the poster for more details.</p>
 <p>
 <br>Scan the QR code to access our online exhibition. Alternatively, you can
-also visit the site via: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hwscharacterartexhibition2024</a>
+also visit the site via: <a href="https://go.gov.sg/hwscharacterartexhibition2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hwscharacterartexhibition2024</a>
 </p>
