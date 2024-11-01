@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>2024 Information Sheet for Parents</strong></h3>
+<p><a href="/files/Information_Sheet_for_November_2024.pdf" rel="noopener nofollow" target="_blank">Information Sheet for November 2024</a>
+</p>
 <p><a href="/files/Information_Sheet_for_October_2024.pdf" rel="noopener nofollow" target="_blank">Information_Sheet_for_October_2024</a>
 </p>
 <p><a href="/files/Information_Sheet_for_September_2024.pdf" rel="noopener nofollow" target="_blank">Information Sheet for September 2024</a>
