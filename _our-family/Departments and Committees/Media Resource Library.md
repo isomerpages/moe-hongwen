@@ -62,7 +62,7 @@ individuals into independent and strong bilingual readers.&nbsp;</p>
 <p>• Thematic book displays</p>
 <p>Book Quizzes</p>
 <p>Class Top Reader awards</p>
-<p>Pre-assemby book sharing</p>
+<p>Pre-assembly book sharing</p>
 <h3>Online resources:</h3>
 <p>Virtual library:</p>
 <p></p>
