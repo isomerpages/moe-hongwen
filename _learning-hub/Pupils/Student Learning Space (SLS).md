@@ -11,11 +11,5 @@ The SLS is a key platform in providing support to our pupils during HBL. SLS con
 
 Your child will be able to access SLS at:&nbsp;[https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
 
-SLS User Guide (login required) is available at :&nbsp;[https://moe.learning.moe.edu.sg/UserGuide/Vle/index.html](https://moe.learning.moe.edu.sg/UserGuide/Vle/index.html)
+SLS User Guide (login required) is available at :&nbsp;[https://www.learning.moe.edu.sg/teacher-user-guide/index/](https://www.learning.moe.edu.sg/teacher-user-guide/index/)
 
-Please refer to the links below for more information on HBL:
-
-|                                       |                                     |                                        |
-|---------------------------------------|-------------------------------------|----------------------------------------|
-|  [SLS](/learning-hub/Pupils/Student-Learning-Space-SLS/)                 |
-|        [SLS Technical Assistance](/learning-hub/Pupils/SLS-Technical-Assistance/)       | [Partnership with Parents during HBL](/Partnership-with-Parents-during-HBL/) | [Video Conferencing Guide and Tutorials](/Video-Conferencing-Guide-and-Tutorials/) |
