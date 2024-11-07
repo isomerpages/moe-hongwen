@@ -6,7 +6,11 @@ third_nav_title: Departments and Committees
 variant: tiptap
 ---
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
