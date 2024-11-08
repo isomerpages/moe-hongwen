@@ -154,7 +154,7 @@ provides meaningful contexts for their learning and application.</p>
 </tr>
 </tbody>
 </table>
-<p>For more information on digital literacy standards, visit <a href="https://sites.google.com/moe.edu.sg/baseline-ict/home" rel="noopener noreferrer nofollow" target="_blank">MOE’s resource site on New Media Literacies</a>.</p>
+<p></p>
 <h3>Cyber Wellness</h3>
 <p>To cultivate responsible digital learners, Hong Wen’s Cyber wellness programme
 seeks to increase students’ awareness of appropriate online behaviour and
@@ -227,7 +227,7 @@ across Cyber wellness messages to our students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P56.jpg">
 </div>
-<p>For more information on <a href="https://beta.moe.gov.sg/programmes/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">Cyber wellness education, visit MOE website</a>.</p>
+<p></p>
 <p></p>
 <h2>Digital Literacy Photos</h2>
 <h4>Primary 1 Touch Typing</h4>
