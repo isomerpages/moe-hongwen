@@ -64,10 +64,7 @@ individuals into independent and strong bilingual readers.&nbsp;</p>
 <p>Class Top Reader awards</p>
 <p>Pre-assembly book sharing</p>
 <h3>Online resources:</h3>
-<p>Virtual library:</p>
 <p></p>
-<p><a href="https://schoolibrary.moe.edu.sg/hongwen/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/hongwen</a>
-</p>
 <p>NLB e-resources site:</p>
 <p><a href="https://eresources.nlb.gov.sg/main/Pages/Primary" rel="noopener noreferrer nofollow" target="_blank">https://eresources.nlb.gov.sg/main/Pages/Primary</a>
 </p>
