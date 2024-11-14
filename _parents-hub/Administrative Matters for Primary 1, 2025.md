@@ -13,3 +13,11 @@ variant: markdown
 [3a. Request for School Bus Services 2025](/files/Parents'%20Hub/Admin_matters_for_pri_1_2025/3a__Request_for_School_Bus_Services_2025.pdf)
 
 [3b. ANNEX A - Terms and Conditions for School Bus Services 2025](/files/Parents'%20Hub/Admin_matters_for_pri_1_2025/3b__ANNEX_A___Terms_and_Conditions_for_School_Bus_Services_2025.pdf)
+
+[4a. Booklist for Primary 1 2025](/files/1__Booklist_for_Primary_1_2025.pdf)
+
+[4b. Step by Step guide on ordering textbook online from Pacific Bookstore portal](/files/2__Step_by_Step_guide_on_ordering_textbook_online_from_Pacific_Bookstore_portal.pdf)
+
+[5. Parents Gateway (PG) - Step by Step Guide to PG Onboarding](/files/3__Parents_Gateway__PG____Step_by_Step_Guide_to_PG_Onboarding.pdf)
+
+[6. Letter to parents Primary 1 2025 - October](/files/Letter_to_parents_Primary_1_2025___October.pdf)

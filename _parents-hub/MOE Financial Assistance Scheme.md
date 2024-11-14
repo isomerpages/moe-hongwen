@@ -2,18 +2,15 @@
 title: MOE Financial Assistance Scheme
 permalink: /parents-hub/MOE-Financial-Assistance-Scheme/
 description: ""
+variant: markdown
 ---
 **MOE Financial Assistance Scheme**
 
-<!-- [MOE FAS Application Form] -->
 
-<!--(/files/Parents'%20Hub/MOE%20FAS%20Scheme/MOE-FAS-Application-Form-2023.pdf)-->
+[MOE Financial Assistance Scheme 2025](/files/MOE_FAS_Application_Form_2025.pdf)
 
+[MOE Financial Assistance Scheme 2025 Pamphlet](/files/MOE_FAS_Pamphlet_2025.pdf)
 
-[MOE Financial Assistance Scheme 2024](/files/2024_moe_fas_application_form_ok.pdf)
-
-[MOE Financial Assistance Scheme 2024 
-Pamphet](/files/2024_moe_fas_pamphet_ok.pdf)
 
 **Application forms for Digital Access @ Home Scheme**
 
