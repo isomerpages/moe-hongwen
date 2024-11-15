@@ -32,33 +32,28 @@ Little Professors (Hong Wen School)
 Contact : 8725 6091  
 Email:&nbsp;[hongwen@littleprofessors.com.sg](mailto:hongwen@littleprofessors.com.sg)
 
-**2024 Book List**
-
-[Primary 1 book list - 2024](/files/Parents'%20Hub/Booklists_2024/P1_Booklist_2024.pdf)
-
-[Primary 2 book list - 2024](/files/Parents'%20Hub/Booklists_2024/P2_Booklist_2024.pdf)
-
-[Primary 3 book list - 2024](/files/Parents'%20Hub/Booklists_2024/P3_Booklist_2024.pdf)
-
-[Primary 4 book list - 2024](/files/Parents'%20Hub/Booklists_2024/P4_Booklist_2024.pdf)
-
-[Primary 5 book list - 2024](/files/Parents'%20Hub/Booklists_2024/P5_Booklist_2024.pdf)
-
-[Primary 5 (Foundation) book list - 2024](/files/Parents'%20Hub/Booklists_2024/P5_F_Booklist_2024.pdf)
-
-[Primary 6 book list - 2024](/files/Parents'%20Hub/Booklists_2024/P6_Booklist_2024.pdf)
-
-[Primary 6 (Foundation) book list - 2024](/files/Parents'%20Hub/Booklists_2024/P6_F_Booklist_2024.pdf)
+**2025 Book List**
 
 
 
+[Primary 1 book list - 2025](/files/P1_Booklist_2025.pdf)
 
+[Primary 2 book list - 2025](/files/P2_Booklist_2025.pdf)
+
+[Primary 3 book list - 2025](/files/P3_Booklist_2025.pdf)
+
+[Primary 4 book list - 2025](/files/P4_Booklist_2025.pdf)
+
+[Primary 5 book list - 2025](/files/P5_Booklist_2025.pdf)
+
+[Primary 5 (Foundation) book list - 2025](/files/P5F_Booklist_2025.pdf)
+
+[Primary 6 book list - 2025](/files/P6_Booklist_2025.pdf)
+
+[Primary 6 (Foundation) book list - 2025](/files/P6F_Booklist_2025.pdf)
 
 **Name Tag Suppliers**  
 [Name Tag Ordering Portal](http://www.stitchwerkz.sg/nametags_hws)
 
 **Canteen Stall Price List**  
 [2024 Canteen Price List](/files/Parents'%20Hub/Vendorsupplier%20contact%20list/Canteen_Prices_2024__July_.pdf)
-
-
-
