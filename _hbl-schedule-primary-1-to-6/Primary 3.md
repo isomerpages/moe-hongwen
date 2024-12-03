@@ -2,6 +2,7 @@
 title: Primary 3
 permalink: /hbl-schedule-primary-1-to-6/Primary-3/
 description: ""
+variant: markdown
 ---
 [**3 Compassion**](https://docs.google.com/spreadsheets/d/1GYI5tiQc0eoX1k_UtLEEisd1OzmLQJ12jEarsJ0kzcg/edit?usp=drive_web&ouid=114838000311987576654)
 
