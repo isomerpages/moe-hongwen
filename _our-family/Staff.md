@@ -49,7 +49,8 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><em>Aqidah???</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Wei Ling Shirley</p>
@@ -65,7 +66,8 @@ variant: tiptap
 <p>foo_hwa_kin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><em>Jaslyn Seah</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +79,8 @@ variant: tiptap
 <p>yeo_seow_huey@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><em>Raihana</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -130,16 +133,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Kamaliah</p>
 <p>siti_nur_kamaliah@moe.edu.sg</p>
-<p></p>
-<p>Mdm Azizah Idris</p>
-<p>azizah_idris@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Kah Yun (陈佳韵)</p>
 <p>tan_kah_yun@moe.edu.sg</p>
-<p></p>
-<p>Mr Ten Ren Shyong (邓人雄)</p>
-<p>ten_ren_shyong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
