@@ -85,10 +85,12 @@ variant: tiptap
 <p>1Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ruby Gandaruban</p>
+<p>gandaruban_gantha_ruby@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Luo Sen Yuan (罗森元)</p>
+<p>Luo_senyuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -186,16 +188,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Chua Siew Lay</p>
 <p>tan_siew_lay@moe.edu.sg</p>
-<p></p>
-<p>Mdm Ruby Gandaruban</p>
-<p>gandaruban_gantha_ruby@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Victor Lim</p>
 <p>lim_chung_chin@moe.edu.sg</p>
-<p></p>
-<p>Ms Luo Sen Yuan (罗森元)</p>
-<p>Luo_senyuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
