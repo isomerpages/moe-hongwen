@@ -460,15 +460,12 @@ variant: tiptap
 <p>Mr Yeo Poh Kiat Benjamin</p>
 <p>yeo_poh_kiat_benjamin@moe.edu.sg</p>
 <p></p>
-<p>Ms Jermaine Tan</p>
-<p>jermaine_tan_pei_ling@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ling In Kee</p>
 <p>ling_in_kee@moe.edu.sg</p>
 <p></p>
-<p>Mdm Li Qiaolan (李巧兰)</p>
-<p>li_qiaolan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -541,10 +538,12 @@ variant: tiptap
 <p>6 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Jermaine Tan</p>
+<p>jermaine_tan_pei_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Li Qiaolan (李巧兰)</p>
+<p>li_qiaolan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
