@@ -396,6 +396,7 @@ variant: tiptap
 <p>farah_aqilah_norjula@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Zhao Sanmin</p>
 <p></p>
 </td>
 </tr>
@@ -439,7 +440,8 @@ variant: tiptap
 <p>tan_min_leng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><em>Ms Sharmaine Tan</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -452,7 +454,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><em>Ms Kuey Choy Lin</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -530,10 +533,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Ng Yinn Kiat Alvin (黄胤杰)</p>
 <p>ng_yinn_kiat_alvin@moe.edu.sg</p>
-<p></p>
-<p></p>
-<p>Mr Lee Ching Song (李青松)</p>
-<p>lee_ching_song@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Arusu</p>
