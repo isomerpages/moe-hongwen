@@ -425,10 +425,17 @@ variant: tiptap
 <p>5 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Marilyn Huang</p>
+<p>huang_shuxuan_marilyn@moe.edu.sg</p>
+<p></p>
 <p>Mdm Susan Koh</p>
 <p>Koh_kia_lee_susan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Ng Choon Ping (黄俊平)</p>
+<p>ng_choon_ping@moe.edu.sg</p>
+<p></p>
+<p></p>
 <p>Mr Anthony Ruben Aruldass</p>
 <p>anthony_ruben_aruldass@moe.edu.sg</p>
 </td>
@@ -440,9 +447,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Farah Aqilah Bte Norjula</p>
 <p>farah_aqilah_norjula@moe.edu.sg</p>
-<p></p>
-<p>Ms Marilyn Huang</p>
-<p>huang_shuxuan_marilyn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Zhao Lei (赵蕾)</p>
@@ -545,8 +549,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Choon Ping (黄俊平)</p>
-<p>ng_choon_ping@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
