@@ -301,8 +301,7 @@ variant: tiptap
 <p>Ms Tham Lai Hing Jennie</p>
 <p>tham_lai_hing_jennie@moe.edu.sg</p>
 <p></p>
-<p>Mr Tan Yong Meng Jason</p>
-<p>tan_yong_meng_jason@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Beng Hee</p>
@@ -321,8 +320,7 @@ variant: tiptap
 <p>poh_pei_hsia_debbie@moe.edu.sg</p>
 <p></p>
 <p></p>
-<p>Mr Chow Songyan</p>
-<p>chow_songyan@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhang Hong (张弘)</p>
@@ -388,7 +386,8 @@ variant: tiptap
 <p>4 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Yong Meng Jason</p>
+<p>tan_yong_meng_jason@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -399,9 +398,13 @@ variant: tiptap
 <p>4 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Chow Songyan</p>
+<p>chow_songyan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Christina Tan Siew Eng (陈盈秀)</p>
+<p>tan_eng_siew_christina@moe.edu.sg</p>
+<p></p>
 <p>Mrs Woon-Kow Bi Xia</p>
 <p>kow_bi_xia@moe.edu.sg</p>
 </td>
@@ -414,8 +417,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Christina Tan Siew Eng (陈盈秀)</p>
-<p>tan_eng_siew_christina@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
