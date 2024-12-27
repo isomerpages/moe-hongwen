@@ -239,7 +239,8 @@ variant: tiptap
 <p>lew_sin_tat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><em>Wang Yingchao</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -249,15 +250,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Kua-Tang Yoke Teng</p>
 <p>tang_yoke_teng@moe.edu.sg</p>
-<p></p>
-<p>Ms Gladys Ong Ying Wen</p>
-<p>ong_ying_wen@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Matthew Chan</p>
 <p>matthew_kam-lung_chan@moe.edu.sg</p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
