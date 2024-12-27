@@ -333,15 +333,11 @@ variant: tiptap
 <p>3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Zaifar Bin Salleh</p>
-<p>mohamad_zaifar_salleh@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joanne Lam Hui Yee</p>
 <p>lam_hui_yee_joanne@moe.edu.sg</p>
-<p></p>
-<p>Ms Yip Shi Ying (叶诗莹)</p>
-<p>yip_shi_ying@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -414,10 +410,12 @@ variant: tiptap
 <p>4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Mohamad Zaifar Bin Salleh</p>
+<p>mohamad_zaifar_salleh@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Yip Shi Ying (叶诗莹)</p>
+<p>yip_shi_ying@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
