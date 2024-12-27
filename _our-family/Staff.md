@@ -266,8 +266,7 @@ variant: tiptap
 <p>lew_sin_tat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bryan Mai</p>
-<p>mai_qing_jiang@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -347,7 +346,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Winnie Su</p>
-<p></p>
+<p>su_huiya_winnie@moe.edu.sg</p>
 <p></p>
 <p>Mr Matthew Chan</p>
 <p>matthew_kam-lung_chan@moe.edu.sg</p>
@@ -358,9 +357,11 @@ variant: tiptap
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Bryan Mai</p>
+<p>mai_qing_jiang@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Leong Howe</p>
 <p></p>
 </td>
 </tr>
@@ -437,6 +438,9 @@ variant: tiptap
 <p>5 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Farah Aqilah Bte Norjula</p>
+<p>farah_aqilah_norjula@moe.edu.sg</p>
+<p></p>
 <p>Ms Marilyn Huang</p>
 <p>huang_shuxuan_marilyn@moe.edu.sg</p>
 </td>
@@ -450,10 +454,16 @@ variant: tiptap
 <p>5 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Yeo Poh Kiat Benjamin</p>
+<p>yeo_poh_kiat_benjamin@moe.edu.sg</p>
+<p></p>
 <p>Ms Jermaine Tan</p>
 <p>jermaine_tan_pei_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Ling In Kee</p>
+<p>ling_in_kee@moe.edu.sg</p>
+<p></p>
 <p>Mdm Li Qiaolan (李巧兰)</p>
 <p>li_qiaolan@moe.edu.sg</p>
 </td>
@@ -467,6 +477,10 @@ variant: tiptap
 <p>tan_yan_shan_michelle@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Koh Qinghui (许清惠)</p>
+<p>koh_qinghui@moe.edu.sg</p>
+<p></p>
+<p></p>
 <p>Mdm Chan Ah Hoon (陈雅云)</p>
 <p>chan_ah_hoon@moe.edu.sg</p>
 </td>
@@ -476,7 +490,8 @@ variant: tiptap
 <p>5 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Luo-Tan Min Leng</p>
+<p>tan_min_leng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Diana Ng (黄梅婷)</p>
@@ -485,9 +500,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5Responsibility</p>
+<p>5 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Dilys Tan</p>
+<p>tan_xin_yi_dilys@moe.edu.sg</p>
+<p></p>
 <p>Mrs Arusu</p>
 <p>rathika_techinamurthi@moe.edu.sg</p>
 </td>
@@ -501,12 +519,10 @@ variant: tiptap
 <p>6 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ling In Kee</p>
-<p>ling_in_kee@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Qinghui (许清惠)</p>
-<p>koh_qinghui@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -514,8 +530,7 @@ variant: tiptap
 <p>6 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dilys Tan</p>
-<p>tan_xin_yi_dilys@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Neo Sock Khim</p>
@@ -527,8 +542,7 @@ variant: tiptap
 <p>6 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Farah Aqilah Bte Norjula</p>
-<p>farah_aqilah_norjula@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Choon Ping (黄俊平)</p>
@@ -556,8 +570,7 @@ variant: tiptap
 <p>tan_li_ying_marilyn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Poh Kiat Benjamin</p>
-<p>yeo_poh_kiat_benjamin@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -569,8 +582,7 @@ variant: tiptap
 <p>lee_ching_song@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Luo-Tan Min Leng</p>
-<p>tan_min_leng@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
