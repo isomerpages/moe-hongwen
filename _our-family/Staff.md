@@ -359,7 +359,7 @@ variant: tiptap
 <p>chow_songyan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Christina Tan Siew Eng (陈盈秀)</p>
+<p>Ms Christina Tan Eng Siew (陈盈秀)</p>
 <p>tan_eng_siew_christina@moe.edu.sg</p>
 </td>
 </tr>
