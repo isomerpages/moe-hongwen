@@ -273,6 +273,9 @@ variant: tiptap
 <p>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Kua-Tang Yoke Teng</p>
+<p>tang_yoke_teng@moe.edu.sg</p>
+<p></p>
 <p>Ms Gladys Ong Ying Wen</p>
 <p>ong_ying_wen@moe.edu.sg</p>
 </td>
@@ -376,8 +379,7 @@ variant: tiptap
 <p>4 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kua-Tang Yoke Teng</p>
-<p>tang_yoke_teng@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
