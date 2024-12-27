@@ -37,15 +37,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Irene Choong</p>
 <p>choong_irene@moe.edu.sg</p>
-<p></p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chia Su Si (谢絮诗)</p>
 <p>chia_su_si@moe.edu.sg</p>
-<p></p>
-<p></p>
 <p></p>
 </td>
 </tr>
@@ -57,7 +52,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lim Wei Ling Shirley</p>
+<p>lim_wei_ling_shirley@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -92,8 +88,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shazwani Binte Mustaffa</p>
-<p>Shazwani_mustaffa@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -101,11 +96,13 @@ variant: tiptap
 <p>1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Irni Yusnita</p>
+<p>irni_yusnita@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lo Mei-Ling (罗美凌)</p>
+<p>lo_mei_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -163,15 +160,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Chung Xingyi</p>
 <p>chung_xingyi@moe.edu.sg</p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Gek Hong</p>
 <p>teo_gek_hong@moe.edu.sg</p>
-<p></p>
-<p>Ms Lim Wei Ling Shirley</p>
-<p>lim_wei_ling_shirley@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -223,8 +215,7 @@ variant: tiptap
 <p>Ms Seetoh Hsu Ping (司徒抒坪)</p>
 <p>seetoh_hsu_ping@moe.edu.sg</p>
 <p></p>
-<p>Ms Lo Mei-Ling (罗美凌)</p>
-<p>lo_mei_ling@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -238,9 +229,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Yang Shuya Sophia (杨淑雅)</p>
 <p>yang_shuya_sophia@moe.edu.sg</p>
-<p></p>
-<p>Mdm Irni Yusnita</p>
-<p>irni_yusnita@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
