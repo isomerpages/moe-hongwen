@@ -158,8 +158,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department</strong>
 </p>
-<p>Ms Neo Sock Khim</p>
-<p>neo_sock_khim@moe.edu.sg</p>
+<p>Mr Tan Leong Howe</p>
+<p>tan_leong_howe</p>
+<p>@moe.edu.sg</p>
 <p>主任）</p>
 </td>
 <td rowspan="1" colspan="4">
