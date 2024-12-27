@@ -263,14 +263,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Tham Lai Hing Jennie</p>
 <p>tham_lai_hing_jennie@moe.edu.sg</p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Beng Hee</p>
 <p>lim_beng_hee@moe.edu.sg</p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -280,17 +276,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Debbie Poh</p>
 <p>poh_pei_hsia_debbie@moe.edu.sg</p>
-<p></p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhang Hong (张弘)</p>
 <p>zhang_hong@moe.edu.sg</p>
-<p></p>
-<p></p>
-<p>Ms Ling Moi Lang (林美兰)</p>
-<p>ling_moi_lang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -298,7 +287,8 @@ variant: tiptap
 <p>3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><em>Celestine Kok?</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joanne Lam Hui Yee</p>
@@ -316,9 +306,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Winnie Su</p>
 <p>su_huiya_winnie@moe.edu.sg</p>
-<p></p>
-<p>Mr Matthew Chan</p>
-<p>matthew_kam-lung_chan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
