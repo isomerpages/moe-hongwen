@@ -39,16 +39,14 @@ variant: tiptap
 <p>choong_irene@moe.edu.sg</p>
 <p></p>
 <p></p>
-<p>Mdm Kamaliah</p>
-<p>siti_nur_kamaliah@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chia Su Si (谢絮诗)</p>
 <p>chia_su_si@moe.edu.sg</p>
 <p></p>
 <p></p>
-<p>Ms Tan Kah Yun (陈佳韵)</p>
-<p>tan_kah_yun@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -56,12 +54,10 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joanna Khong</p>
-<p>khong_lai_ling_joanna@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Lay Lian (黄丽莲)</p>
-<p>ng_lay_lian@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -71,13 +67,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Foo Hwa Kin (符华娟)</p>
 <p>foo_hwa_kin@moe.edu.sg</p>
-<p></p>
-<p>Ms Chung Xingyi</p>
-<p>chung_xingyi@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Gek Hong</p>
-<p>teo_gek_hong@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -89,8 +81,7 @@ variant: tiptap
 <p>yeo_seow_huey@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Chun Hua (蔡俊华)</p>
-<p>chua_chun_hua@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -144,10 +135,16 @@ variant: tiptap
 <p>2Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Kamaliah</p>
+<p>siti_nur_kamaliah@moe.edu.sg</p>
+<p></p>
 <p>Mdm Azizah Idris</p>
 <p>azizah_idris@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Tan Kah Yun (陈佳韵)</p>
+<p>tan_kah_yun@moe.edu.sg</p>
+<p></p>
 <p>Mr Ten Ren Shyong (邓人雄)</p>
 <p>ten_ren_shyong@moe.edu.sg</p>
 </td>
@@ -157,10 +154,12 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Joanna Khong</p>
+<p>khong_lai_ling_joanna@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ng Lay Lian (黄丽莲)</p>
+<p>ng_lay_lian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -168,10 +167,16 @@ variant: tiptap
 <p>2 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Chung Xingyi</p>
+<p>chung_xingyi@moe.edu.sg</p>
+<p></p>
 <p>Mr Ng Choon Yong Benny</p>
 <p>ng_choon_yong_benny@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Teo Gek Hong</p>
+<p>teo_gek_hong@moe.edu.sg</p>
+<p></p>
 <p>Ms Lim Wei Ling Shirley</p>
 <p>lim_wei_ling_shirley@moe.edu.sg</p>
 </td>
@@ -181,10 +186,12 @@ variant: tiptap
 <p>2 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ashley Ong</p>
+<p>Ashley_ong_jun_kiat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Chua Chun Hua (蔡俊华)</p>
+<p>chua_chun_hua@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -232,8 +239,7 @@ variant: tiptap
 <p>3Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ashley Ong</p>
-<p>Ashley_ong_jun_kiat@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Doris Lau</p>
