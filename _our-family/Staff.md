@@ -125,10 +125,16 @@ variant: tiptap
 <p>1 Thrift</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Joycelyn Tan</p>
+<p>tan_poh_choo_joycelyn@moe.edu.sg</p>
+<p></p>
 <p>Mdm May Lye</p>
 <p>Lye_foong_mei@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Koh Yan Li</p>
+<p>koh_yan_li@moe.edu.sg</p>
+<p></p>
 <p>Ms Yang Shuya Sophia (杨淑雅)</p>
 <p>yang_shuya_sophia@moe.edu.sg</p>
 </td>
@@ -175,8 +181,7 @@ variant: tiptap
 <p>2 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joycelyn Tan</p>
-<p>tan_poh_choo_joycelyn@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -240,8 +245,7 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Yan Li</p>
-<p>koh_yan_li@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Bryan Mai</p>
