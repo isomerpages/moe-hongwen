@@ -280,6 +280,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Zhang Hong (张弘)</p>
 <p>zhang_hong@moe.edu.sg</p>
+<p></p>
+<p>Mrs Chiam Heng Chek</p>
+<p>chiam_heng_chek@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -453,8 +456,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Ms Kuey Choy Lin</em></strong>
-</p>
+<p>Mdm Kuek Choy Lin</p>
+<p>kuek_choy_lin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -507,9 +510,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Chan Ah Hoon (陈雅云)</p>
 <p>chan_ah_hoon@moe.edu.sg</p>
-<p></p>
-<p>Mrs Chiam Heng Chek</p>
-<p>chiam_heng_chek@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
