@@ -101,13 +101,11 @@ variant: tiptap
 <p>1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yasmine Thennarasu</p>
-<p>thennarasu_a@moe.edu.sg</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Seetoh Hsu Ping (司徒抒坪)</p>
-<p>seetoh_hsu_ping@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -118,15 +116,12 @@ variant: tiptap
 <p>Mdm Joycelyn Tan</p>
 <p>tan_poh_choo_joycelyn@moe.edu.sg</p>
 <p></p>
-<p>Mdm May Lye</p>
-<p>Lye_foong_mei@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Yan Li</p>
 <p>koh_yan_li@moe.edu.sg</p>
 <p></p>
-<p>Ms Yang Shuya Sophia (杨淑雅)</p>
-<p>yang_shuya_sophia@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -217,11 +212,18 @@ variant: tiptap
 <p>2 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Yasmine Thennarasu</p>
+<p>thennarasu_a@moe.edu.sg</p>
+<p></p>
+<p></p>
 <p>Mdm Zulaiha</p>
 <p>marena_zulaiha_abdul_manaff@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Seetoh Hsu Ping (司徒抒坪)</p>
+<p>seetoh_hsu_ping@moe.edu.sg</p>
+<p></p>
 <p>Ms Lo Mei-Ling (罗美凌)</p>
 <p>lo_mei_ling@moe.edu.sg</p>
 </td>
@@ -231,9 +233,13 @@ variant: tiptap
 <p>2 Thrift</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm May Lye</p>
+<p>Lye_foong_mei@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Yang Shuya Sophia (杨淑雅)</p>
+<p>yang_shuya_sophia@moe.edu.sg</p>
+<p></p>
 <p>Mdm Irni Yusnita</p>
 <p>irni_yusnita@moe.edu.sg</p>
 </td>
@@ -293,10 +299,18 @@ variant: tiptap
 <p>3 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Debbie Poh</p>
+<p>poh_pei_hsia_debbie@moe.edu.sg</p>
+<p></p>
+<p></p>
 <p>Mr Chow Songyan</p>
 <p>chow_songyan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Zhang Hong (张弘)</p>
+<p>zhang_hong@moe.edu.sg</p>
+<p></p>
+<p></p>
 <p>Ms Ling Moi Lang (林美兰)</p>
 <p>ling_moi_lang@moe.edu.sg</p>
 </td>
@@ -361,8 +375,7 @@ variant: tiptap
 <p>tang_yoke_teng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhang Hong (张弘)</p>
-<p>zhang_hong@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -513,8 +526,7 @@ variant: tiptap
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Debbie Poh</p>
-<p>poh_pei_hsia_debbie@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Chiam Heng Chek</p>
