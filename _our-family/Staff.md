@@ -249,9 +249,13 @@ variant: tiptap
 <p>3Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Shirley Koh</p>
+<p>koh_shirley@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Sng Jinlun</p>
+<p>sng_jin_lun@moe.edu.sg</p>
+<p></p>
 <p>Ms Doris Lau</p>
 <p>lau_wai_han@moe.edu.sg</p>
 </td>
@@ -280,6 +284,10 @@ variant: tiptap
 <p>ong_ying_wen@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Matthew Chan</p>
+<p>matthew_kam-lung_chan@moe.edu.sg</p>
+<p></p>
+<p></p>
 <p>Ms Li Yu-Ju</p>
 <p>li_yu_ju@moe.edu.sg</p>
 </td>
@@ -333,6 +341,9 @@ variant: tiptap
 <p>mohamad_zaifar_salleh@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Joanne Lam Hui Yee</p>
+<p>lam_hui_yee_joanne@moe.edu.sg</p>
+<p></p>
 <p>Ms Yip Shi Ying (叶诗莹)</p>
 <p>yip_shi_ying@moe.edu.sg</p>
 </td>
@@ -342,8 +353,7 @@ variant: tiptap
 <p>4Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joanne Lam Hui Yee</p>
-<p>lam_hui_yee_joanne@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Matthew Chan</p>
@@ -358,8 +368,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shirley Koh</p>
-<p>koh_shirley@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -390,8 +399,7 @@ variant: tiptap
 <p>4 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sng Jinlun</p>
-<p>sng_jin_lun@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Woon-Kow Bi Xia</p>
