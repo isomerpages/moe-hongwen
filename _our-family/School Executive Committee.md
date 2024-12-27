@@ -153,7 +153,7 @@ variant: tiptap
 </p>
 <p>Mr Tan Leong Howe</p>
 <p>tan_leong_howe@moe.edu.sg</p>
-<p>(主任）</p>
+<p>陈龙孝(主任）</p>
 </td>
 <td rowspan="1" colspan="4">
 <p><strong>Level Head</strong>
