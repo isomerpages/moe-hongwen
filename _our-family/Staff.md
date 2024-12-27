@@ -318,7 +318,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Leong Howe</p>
-<p></p>
+<p>tan_leong_howe@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
