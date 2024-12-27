@@ -464,7 +464,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Responsibility</p>
+<p>5Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Dilys Tan</p>
