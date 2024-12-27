@@ -419,7 +419,8 @@ variant: tiptap
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Sylvia Quek</p>
+<p>Email (TBA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Qinghui (许清惠)</p>
@@ -438,8 +439,8 @@ variant: tiptap
 <p>tan_min_leng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Ms Sharmaine Tan</em></strong>
-</p>
+<p>Ms Sharmaine Tan</p>
+<p>tan_qimin_sharmaine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
