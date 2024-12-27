@@ -35,10 +35,18 @@ variant: tiptap
 <p>1Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Irene Choong</p>
+<p>choong_irene@moe.edu.sg</p>
+<p></p>
+<p></p>
 <p>Mdm Kamaliah</p>
 <p>siti_nur_kamaliah@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Chia Su Si (谢絮诗)</p>
+<p>chia_su_si@moe.edu.sg</p>
+<p></p>
+<p></p>
 <p>Ms Tan Kah Yun (陈佳韵)</p>
 <p>tan_kah_yun@moe.edu.sg</p>
 </td>
@@ -61,6 +69,9 @@ variant: tiptap
 <p>1 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Foo Hwa Kin (符华娟)</p>
+<p>foo_hwa_kin@moe.edu.sg</p>
+<p></p>
 <p>Ms Chung Xingyi</p>
 <p>chung_xingyi@moe.edu.sg</p>
 </td>
@@ -74,8 +85,8 @@ variant: tiptap
 <p>1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Phoebe Cheong Si En</p>
-<p>phoebe_cheong_si_en@moe.edu.sg</p>
+<p>Ms Yeo Seow Huey (杨晓慧)</p>
+<p>yeo_seow_huey@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Chun Hua (蔡俊华)</p>
@@ -140,12 +151,10 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Irene Choong</p>
-<p>choong_irene@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Seow Huey (杨晓慧)</p>
-<p>yeo_seow_huey@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -170,8 +179,7 @@ variant: tiptap
 <p>tan_poh_choo_joycelyn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Su Si (谢絮诗)</p>
-<p>chia_su_si@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -327,8 +335,7 @@ variant: tiptap
 <p>lew_sin_tat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Foo Hwa Kin (符华娟)</p>
-<p>foo_hwa_kin@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
