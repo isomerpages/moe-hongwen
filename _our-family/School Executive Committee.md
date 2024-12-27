@@ -159,9 +159,8 @@ variant: tiptap
 <p><strong>Head of Department</strong>
 </p>
 <p>Mr Tan Leong Howe</p>
-<p>tan_leong_howe</p>
-<p>@moe.edu.sg</p>
-<p>主任）</p>
+<p>tan_leong_howe@moe.edu.sg</p>
+<p>(主任）</p>
 </td>
 <td rowspan="1" colspan="4">
 <p><strong>Level Head</strong>
