@@ -67,7 +67,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jaslyn Seah</p>
-<p></p>
+<p>seah_yan_yun_jaslyn@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -423,7 +423,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Sylvia Quek</p>
-<p>Email (TBA)</p>
+<p>ong_mui_yen_sylvia@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Qinghui (许清惠)</p>
