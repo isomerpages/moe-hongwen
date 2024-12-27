@@ -255,9 +255,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Sng Jinlun</p>
 <p>sng_jin_lun@moe.edu.sg</p>
-<p></p>
-<p>Ms Doris Lau</p>
-<p>lau_wai_han@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -345,9 +342,13 @@ variant: tiptap
 <p>4Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Doris Lau</p>
+<p>lau_wai_han@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Winnie Su</p>
+<p></p>
+<p></p>
 <p>Mr Matthew Chan</p>
 <p>matthew_kam-lung_chan@moe.edu.sg</p>
 </td>
