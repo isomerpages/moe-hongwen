@@ -265,7 +265,8 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Kenny Lew Sin Tat</p>
+<p>lew_sin_tat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Bryan Mai</p>
@@ -376,8 +377,7 @@ variant: tiptap
 <p>4 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kenny Lew Sin Tat</p>
-<p>lew_sin_tat@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
