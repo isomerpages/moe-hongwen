@@ -160,7 +160,7 @@ variant: tiptap
 </p>
 <p>Ms Neo Sock Khim</p>
 <p>neo_sock_khim@moe.edu.sg</p>
-<p>梁素琴 （主任）</p>
+<p>主任）</p>
 </td>
 <td rowspan="1" colspan="4">
 <p><strong>Level Head</strong>
