@@ -48,7 +48,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal</strong>
+<p><strong>Vice-Principal (EO)</strong>
 </p>
 <p>Miss Teo Ai Lin</p>
 <p>张爱玲副校长</p>
@@ -57,7 +57,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal</strong>
+<p><strong>Vice-Principal (EO)</strong>
 </p>
 <p>Mr Bryan Ong</p>
 <p>王思聪副校长</p>
@@ -66,7 +66,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Vice-Principal (Admin)</strong>
+</p>
+<p>Ms Christine Poon</p>
 </td>
 </tr>
 <tr>
@@ -413,17 +415,18 @@ variant: tiptap
 </p>
 <p></p>
 <p></p>
-<p><strong>Primary 5 and 6</strong>
+<p><strong>Primary 5</strong>
 </p>
-<p>Mdm Choong Mei Ling Grace</p>
-<p>choong_mei_ling_grace@moe.edu.sg</p>
-<p>钟美玲（年级主任）</p>
-<p></p>
-<p></p>
 <p>Mr Alvin Ng Yinn Kiat (AYH)</p>
 <p>ng_yinn_kiat_alvin@moe.edu.sg</p>
 <p>黄胤杰 （年级副主任）</p>
 <p></p>
+<p></p>
+<p><strong>Primary 6</strong>
+</p>
+<p>Mdm Choong Mei Ling Grace</p>
+<p>choong_mei_ling_grace@moe.edu.sg</p>
+<p>钟美玲（年级主任）</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
