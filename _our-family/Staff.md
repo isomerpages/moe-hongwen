@@ -307,8 +307,7 @@ variant: tiptap
 <p>Mr Lim Beng Hee</p>
 <p>lim_beng_hee@moe.edu.sg</p>
 <p></p>
-<p>Mrs Teo Li Lian</p>
-<p>low_li_lian@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -390,7 +389,8 @@ variant: tiptap
 <p>tan_yong_meng_jason@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Teo Li Lian</p>
+<p>low_li_lian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
