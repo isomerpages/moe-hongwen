@@ -286,10 +286,16 @@ variant: tiptap
 <p>3 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Tham Lai Hing Jennie</p>
+<p>tham_lai_hing_jennie@moe.edu.sg</p>
+<p></p>
 <p>Mr Tan Yong Meng Jason</p>
 <p>tan_yong_meng_jason@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Lim Beng Hee</p>
+<p>lim_beng_hee@moe.edu.sg</p>
+<p></p>
 <p>Mrs Teo Li Lian</p>
 <p>low_li_lian@moe.edu.sg</p>
 </td>
@@ -346,8 +352,7 @@ variant: tiptap
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Beng Hee</p>
-<p>lim_beng_hee@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shirley Koh</p>
@@ -396,8 +401,7 @@ variant: tiptap
 <p>4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tham Lai Hing Jennie</p>
-<p>tham_lai_hing_jennie@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Christina Tan Siew Eng (陈盈秀)</p>
