@@ -53,9 +53,13 @@ variant: tiptap
 <p>Mr Bryan Ong</p>
 <p>王思聪副校长</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Vice-Principal (Admin)</strong>
 </p>
+<p></p>
 <p>Ms Christine Poon</p>
 <p>潘紫薇副校长</p>
 </td>
