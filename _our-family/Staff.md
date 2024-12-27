@@ -358,9 +358,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Christina Tan Siew Eng (陈盈秀)</p>
 <p>tan_eng_siew_christina@moe.edu.sg</p>
-<p></p>
-<p>Mrs Woon-Kow Bi Xia</p>
-<p>kow_bi_xia@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
