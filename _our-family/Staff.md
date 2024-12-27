@@ -289,8 +289,6 @@ variant: tiptap
 <p>matthew_kam-lung_chan@moe.edu.sg</p>
 <p></p>
 <p></p>
-<p>Ms Li Yu-Ju</p>
-<p>li_yu_ju@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -374,10 +372,12 @@ variant: tiptap
 <p>4 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Toh Wei</p>
+<p>toh_wei@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Li Yu-Ju</p>
+<p>li_yu_ju@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -477,8 +477,7 @@ variant: tiptap
 <p>5 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Wei</p>
-<p>toh_wei@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Diana Ng (黄梅婷)</p>
