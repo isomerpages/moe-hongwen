@@ -69,6 +69,7 @@ variant: tiptap
 <p><strong>Vice-Principal (Admin)</strong>
 </p>
 <p>Ms Christine Poon</p>
+<p>潘紫薇副校长</p>
 </td>
 </tr>
 <tr>
