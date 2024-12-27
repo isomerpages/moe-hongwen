@@ -449,8 +449,7 @@ variant: tiptap
 <p>farah_aqilah_norjula@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Zhao Lei (赵蕾)</p>
-<p>zhao_lei_a@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -477,16 +476,14 @@ variant: tiptap
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Tan</p>
-<p>tan_yan_shan_michelle@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Qinghui (许清惠)</p>
 <p>koh_qinghui@moe.edu.sg</p>
 <p></p>
 <p></p>
-<p>Mdm Chan Ah Hoon (陈雅云)</p>
-<p>chan_ah_hoon@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -510,12 +507,9 @@ variant: tiptap
 <p>Ms Dilys Tan</p>
 <p>tan_xin_yi_dilys@moe.edu.sg</p>
 <p></p>
-<p>Mrs Arusu</p>
-<p>rathika_techinamurthi@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Yinn Kiat Alvin (黄胤杰)</p>
-<p>ng_yinn_kiat_alvin@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -534,11 +528,12 @@ variant: tiptap
 <p>6 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Li Ying Marilyn</p>
+<p>tan_li_ying_marilyn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Neo Sock Khim</p>
-<p>neo_sock_khim@moe.edu.sg</p>
+<p>Miss Zhao Lei (赵蕾)</p>
+<p>zhao_lei_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -557,9 +552,13 @@ variant: tiptap
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Michelle Tan</p>
+<p>tan_yan_shan_michelle@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Chan Ah Hoon (陈雅云)</p>
+<p>chan_ah_hoon@moe.edu.sg</p>
+<p></p>
 <p>Mrs Chiam Heng Chek</p>
 <p>chiam_heng_chek@moe.edu.sg</p>
 </td>
@@ -569,8 +568,7 @@ variant: tiptap
 <p>6 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Li Ying Marilyn</p>
-<p>tan_li_ying_marilyn@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -581,11 +579,16 @@ variant: tiptap
 <p>6Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Ng Yinn Kiat Alvin (黄胤杰)</p>
+<p>ng_yinn_kiat_alvin@moe.edu.sg</p>
+<p></p>
+<p></p>
 <p>Mr Lee Ching Song (李青松)</p>
 <p>lee_ching_song@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Arusu</p>
+<p>rathika_techinamurthi@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
