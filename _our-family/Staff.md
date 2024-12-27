@@ -7,7 +7,7 @@ variant: tiptap
 <p><strong>Year Heads :</strong> 
 <br>Mdm Lim Joo Leng (Primary 1 and 2)</p>
 <p>Ms Yip Shi Ying (Primary 3 and 4)</p>
-<p>Mr Alvin Ng (Primary 5)</p>
+<p>Mr Mr Ng Yinn Kiat Alvin (Primary 5)</p>
 <p>Mdm Grace Choong (Primary 6)
 <br>
 </p>
