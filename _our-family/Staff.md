@@ -49,8 +49,8 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Aqidah???</em></strong>
-</p>
+<p>Ms Aqidah Ho</p>
+<p>ho_chiew_foong_aqidah@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Wei Ling Shirley</p>
@@ -66,8 +66,8 @@ variant: tiptap
 <p>foo_hwa_kin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Jaslyn Seah</em></strong>
-</p>
+<p>Mdm Jaslyn Seah</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -79,8 +79,8 @@ variant: tiptap
 <p>yeo_seow_huey@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Raihana</em></strong>
-</p>
+<p>Mdm Raihanah Abdul Subhan</p>
+<p>raihanah_abdul_subhan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -239,8 +239,8 @@ variant: tiptap
 <p>lew_sin_tat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Wang Yingchao</em></strong>
-</p>
+<p>Mdm Wang Yingchao</p>
+<p>wang_ying_chao@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -287,8 +287,8 @@ variant: tiptap
 <p>3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Celestine Kok?</em></strong>
-</p>
+<p>Mrs Celestine Chia</p>
+<p>celestine_kok_chu_wei@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joanne Lam Hui Yee</p>
@@ -397,7 +397,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zhao Sanmin</p>
-<p></p>
+<p>zhao_sanmin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -407,8 +407,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Yeo Poh Kiat Benjamin</p>
 <p>yeo_poh_kiat_benjamin@moe.edu.sg</p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ling In Kee</p>
