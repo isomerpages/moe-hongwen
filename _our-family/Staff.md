@@ -198,17 +198,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Yasmine Thennarasu</p>
 <p>thennarasu_a@moe.edu.sg</p>
-<p></p>
-<p></p>
-<p>Mdm Zulaiha</p>
-<p>marena_zulaiha_abdul_manaff@moe.edu.sg</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Seetoh Hsu Ping (司徒抒坪)</p>
 <p>seetoh_hsu_ping@moe.edu.sg</p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
