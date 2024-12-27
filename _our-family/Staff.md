@@ -164,8 +164,7 @@ variant: tiptap
 <p>Ms Chung Xingyi</p>
 <p>chung_xingyi@moe.edu.sg</p>
 <p></p>
-<p>Mr Ng Choon Yong Benny</p>
-<p>ng_choon_yong_benny@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Gek Hong</p>
@@ -428,16 +427,10 @@ variant: tiptap
 <p>Ms Marilyn Huang</p>
 <p>huang_shuxuan_marilyn@moe.edu.sg</p>
 <p></p>
-<p>Mdm Susan Koh</p>
-<p>Koh_kia_lee_susan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Choon Ping (黄俊平)</p>
 <p>ng_choon_ping@moe.edu.sg</p>
-<p></p>
-<p></p>
-<p>Mr Anthony Ruben Aruldass</p>
-<p>anthony_ruben_aruldass@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -492,8 +485,7 @@ variant: tiptap
 <p>tan_min_leng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Diana Ng (黄梅婷)</p>
-<p>ng_mui_teng_diana@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -514,10 +506,12 @@ variant: tiptap
 <p>6 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Susan Koh</p>
+<p>Koh_kia_lee_susan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Anthony Ruben Aruldass</p>
+<p>anthony_ruben_aruldass@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -567,10 +561,12 @@ variant: tiptap
 <p>6 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Diana Ng (黄梅婷)</p>
+<p>ng_mui_teng_diana@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ng Choon Yong Benny</p>
+<p>ng_choon_yong_benny@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
