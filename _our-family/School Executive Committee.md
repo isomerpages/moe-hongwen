@@ -63,7 +63,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal (EO)  </strong>
+<p><strong>Vice-Principal (EO)</strong>
 </p>
 <p>Mr Bryan Ong</p>
 <p>王思聪副校长</p>
