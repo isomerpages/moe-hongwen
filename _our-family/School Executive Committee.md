@@ -30,11 +30,26 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="1">
 <p><strong>Principal</strong>
 </p>
 <p>Mrs Theresa Hong</p>
 <p>伍燕玲校长&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Vice-Principal (Admin)</strong>
+</p>
+<p>Ms Christine Poon</p>
+<p>潘紫薇副校长(行政）</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -48,20 +63,17 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal (EO)</strong>
+<p><strong>Vice-Principal (EO)  </strong>
 </p>
 <p>Mr Bryan Ong</p>
 <p>王思聪副校长</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal (Admin)</strong>
-</p>
 <p></p>
-<p>Ms Christine Poon</p>
-<p>潘紫薇副校长</p>
 </td>
 </tr>
 <tr>
