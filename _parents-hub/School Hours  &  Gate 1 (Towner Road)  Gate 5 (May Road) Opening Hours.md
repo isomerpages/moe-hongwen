@@ -2,77 +2,153 @@
 title: School Hours  &  Gate 1 (Towner Road)  Gate 5 (May Road) Opening Hours
 permalink: /parents-hub/School-Hours-Gate-1-Towner-Road-Gate-5-May-Road-Opening-Hours/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<img style="width:50%;height:50%" src="/images/Parents'%20Hub/School%20hours%20gate%20opening/Hong-Hong-Wen-Wen-1-300x219.png">
-
-\*All pupils are to be punctual for the daily flag-raising ceremony which begins promptly at 7.30 am.
-
-As part of the school’s safe distancing and safe management measures, dismissal timings have been staggered by levels to reduce congestion and intermingling.
-
-| School Hours (Monday to Friday ) |                  |
-|----------------------------------|------------------|
-| Primary 1                        | 7.30am to 1.25pm |
-| Primary 2                        | 7.30am to 1.25pm |
-| Primary 3                        | 7.30am to 1.25pm |
-| Primary 4                        | 7.30am to 1.30pm |
-| Primary 5                        | 7.30am to 1.30pm |
-| Primary 6                        | 7.30am to 1.30pm |
-
-
-
-<!--
-| Recess Timings            |                    |
-|---------------------------|--------------------|
-| Primary 1 &amp; 4             | 9.30am to 10.00am   |
-| Primary 2 &amp; 3             | 10.00am to 10.30am  |
-| Primary 5 &amp; 6             | 10.30am to 11.00am |
-
-*Daily 5-min snack break at 11.55am (Primary 1&amp; 4), 12.25pm (Primary 2 &amp; 3) and 8.55am (Primary 5 &amp;6)
--->
-
-**Recess and Take 5 Timings for P1 to P6 Students from Mondays to Thursdays (Term1)**
-
-**
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="195"><col width="196"><col width="195"></colgroup><tbody><tr style="height:14.25pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;background-color:#d0cece;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Level</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;background-color:#d0cece;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Recess</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;background-color:#d0cece;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Take 5</span></p></td></tr><tr style="height:14.25pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">P1 and P4</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">9.30 a.m.</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">11.55 a.m.</span></p></td></tr><tr style="height:14.25pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">P2 and P3</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">10.00 a.m.</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">12.25 p.m.</span></p></td></tr><tr style="height:14.25pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">P5 and P6</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">10.30 a.m.</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">8.55 a.m.</span></p></td></tr></tbody></table>
-
-
-
-**
-
-**Recess and Take 5 Timings for P1 to P6 Students on Fridays (Term1)**
-
-**
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="195"><col width="196"><col width="195"></colgroup><tbody><tr style="height:14.25pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;background-color:#d0cece;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Level</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;background-color:#d0cece;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Recess</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;background-color:#d0cece;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Take 5</span></p></td></tr><tr style="height:14.25pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">P1 and P5</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">9.30 a.m.</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">11.55 a.m.</span></p></td></tr><tr style="height:14.25pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">P2 and P3</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">10.00 a.m.</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">12.25 p.m.</span></p></td></tr><tr style="height:14.25pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">P4 and P6</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">10.30 a.m.</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;padding:0pt 5pt 0pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">8.55 a.m.</span></p></td></tr></tbody></table>
-
-
-
-**
-
-
-<!--
-| Gate 1 (Towner Road) Opening Hours      |                  |
-|-----------------------------------------|------------------|
-| School Arrival &amp; Dismissal              |                  |
-| Arrival (Monday to Friday)                        | 6.40am to 7.30am |
-| Dismissal (Monday to Friday)                        | 1.25pm to 2.00pm |
-| Sat / Sun / Public Holidays             | Gate Closed      |
-
-| Gate 5 (May Road) Opening Hours              |                  |
-|----------------------------------------------|------------------|
-| School Arrival &amp; Dismissal                   |                  |
-| Arrival (Monday to Friday)                             | 6.40am to 7.30am |
-| Dismissal (Monday to Friday)                             | 1.25pm to 2.00pm |
-|                                              |                  |
-| **Afternoon Programme (Monday to Thursday)** |                  |
-| Monday to Thursday                           | 3.00pm to 3.25pm |
-|                                              | 4.00pm to 4.30pm |
-| Sat / Sun / Public Holidays                  | Gate Closed      |
--->
-
-
-![](/images/Parents'%20Hub/School%20hours%20gate%20opening/Gate_hours_1.png)
-
-![](/images/Parents'%20Hub/School%20hours%20gate%20opening/Gate_hours_2.png)
+<div class="isomer-image-wrapper">
+<img style="width:50%;height:50%" height="auto" width="100%" src="/images/Parents'%20Hub/School%20hours%20gate%20opening/Hong-Hong-Wen-Wen-1-300x219.png">
+</div>
+<p>*All pupils are to be punctual for the daily flag-raising ceremony which
+begins promptly at 7.30 am.</p>
+<p>As part of the school’s safe distancing and safe management measures,
+dismissal timings have been staggered by levels to reduce congestion and
+intermingling.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>School Hours (Monday to Friday )</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am to 1.25pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am to 1.25pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am to 1.25pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am to 1.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am to 1.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am to 1.30pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Recess and Take 5 Timings for P1 to P6 Students from Mondays to Fridays (Term1)</strong>
+</p>
+<p>**</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Recess</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Take 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 and P4 (Week 1 &amp; 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.20 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.55 a.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 and P4 (Week 3 onwards)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.30 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.55 a.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 and P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.00 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.25 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 and P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.55 a.m.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>**</p>
+<p>**</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents'%20Hub/School%20hours%20gate%20opening/Gate_hours_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents'%20Hub/School%20hours%20gate%20opening/Gate_hours_2.png">
+</div>
+<p></p>
