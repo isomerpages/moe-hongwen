@@ -1,10 +1,12 @@
 ---
-title: 2024 Information Sheet for Parents
+title: 2025 Information Sheet for Parents
 permalink: /parents-hub/2024-information-sheet-for-parents/
 description: ""
 variant: tiptap
 ---
-<h3><strong>2024 Information Sheet for Parents</strong></h3>
+<h3><strong>2025 Information Sheet for Parents</strong></h3>
+<p><a href="/files/Parents' Hub/2025 Information Sheets/001_Information_Sheet_for_January_2025.pdf" rel="noopener nofollow" target="_blank">Information Sheet for January 2025</a>
+</p>
 <p><a href="/files/Information_Sheet_for_November_2024.pdf" rel="noopener nofollow" target="_blank">Information Sheet for November 2024</a>
 </p>
 <p><a href="/files/Information_Sheet_for_October_2024.pdf" rel="noopener nofollow" target="_blank">Information_Sheet_for_October_2024</a>
