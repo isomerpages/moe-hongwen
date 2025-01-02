@@ -147,6 +147,7 @@ intermingling.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents'%20Hub/School%20hours%20gate%20opening/Gate_hours_1.png">
 </div>
+<p>**</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents'%20Hub/School%20hours%20gate%20opening/Gate_hours_2.png">
 </div>
