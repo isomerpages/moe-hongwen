@@ -84,7 +84,7 @@ sections:
       title: National Calligraphy Competition 2025
       id: infopic
       button: Read
-      url: https://cms.isomer.gov.sg/sites/moe-hongwen/editPage/National%20Calligraphy%20Competition%202025.md
+      url: /nationalcalligraphycompetition2025/
       image: /images/info.png
       alt: Image alt text
 ---
