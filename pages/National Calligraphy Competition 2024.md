@@ -34,6 +34,6 @@ this event even more special.</p>
 Wen School. Details of the competition and registration have been sent
 to your school. Registration closes on Friday, 24 January 2025.</p>
 <p>&nbsp;</p>
-<p>For further clarifications, please contact Mr Lee Ching Song, at <a rel="noopener noreferrer nofollow" target="_blank">lee_ching_song@moe.edu.sg</a> or
-at (Tel) 6294 3340.</p>
+<p>For further clarifications, please contact Mr Lee Ching Song, at <a rel="noopener noreferrer nofollow" target="_blank">lee_ching_song@moe.edu.sg</a> or at (Tel)
+6294 3340.</p>
 <p>&nbsp;</p>
