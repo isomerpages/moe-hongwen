@@ -30,12 +30,6 @@ sections:
       image: /images/HWS_Character_Art_Exhibition_2024.jpg
       alt: Character Art Exhibition 2024
   - infopic:
-      button: read
-      alt: NCC 2024
-      url: /nationalcalligraphycompetition2024/
-      image: /images/National_Calligraphy_Competition_2024.jpg
-      subtitle: Upcoming events
-  - infopic:
       button: Read More
       alt: Image alt text
       image: /images/Homepage/H01.png
@@ -86,4 +80,11 @@ sections:
       url: /about-us/School-Achievements/
       image: /images/Homepage/SDA-BPAs-w-White-Background-2.jpg
       subtitle: Hong Wen Awards
+  - infopic:
+      title: National Calligraphy Competition 2025
+      id: infopic
+      button: Read
+      url: https://cms.isomer.gov.sg/sites/moe-hongwen/editPage/National%20Calligraphy%20Competition%202024.md
+      image: /images/info.png
+      alt: Image alt text
 ---
