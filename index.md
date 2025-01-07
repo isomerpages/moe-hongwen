@@ -81,11 +81,9 @@ sections:
       image: /images/Homepage/SDA-BPAs-w-White-Background-2.jpg
       subtitle: Hong Wen Awards
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: National Calligraphy Competition 2025
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Read
       url: https://cms.isomer.gov.sg/sites/moe-hongwen/editPage/National%20Calligraphy%20Competition%202024.md
       image: /images/info.png
       alt: Image alt text
