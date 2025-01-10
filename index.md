@@ -22,6 +22,13 @@ sections:
           description: ""
           url: https://www.instagram.com/hongwenschool_official/
   - infopic:
+      title: National Calligraphy Competition 2025
+      id: infopic
+      button: Read
+      url: /nationalcalligraphycompetition2025/
+      image: /images/info.png
+      alt: Image alt text
+  - infopic:
       title: Character Art Exhibition 2024
       subtitle: UPCOMING EVENTS
       id: infopic
@@ -80,11 +87,4 @@ sections:
       url: /about-us/School-Achievements/
       image: /images/Homepage/SDA-BPAs-w-White-Background-2.jpg
       subtitle: Hong Wen Awards
-  - infopic:
-      title: National Calligraphy Competition 2025
-      id: infopic
-      button: Read
-      url: /nationalcalligraphycompetition2025/
-      image: /images/info.png
-      alt: Image alt text
 ---
