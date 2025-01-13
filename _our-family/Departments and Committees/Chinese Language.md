@@ -87,8 +87,8 @@ variant: tiptap
 <p>Mdm Ng Mui Teng Diana (HOD / CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>黄胤杰</p>
-<p>Mr Ng Yinn Kiat Alvin</p>
+<p>黄胤杰（副年级主任）</p>
+<p>Mr Ng Yinn Kiat Alvin (AYH / Upper Primary)</p>
 </td>
 </tr>
 <tr>
@@ -107,59 +107,59 @@ variant: tiptap
 <p>Mr Ten Ren Shyong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>杨淑雅</p>
-<p>Ms Yang Shuya Sophia&nbsp;</p>
+<p>王颖超</p>
+<p>Mdm Wang Yingchao</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>杨淑雅</p>
+<p>Ms Yang Shuya Sophia&nbsp;</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>杨晓慧</p>
 <p>Ms Yeo Seow Huey</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>叶诗莹（副年级主任）</p>
 <p>Ms Yip Shi Ying (AYH / Middle Primary)</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>张弘</p>
 <p>Mdm Zhang Hong</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>赵三敏</p>
 <p>Mdm Zhao Sanmin</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>郭彩莲</p>
 <p>Mdm Kuek Choy Lin</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>列芝琳</p>
 <p>Mdm Lit Jelaine</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>苏秀琴</p>
 <p>Mdm Soh Shiou Kam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>黄士恺</p>
-<p>Mr Ng Shi Kai Thomas</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h2>我们的课程 (Key Information)</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh6.googleusercontent.com/0hvk_fQig4gQTycyJi5l0jYK3CQLnpxG8GF-vkvO8KS3fXUuuToL3QogXYNnohNmM0P99B6gFO3ML-EE4mDV0G5aXYaHVf1uwx3zadGdzWfJ2wq25YL_9upqPqCE_AcvzSYhFS8srM5xg8c1KULUrqkONBD55RW1">
+<img style="margin-left:0px;margin-top:0px;" height="476" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfq9IF59WxAb3uYGRtPnz0e0lyd6DmK65ikgfgY1afja_2KnNLlYu1RIQM0G9Y6xY3m2IYHCJdjOveQvqP8XKLujNEShwib0oLdrhxEXLZ_8RLodrj-T8rCFdt2APWrP91I0kWd?key=wZtao60ZAtpCBGwjQ60eUg">
 </div>
 <p>“乐学华文@宏文” 华文华语与文化双周&nbsp;</p>
 <p>为促进学生的语文学习与文化认知，宏文学校为母语双周这项常年活动注入新文化元素，将此活动升级为“华文华语与文化双周”，让学生同时体验学习华文华语和传承文化的乐趣。学校的双周活动每年都会围绕着一个主题来推展，借此来调动学生的学习兴趣，让他们接触华族文化。</p>
-<p>通过跨部门及社区组织的合作，学校为学生策划一系列活动，如精心挑选的周会节目及文化营。其中一个亮点为休息节游戏嘉年华，让学生在玩游戏的过程中巩固语文技能、提升文化素养。学生通过这些有意义的体验，在华文华语的学习和文化传承这两大方面也变得更为自信、自主了。</p>
+<p>通过跨部门及社区组织的合作，学校为学生策划一系列活动，如精心挑选的周会节目及文化营。其中一个亮点为语文游戏嘉年华，让学生在玩游戏的过程中巩固语文技能、提升文化素养。学生通过这些有意义的体验，在华文华语的学习和文化传承这两大方面也变得更为自信、自主了。</p>
 <p>Chinese Language and Cultural Fortnight</p>
 <p>To promote the acquisition of Chinese language learning and raise cultural
 awareness, Hong Wen School has infused a strong cultural element into the
@@ -167,29 +167,39 @@ annual MTL Fortnight and re-positioned it as the school’s ‘Chinese Language
 &amp; Cultural Fortnight’ (CLC Fortnight). A specific theme anchors the
 fortnight of activities with the objectives of motivating students in language
 acquisition and deepening their awareness of the Chinese culture.&nbsp;</p>
-<p>Leveraging on inter-departmental collaboration and community partnerships,
+<p>Leveraging inter-departmental collaboration and community partnerships,
 the school puts up a comprehensive and well-curated programme for students,
 which includes assembly activities and cultural camps. One of the highlights
-is the Recess Carnival, where students reinforce their language competencies
-and raise their cultural awareness through purposeful play. As the students
-make meaning out of these experiences, they become more confident and self-directed
-in the learning of language and culture.</p>
+is the Language Games Carnival, where students reinforce their language
+competencies and raise their cultural awareness through purposeful play.
+As the students make meaning out of these experiences, they become more
+confident and self-directed in the learning of language and culture.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh3.googleusercontent.com/X7sjc-rrJ39ejvXOuqzQkAjoRMbI5WEdTCzEq9rT4-_BVbsNF8ubhIcbEn_e96s2m9_wR_gmu4GB6MNiJsq66AuuEjcXfTwyhPnA5J2c1Eopmw75kGAoZjdRUvbkpoFtkpnJ_VnpRI5hXP2IJ9FIGWDTDVJZLD-d">
+<img style="margin-left:0px;margin-top:0px;" height="449" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5EFQPJmNolDj_K3LjogKdsVGrXXvI3LChKVJlZt-ZUBIlKU6Ww0Mq4cMW3ak3E2tx5ZXXQ0d2HlmK0sIbSpv704GJYizGWbYEUZWQYSRr2qxg05ERtxrrOi_TniNRKNxTHSqs6g?key=wZtao60ZAtpCBGwjQ60eUg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh5.googleusercontent.com/zO2rzuZdoP3egeka1dvn7vcytTHT6ALW-tjVjiyvX1z_JGBNyI_jXkVlFtaA_DxqmahP5soized2UabDwQY0y1iC_pGPRFAXaPdUtTZujy5qHTRkqQQ34F2hTjvjC-GHVYKo2E8ZIbU4kON-l_gWQDp3HYUCetpi">
+<img style="margin-left:0px;margin-top:0px;" height="383" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfg9YIh-yU0-jcbBE-sdZL9saxNpz585C1XhUyp1QaEGO9OTHTCs57bupZyRg06ogD6rirCtEF-J8Z2hyplYkM3VNsPYW3dPYpCXFO5S2T6iGFA-laqzs4XfGhncUD560_g5zvEQA?key=wZtao60ZAtpCBGwjQ60eUg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh3.googleusercontent.com/36R1jdnVOxS2MaFQq7QTNRcdgma7EMabePlC4XszsqNveQKQwzrvf6Aua9Ns7uqHFt0zeRH7SUNzhJFPbWvmNkybGRwyIENx-EWUNatl_eADdWr4tKlFWYvAf1h_m6ZSe_wXam95hAR1JCM6vBxuVm-1GIgSXNuP">
+<img style="margin-left:0px;margin-top:0px;" height="437" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc5FBAUg_qdQIhZfzZhMVvhnD-82qAHo3pz-v-zesaGmzW342cgLgjwz8CPdjMEj9a0QXxpX8g0FkcONQuHFaKPHwX14RQuGIWhrc9pf2kO_VUOXDsGQFSy8idTkUTv-hQs6J_m?key=wZtao60ZAtpCBGwjQ60eUg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh5.googleusercontent.com/Lh9qp6CeimIuHd_q0GX4qsahWbqS6AG8cjKrG_nEpvguW9dYkD3uC2go804Fb6aZmKw25WGX-sOASH9DkN4srOu_mx9riUy-t2hUwE18qIS4ZuthCpTrRT2fcbeWJ75QIJyLfYOaCmLo1G6WLqVtK5VwlQQrwtg1">
+<img style="margin-left:0px;margin-top:0px;" height="383" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfst_y-3rKpQ1fDf-1HWCACV3PLyGPoSIUSIaLGBF2rfLX-ljaQWRi_PBSCY65KtP4BnAiQAtqobiwu-8-c0PgDB_H463KJMKwMWl0cx3Jqip39Xn6mZQ_NUxW8-xpAivwrbVm3?key=wZtao60ZAtpCBGwjQ60eUg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh5.googleusercontent.com/VYgsd-Yrv_p64g3XsQvS52uxBtXPEiZmGznDGZPXYVnzuMaw8a-HAUxj65a9RKvSRl_j0fL-Vgh5qTSJDkH2sIcFD8UAm2rEgTduWiYlaEDC-Mm-U6y3XQavfvYB9Xbc4jarv78KbIcVq4xL4pXBGT1ln0fwdist">
+<img style="margin-left:0px;margin-top:0px;" height="291" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe3rgIETXUhu2jfp_Nc0GPcn3kQIkFlyvDRZGUDY5GpUH7db5VZXu0e7VbFB2cabkhOxktcps9_PIQNHcolk3XriDwVEWDjpkv360ZFY2QLq7Hh4sI7h6Yl5y_0SuOy5wLWshtsMw?key=wZtao60ZAtpCBGwjQ60eUg">
 </div>
-<p>有关华文学习资源的信息 (Useful Links)</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="328" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXffZaxkkfRfpnBhMGlY8lCbbgH7U6DDVwUBo1iUG6c8dTggpMzb8zGdE7iBJYDhHRTwwPzIywctaLOHdN-kaMBst5cMKNXAEK2bYMl4ZgBNLTXVQh5uEoPVO77uYQhfLAyt517qBg?key=wZtao60ZAtpCBGwjQ60eUg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="551" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXchFvwr6u_cGViemhQwioevcgHb2kqtnwViNEE4PWymXMPoxc6Rd2iDzBAE4bbphIr-Tc9SKrOu86k5M-k9ySqrSd-mQ5-K36vaRgD8n0oCkpquX5v-h4PO7_PioqhkqlOGIm4s?key=wZtao60ZAtpCBGwjQ60eUg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="320" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcmamy2_v1uBbcS-SNz--nPJFyS6S60tLja1f8kPFf7gmj5uxV-ZjlAmOkNKydoqMYmrzUZ1ssgIjtoZHW1O-VJ2eysqQqVFnDOnkeKE-98fgbMR-twXdmfOWKyCgpAKbWtCkyhXA?key=wZtao60ZAtpCBGwjQ60eUg">
+</div>
+<p>
+<br>有关华文学习资源的信息 (Useful Links)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -201,7 +211,7 @@ in the learning of language and culture.</p>
 <p>知识网</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.ezhishi.net/" rel="noopener noreferrer nofollow" target="_blank">Supplementary Magazine</a>
+<p><a href="http://www.ezhishi.net/" rel="noopener noreferrer nofollow" target="_blank"><u>Supplementary Magazine</u></a>
 </p>
 </td>
 </tr>
@@ -210,7 +220,7 @@ in the learning of language and culture.</p>
 <p>早报校园 / 大拇指</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://zbschools.sg/" rel="noopener noreferrer nofollow" target="_blank">Supplementary Magazine</a>
+<p><a href="https://www.zbschools.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Supplementary Magazine</u></a>
 </p>
 </td>
 </tr>
@@ -219,7 +229,7 @@ in the learning of language and culture.</p>
 <p>小学课外读物推荐书单</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cpcll.sg/resources/reading-group" rel="noopener noreferrer nofollow" target="_blank">Reading Group</a>
+<p><a href="https://www.cpcll.sg/resources/reading-group" rel="noopener noreferrer nofollow" target="_blank"><u>Reading Group</u></a>
 </p>
 </td>
 </tr>
@@ -228,10 +238,11 @@ in the learning of language and culture.</p>
 <p>受新加坡考评局批准使用的词典列表</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/home/examinations/approved-dictionaries" rel="noopener noreferrer nofollow" target="_blank">Approved Dictionaries</a>
+<p><a href="https://file.go.gov.sg/seab-approveddictionaries.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Approved Dictionaries</u></a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<h2></h2>
 <p></p>
