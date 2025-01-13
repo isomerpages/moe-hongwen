@@ -53,7 +53,7 @@ Email:&nbsp;[hongwen@littleprofessors.com.sg](mailto:hongwen@littleprofessors.co
 [Primary 6 (Foundation) book list - 2025](/files/P6F_Booklist_2025.pdf)
 
 **Name Tag Suppliers**  
-[Name Tag Ordering Portal](http://www.stitchwerkz.sg/nametags_hws)
+[Name Tag Ordering Portal](https://nametags.stitchwerkz.sg/product-page/nametag-hong-wen-school)
 
 **Canteen Stall Price List**  
 [2024 Canteen Price List](/files/Parents'%20Hub/Vendorsupplier%20contact%20list/Canteen_Prices_2024__July_.pdf)
