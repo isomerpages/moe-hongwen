@@ -6,11 +6,16 @@ third_nav_title: Departments and Committees
 variant: tiptap
 ---
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Mr Anthony Ruben Aruldass - HOD PE, CCA &amp; Aesthetics</strong>
+<br><strong>Mr Matthew Chan - SH&nbsp;Aesthetics</strong>
 </p>
 </td>
 </tr>
@@ -29,23 +34,15 @@ variant: tiptap
 <p>Mr Lim Chung Chin, Victor - ST PE / PAL Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Matthew Chan - SH&nbsp;</p>
+<p>Mdm Lim Joo Leng - YH / P1, P2, P6</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Kho</p>
+<p>Mr Ashley Ong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Teo-Low Li Lian - Art Coordinator</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Luo Tan Min Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Joo Leng - YH / P1, P2, P6</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +55,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sng Jinlun</p>
+<p>Mr Harvinder Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Li Yu-Ju</p>
@@ -66,18 +63,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shazwani Mustaffa</p>
+<p>Mr Sng Jinlun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ashley Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Shirley Lim Wei Ling</p>
 </td>
 </tr>
 </tbody>
@@ -127,7 +116,11 @@ artistically and develop a lifelong appreciation for the arts of different
 cultures and forms.</p>
 <h4>Highlights of our Aesthetics programmes</h4>
 <h5>Overview of Art curriculum in Hong Wen School</h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -182,7 +175,11 @@ cultures and forms.</p>
 </tbody>
 </table>
 <h5>Overview of Music curriculum in Hong Wen School</h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -207,7 +204,7 @@ cultures and forms.</p>
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Recorder</p>
+<p>Ukulele, Digital Composition</p>
 </td>
 </tr>
 <tr>
@@ -215,7 +212,7 @@ cultures and forms.</p>
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Body Percussion&nbsp;</p>
+<p>Ukulele, Digital Composition</p>
 </td>
 </tr>
 <tr>
@@ -223,7 +220,7 @@ cultures and forms.</p>
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ukulele</p>
+<p>Song Writing, Ensemble Playing</p>
 </td>
 </tr>
 <tr>
@@ -231,59 +228,53 @@ cultures and forms.</p>
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ukulele Ensemble &amp; Song Writing</p>
+<p>Song Writing, Ensemble Playing</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5>Lower Primary Music Appreciation&nbsp;</h5>
+<h5></h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="https://lh4.googleusercontent.com/mjZrjsuxtAHhXAlflRxKTZOSQGWhMQnc3BgqWgF_aYn3ltXKcu8GHGdRLxzPWny4X9rpnwNFGBuMUa-57FEmVtDlJ2sZVzKeVgn0yQieCwXln8_BuO6vUP8IiHMoikP0ZoJ7wVQRDK4XbzReuKFfkd6-ztud-hAG">
+<img style="margin-left:0px;margin-top:0px;" height="451" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeS9jMa8T1gpaWxJ7Fnq9prNfTEofFMkbZeqWCkMj3KONOnclQm4lb-vuWLIJMls6b3ucgOxwYWlm_zIfa9g9ihWHBFYqA63tH7LAs4g8-1Boxed0HwwH0G9AsKRB87q1AfFHAdUA?key=wZtao60ZAtpCBGwjQ60eUg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="https://lh3.googleusercontent.com/5w2lHX9Xv6yP6tY5MyhYuLn-0z3cot5b8n5636UU3_Z2BmW7qZOxvIkVW4XQVKxBK6yxdmRSmNjy58pPqibl_8-CIHwaJzKCr6o5jpdAiZCNMyKshaDDl4lmWCTW45HaR54EKiQQmcv4T29h4HR88rcucVs07oMn">
+<img style="margin-left:0px;margin-top:0px;" height="451" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfg1gKcUGS-too3j8-q8RElIwEBNRUw-GoFH2ehNv8DvAvjuHbQyalS0TteyLrDCuLJdDtY_vNRhBjzbQn5nK83oeCDVxZc8assPiblMhXz5U6-tZm04flt248CE6fs194N509tyw?key=wZtao60ZAtpCBGwjQ60eUg">
 </div>
-<h5>P3 Food Art</h5>
-<table>
+<h5></h5>
+<h4>P3 Exploring Nature</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student’s Art" src="/images/PHOTO_2024_02_07_15_37_02.jpeg">
+<img style="margin-left:0px;margin-top:0px;" height="357" width="268" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXffxZsphsVGiwaHYbVay5f-72SwikOek5hnZiI7WXTOBfCCDjh24lwkjg1JSQu7NVPkTCCZuYY-9pS6C9DgGB7jnn6RJ7thb-qsIaFP6orIEphjf6htJIu6ghpsgsMRiEVdtMhuVQ?key=wZtao60ZAtpCBGwjQ60eUg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student’s Art" src="/images/PHOTO_2024_02_07_15_37_34.jpeg">
+<img style="margin-left:0px;margin-top:0px;" height="356" width="298" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBO7lWBBBdgYklWGykvt_IeED0z7KeR4TtThlRl90XmqkSg0QQLeJGha9MGmFmukYU_I5RkWlFIYFkR4G14NimF1VnZHNnJdMC7HCrM3tRg5e1q7fM_IjhFDP51YaR3Nv6aLp1mA?key=wZtao60ZAtpCBGwjQ60eUg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student’s Art" src="/images/PHOTO_2024_02_07_15_37_18.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
-<h4>P4 Museum-Based Learning @ National Gallery Singapore</h4>
+<p></p>
+<h4>P4 Museum-Based Learning @ National Gallery Singapore &nbsp;</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="https://lh5.googleusercontent.com/R764479ipiZXzG4Er0AXSkC5Lon0-ShMw1StqAf8Fs-eIDV5PVu5F3iEaKM5t7w5NWouT6bCvMb_WA0Q6SOWQg0eaqn8BBaE9QIJ5pba0tWfugGzg8lEHdVaWvzQrm0F4lL-cw7j5YtH8vMtf47l0XMjQp7fA-w3">
+<img style="margin-left:0px;margin-top:0px;" height="803" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXenEUdrIMaDs-N54FHGRiEfDoquOglOlAkdMMQ7ghccOZRkNDSmBWgjgOYO8qOz1f344vMqabgUmfx7_3V5VTl2uOgkSAxsTFhXMRw6DW1TK4hiJx_l5OHV1YQ-dvL7X04C5Okisg?key=wZtao60ZAtpCBGwjQ60eUg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="https://lh6.googleusercontent.com/tMOULzhkCB5wdEKaxiq9QDsxDu6JqUu_ZX9Y2oUGvmKAUaQ8_FRlrXlDQuHVf_rKY6qLUObGaj_Re9yVFRoq-foLNqy487NO1PtSw0JjnudAWdhtJpCxTyUvgLNZo-nOu3XCnJK4ah8swoqTNmc2WSMiyidTiiaP">
+<img style="margin-left:0px;margin-top:0px;" height="803" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXehr4jxsRIzZ2P4VzPpQu7L0r7zdRWjIW35_RFigBPz1nnYF5aNp16M72dMQLa4g7qRYclTETcgm-g7IATGTgkHwjjKsL-6Ry-6ES8tJAzK1YUmz8WuX8k9MLrSVBmx-4qQVBwzQA?key=wZtao60ZAtpCBGwjQ60eUg">
 </div>
-<h4>P6 Graduation Day Project&nbsp;</h4>
-<p>Graduation Collage displayed at the Memory Lane&nbsp;</p>
+<p></p>
+<h4>P6 Graduation Collage displayed at the Memory Lane</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh4.googleusercontent.com/PovUPASmA0ASnBfnz2KgQc8N3m0GOZeWezeJPSe80MItmKH4xyFULMk9t3Pe8xvlHhhQSaNiz2zjkdfdPxAPSBbEADxoNTyxrb5jV-cLWC-fKq4uj7PGfbIQMg_P1gUwg0HIY9jh6MmAOxrmJDoyfcY">
-</div>
-<p>Song Writing Package - Our Memories by Class of 2022</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0gy7RJrq05Q"></iframe>
+<img style="margin-left:0px;margin-top:0px;" height="305" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd3l_kL_BJnWZYFeU2vz4uINx4yPpMahqTC3kRlBfHWt8Q_PQyXDxAeMLjg0kLW7GO7SqH0_YOXdy52lKZ0T6AgeQsdPMgDBgdg7AHd4W3qLbFRdxJlkxZtFBQDYb0BVuQyIh5XtA?key=wZtao60ZAtpCBGwjQ60eUg">
 </div>
 <p></p>
