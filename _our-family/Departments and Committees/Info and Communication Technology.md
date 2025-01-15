@@ -30,18 +30,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shazwani Mustaffa</p>
+<p>Mr Ng Choon Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Choon Peng</p>
+<p>Ms Marilyn Huang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Niow (ICT Manager)</p>
+<p>Mr Ashley Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Marcus (DE)</p>
+<p>Ms Celestine Kok</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Raihanah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Niow (ICT Manager)</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +57,7 @@ variant: tiptap
 <p>Mr Charles (DE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Emmanuel (DE)</p>
 </td>
 </tr>
 </tbody>
