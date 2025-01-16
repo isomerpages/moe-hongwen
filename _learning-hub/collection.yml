@@ -2,7 +2,7 @@ collections:
   learning-hub:
     output: true
     order:
-      - Pupils/MOE IDENTITY MANAGEMENT SYSTEM (MIMS).md
+      - Pupils/MOE Identity Management System (MIMS).md
       - Pupils/Student Learning Space (SLS).md
       - Pupils/SLS Technical Assistance.md
       - Pupils/Additional Learning Portals.md
