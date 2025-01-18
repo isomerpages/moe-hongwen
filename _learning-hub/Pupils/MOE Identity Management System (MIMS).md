@@ -9,8 +9,7 @@ third_nav_title: Pupils
 for students to access all MOE Centrally Provisioned Digital Tools like:</p>
 <p>•Student iCON
 <br>•Microsoft Pro Plus
-<br>•ZOOM
-<br>•SLS</p>
+<br>•Student Learning Space (SLS)</p>
 <p>Your child will be able to access MIMS at: <a href="https://mims.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://mims.moe.gov.sg</a>
 </p>
 <p></p>
