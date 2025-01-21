@@ -30,18 +30,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shazwani Mustaffa</p>
+<p>Mr Ng Choon Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Choon Peng</p>
+<p>Ms Marilyn Huang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Niow (ICT Manager)</p>
+<p>Mr Ashley Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Marcus (DE)</p>
+<p>Ms Celestine Kok</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Raihanah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Niow (ICT Manager)</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +57,7 @@ variant: tiptap
 <p>Mr Charles (DE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Emmanuel (DE)</p>
 </td>
 </tr>
 </tbody>
@@ -155,7 +163,7 @@ provides meaningful contexts for their learning and application.</p>
 </tbody>
 </table>
 <p></p>
-<h3>Cyber Wellness</h3>
+<h3>Cyber Wellness (2024)</h3>
 <p>To cultivate responsible digital learners, Hong Wen’s Cyber wellness programme
 seeks to increase students’ awareness of appropriate online behaviour and
 of how to protect oneself in cyberspace. We are aligned to MOE’s Cyber
@@ -179,9 +187,6 @@ across Cyber wellness messages to our students.</p>
 <p>(P1 to P2) ‘Screen Time, Media Multitasking &amp; Devices'</p>
 <p>(P3 to P4) ‘Online Strangers – Friends or Fiends?’</p>
 <p>(P5 to P6) ‘Fake News and Fact Checking’</p>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -296,5 +301,39 @@ across Cyber wellness messages to our students.</p>
 </tr>
 </tbody>
 </table>
+<h4>Primary 3 Kubo Robot</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_21_at_10_23_47_AM.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_21_at_10_23_47_AM__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_21_at_10_23_49_AM.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h4>Primary 4 MS Explorer</h4>
+<h4>Primary 5 Code For Fun</h4>
+<h4>Primary 6 IMDA AI Module</h4>
 <p></p>
 <p></p>
