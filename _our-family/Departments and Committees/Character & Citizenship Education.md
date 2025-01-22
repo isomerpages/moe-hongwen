@@ -6,7 +6,13 @@ third_nav_title: Departments and Committees
 variant: tiptap
 ---
 <p></p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
@@ -38,11 +44,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p>Mdm Azizah</p>
 <p>Mr Lim Beng Hee</p>
 <p>Mdm Siti Nur Kamaliah</p>
-<p>Mdm Shirley Koh</p>
 <p></p>
 <p>Mr Bryan Mai</p>
 <p>Mr Victor Lim&nbsp;</p>
@@ -62,9 +65,8 @@ variant: tiptap
 <p>Mr Jason Tan</p>
 <p>Mrs Ling In Kee</p>
 <p>Mrs Chua Siew Lay</p>
-<p>Mr Ashley Ong</p>
-<p>Mr Kamala Durai</p>
-<p>Ms Marilyn Huang Mdm May Lye</p>
+<p>Mrs Sylvia Quek</p>
+<p>Ms Koh Yan Li</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Gek Hong&nbsp;</p>
