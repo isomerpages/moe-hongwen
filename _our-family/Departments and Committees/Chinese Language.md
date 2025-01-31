@@ -229,7 +229,7 @@ confident and self-directed in the learning of language and culture.</p>
 <p>小学课外读物推荐书单</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cpcll.sg/resources/reading-group" rel="noopener noreferrer nofollow" target="_blank"><u>Reading Group</u></a>
+<p><a href="/files/2024_2025 小学华文课外读物推荐书单.pdf" rel="noopener nofollow" target="_blank">Recommended List</a>
 </p>
 </td>
 </tr>
