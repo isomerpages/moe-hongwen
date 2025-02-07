@@ -10,7 +10,8 @@ image: /images/National_Calligraphy_Competition_2024.jpg
 <p>大会特别感谢辛勤付出的评委们，他们是曾广纬老师、潘汉耀老师和刘妙莲老师。</p>
 <p>2025年全国小学生挥春比赛已圆满落幕，期待明年再见！</p>
 <p>点击此链接查看比赛成绩：</p>
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hwsnationalchinesecalligraphyresults2025</a>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
