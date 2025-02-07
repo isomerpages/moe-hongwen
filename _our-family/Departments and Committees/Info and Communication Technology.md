@@ -198,42 +198,43 @@ across Cyber wellness messages to our students.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>P1-P2</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="P1-P2" src="/images/P12.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="P1-P2" src="/images/P12.jpg">
 </div>
 </th>
+<td rowspan="1" colspan="1">
+<p><strong>P3-4</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P34.jpg">
+</div>
+</td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>P3-P4</p>
+<p>P5-P6</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P34.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P56.jpg">
 </div>
 </th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
-<p>P5-P6</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P56.jpg">
-</div>
-<p></p>
-<p></p>
 <h2>Digital Literacy Photos</h2>
 <h4>Primary 1 Touch Typing</h4>
 <table style="minWidth: 50px">
@@ -302,9 +303,8 @@ across Cyber wellness messages to our students.</p>
 </tbody>
 </table>
 <h4>Primary 3 Kubo Robot</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -313,26 +313,63 @@ across Cyber wellness messages to our students.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_21_at_10_23_47_AM.jpg">
-</div>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_21_at_10_23_47_AM__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Matters/WhatsApp_Image_2025_01_21_at_10_23_47_AM.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_21_at_10_23_49_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Matters/WhatsApp_Image_2025_01_21_at_10_23_47_AM__1_.jpg">
 </div>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Matters/WhatsApp_Image_2025_01_21_at_10_23_49_AM.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
 <h4>Primary 4 MS Explorer</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ICT Matters/P4DL_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Matters/P4DL_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT Matters/P4DL_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Primary 5 Code For Fun</h4>
 <h4>Primary 6 IMDA AI Module</h4>
 <p></p>
