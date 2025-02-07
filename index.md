@@ -26,7 +26,7 @@ sections:
       id: infopic
       button: Read
       url: /nationalcalligraphycompetition2025/
-      image: /images/info.png
+      image: /images/Front_Page.png
       alt: Image alt text
   - infopic:
       title: Character Art Exhibition 2024
