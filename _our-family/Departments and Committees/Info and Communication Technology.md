@@ -198,9 +198,8 @@ across Cyber wellness messages to our students.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -210,7 +209,7 @@ across Cyber wellness messages to our students.</p>
 <p>P1-P2</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="P1-P2" src="/images/P12.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="P1-P2" src="/images/P12.jpg">
 </div>
 </th>
 <td rowspan="1" colspan="1">
@@ -218,15 +217,20 @@ across Cyber wellness messages to our students.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P34.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P34.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p>P5-6</p>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>P5-P6</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P56.jpg">
 </div>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
