@@ -198,42 +198,39 @@ across Cyber wellness messages to our students.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>P1-P2</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="P1-P2" src="/images/P12.jpg">
 </div>
 </th>
+<td rowspan="1" colspan="1">
+<p><strong>P3-4</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P34.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-6</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P56.jpg">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>P3-P4</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P34.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p>P5-P6</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P56.jpg">
-</div>
-<p></p>
-<p></p>
 <h2>Digital Literacy Photos</h2>
 <h4>Primary 1 Touch Typing</h4>
 <table style="minWidth: 50px">
