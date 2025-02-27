@@ -45,11 +45,21 @@ variant: tiptap
 <p>ISH</p>
 </td>
 <td rowspan="2" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Ms Sophia Yang (IC)</strong>
 </p>
+</li>
+<li>
 <p>Mr Zaifar</p>
+</li>
+<li>
 <p>Mr Harvinder Singh</p>
+</li>
+<li>
 <p>Mdm Ruby</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -80,9 +90,21 @@ variant: tiptap
 <p>ISH / Area outside ISH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chow Song Yan (IC)<br></strong>Mr Victor Lim</p>
-<p>Ms Sharmaine Tan
-<br>Mr Alvin Ng</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Mr Chow Song Yan (IC)</strong>
+</p>
+</li>
+<li>
+<p>Mr Victor Lim</p>
+</li>
+<li>
+<p>Ms Sharmaine Tan</p>
+</li>
+<li>
+<p>Mr Alvin Ng</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -102,11 +124,21 @@ variant: tiptap
 <p>Field</p>
 </td>
 <td rowspan="2" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Mrs Luo Min Leng (IC)</strong>
 </p>
+</li>
+<li>
 <p>Mr Sng Jin Lun (IC)</p>
-<p>Ms Dilys Tan
-<br>Mr Ashley Ong</p>
+</li>
+<li>
+<p>Ms Dilys Tan</p>
+</li>
+<li>
+<p>Mr Ashley Ong</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -137,9 +169,15 @@ variant: tiptap
 <p>Area outside MPH</p>
 </td>
 <td rowspan="2" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Ms Yeo Seow Huey (IC)</strong>
 </p>
+</li>
+<li>
 <p>Ms Jermaine Tan</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -169,10 +207,18 @@ variant: tiptap
 <p>Table Tennis Area - Level 3</p>
 </td>
 <td rowspan="2" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Mr Bryan Mai (IC)</strong>
 </p>
-<p>Ms Wang Yingchao
-<br>Mdm Joanne Lam</p>
+</li>
+<li>
+<p>Ms Wang Yingchao</p>
+</li>
+<li>
+<p>Mdm Joanne Lam</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -202,11 +248,24 @@ variant: tiptap
 <p>MPH / Open Space between ISH and MPH</p>
 </td>
 <td rowspan="2" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Mdm Tang Yoke Teng (IC) </strong>
-<br>Mdm Shirley Koh
-<br>Ms Sylvia Ong
-<br>Mdm Joycelyn Tan
-<br>Mr Lee Ching Song</p>
+</p>
+</li>
+<li>
+<p>Mdm Shirley Koh</p>
+</li>
+<li>
+<p>Ms Sylvia Ong</p>
+</li>
+<li>
+<p>Mdm Joycelyn Tan</p>
+</li>
+<li>
+<p>Mr Lee Ching Song</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -261,8 +320,18 @@ variant: tiptap
 <p>Chinese Calligraphy Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lay Lian (IC)<br></strong>Ms Christina Tan
-<br>Ms Ling Moi Lang</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Ms Lay Lian (IC)</strong>
+</p>
+</li>
+<li>
+<p>Ms Christina Tan</p>
+</li>
+<li>
+<p>Ms Ling Moi Lang</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -282,9 +351,21 @@ variant: tiptap
 <p>Beethoven Room and PAL Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Foo Hwa Kin (IC)<br></strong>Ms Lo Meiling (IC)</p>
-<p>Mdm Luo Senyuan
-<br>Ms Irene Choong</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Mdm Foo Hwa Kin (IC)</strong>
+</p>
+</li>
+<li>
+<p>Ms Lo Meiling (IC)</p>
+</li>
+<li>
+<p>Mdm Luo Senyuan</p>
+</li>
+<li>
+<p>Ms Irene Choong</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -304,10 +385,18 @@ variant: tiptap
 <p>Level 4 Open Space</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Mr Ng Choon Ping (IC)</strong>
 </p>
+</li>
+<li>
 <p>Mr Ten Ren Shyong</p>
+</li>
+<li>
 <p>Mdm Soh SK</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -327,10 +416,24 @@ variant: tiptap
 <p>CO Room / SMR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chua Chun Hua (IC)<br></strong>Ms Doris Leow</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Mr Chua Chun Hua (IC)</strong>
+</p>
+</li>
+<li>
+<p>Ms Doris Leow</p>
+</li>
+<li>
 <p>Mdm Liah</p>
-<p>Mdm Zhao Lei
-<br>Ms Jenny Ang&nbsp;</p>
+</li>
+<li>
+<p>Mdm Zhao Lei</p>
+</li>
+<li>
+<p>Ms Jenny Ang&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -349,9 +452,17 @@ variant: tiptap
 <p>Music Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm May Lye (IC</strong>)
-<br>Ms Shirley Lim</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Mdm May Lye (IC</strong>)</p>
+</li>
+<li>
+<p>Ms Shirley Lim</p>
+</li>
+<li>
 <p>Mr Matthew Chan</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -371,11 +482,21 @@ variant: tiptap
 <p>Guzheng Room / Alumni room</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Ms Chia Su Si (IC)</strong>
 </p>
-<p>Ms Tan Kah Yun
-<br>Mdm Susan Koh
-<br>Ms Joanna Khong</p>
+</li>
+<li>
+<p>Ms Tan Kah Yun</p>
+</li>
+<li>
+<p>Mdm Susan Koh</p>
+</li>
+<li>
+<p>Ms Joanna Khong</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -421,10 +542,18 @@ variant: tiptap
 <p>Art Room / C104-01</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Mdm Tan Siew Lay (IC)</strong>
 </p>
-<p>Ms Li Yu-Ju
-<br>Mdm Teo Li Lian</p>
+</li>
+<li>
+<p>Ms Li Yu-Ju</p>
+</li>
+<li>
+<p>Mdm Teo Li Lian</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -445,9 +574,15 @@ variant: tiptap
 <p>A03-07</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Mdm Li Qiaolan (IC)</strong>
 </p>
+</li>
+<li>
 <p>Ms Teo Gek Hong</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -467,7 +602,15 @@ variant: tiptap
 <p>Computer Labs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Seetoh Hsu Ping (IC)<br></strong>Ms Raihana</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Ms Seetoh Hsu Ping (IC)</strong>
+</p>
+</li>
+<li>
+<p>Ms Raihana</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
