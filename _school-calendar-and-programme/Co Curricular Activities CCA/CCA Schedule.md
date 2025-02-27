@@ -250,7 +250,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mdm Tang Yoke Teng (IC) </strong>
+<p><strong>Mdm Tang Yoke Teng (IC)</strong>
 </p>
 </li>
 <li>
@@ -564,8 +564,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Chess</p>
-<p>(Xiang Qi and Wei Qi)</p>
+<p>Chinese Chess
+<br>(Xiang Qi and Wei Qi)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursday</p>
