@@ -49,8 +49,7 @@ variant: tiptap
 </p>
 <p>Mr Zaifar</p>
 <p>Mr Harvinder Singh</p>
-<p><em>Mdm Ruby<br><br></em>
-</p>
+<p>Mdm Ruby</p>
 </td>
 </tr>
 <tr>
@@ -83,8 +82,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Chow Song Yan (IC)<br></strong>Mr Victor Lim</p>
 <p>Ms Sharmaine Tan
-<br><em>Mr Alvin Ng</em>
-</p>
+<br>Mr Alvin Ng</p>
 </td>
 </tr>
 <tr>
@@ -175,9 +173,6 @@ variant: tiptap
 </p>
 <p>Ms Wang Yingchao
 <br>Mdm Joanne Lam</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -192,6 +187,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="4">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Wushu CCA</p>
 </td>
@@ -202,12 +202,11 @@ variant: tiptap
 <p>MPH / Open Space between ISH and MPH</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><strong>Mdm Tang Yoke Teng</strong> (IC)
+<p><strong>Mdm Tang Yoke Teng (IC) </strong>
 <br>Mdm Shirley Koh
 <br>Ms Sylvia Ong
 <br>Mdm Joycelyn Tan
-<br><em>Mr Lee Ching Song</em>
-</p>
+<br>Mr Lee Ching Song</p>
 </td>
 </tr>
 <tr>
@@ -285,10 +284,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Foo Hwa Kin (IC)<br></strong>Ms Lo Meiling (IC)</p>
 <p>Mdm Luo Senyuan
-<br>Ms Irene Choong
-<br>
-<br>
-</p>
+<br>Ms Irene Choong</p>
 </td>
 </tr>
 <tr>
@@ -311,10 +307,7 @@ variant: tiptap
 <p><strong>Mr Ng Choon Ping (IC)</strong>
 </p>
 <p>Mr Ten Ren Shyong</p>
-<p>Mdm Soh SK
-<br>
-<br>
-</p>
+<p>Mdm Soh SK</p>
 </td>
 </tr>
 <tr>
@@ -337,27 +330,12 @@ variant: tiptap
 <p><strong>Mr Chua Chun Hua (IC)<br></strong>Ms Doris Leow</p>
 <p>Mdm Liah</p>
 <p>Mdm Zhao Lei
-<br>Ms Jenny Ang</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<br>Ms Jenny Ang&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="4">
 <p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -373,10 +351,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mdm May Lye (IC</strong>)
 <br>Ms Shirley Lim</p>
-<p><em>Mr Matthew Chan</em>
-<br>
-<br>
-</p>
+<p>Mr Matthew Chan</p>
 </td>
 </tr>
 <tr>
@@ -460,7 +435,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Chess (Xiang Qi and Wei Qi)</p>
+<p>Chinese Chess</p>
+<p>(Xiang Qi and Wei Qi)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursday</p>
@@ -471,10 +447,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Li Qiaolan (IC)</strong>
 </p>
-<p>Ms Teo Gek Hong
-<br>
-<br>
-</p>
+<p>Ms Teo Gek Hong</p>
 </td>
 </tr>
 <tr>
