@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/HWS_Sch_Motto_resized_200123.jpg
+      background: /images/Banner_v3_page_1.jpg
       key_highlights:
         - title: Our Enduring Legacy
           description: ""
