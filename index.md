@@ -21,6 +21,7 @@ sections:
         - title: Like our Instagram Page
           description: ""
           url: https://www.instagram.com/hongwenschool_official/
+      variant: image
   - infopic:
       title: National Calligraphy Competition 2025
       id: infopic
