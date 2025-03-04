@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner_resized.jpg
+      background: /images/Banner_resized_1920x360.jpg
       key_highlights:
         - title: Our Enduring Legacy
           description: ""
@@ -21,7 +21,7 @@ sections:
         - title: Like our Instagram Page
           description: ""
           url: https://www.instagram.com/hongwenschool_official/
-      variant: center
+      variant: image
       size: sm
   - infopic:
       title: National Calligraphy Competition 2025
