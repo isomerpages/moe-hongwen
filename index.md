@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner_resized_1920x450.jpg
+      background: /images/Banner_resized_1920x640.jpg
       key_highlights:
         - title: Our Enduring Legacy
           description: ""
