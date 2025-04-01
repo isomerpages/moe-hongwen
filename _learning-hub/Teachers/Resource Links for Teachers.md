@@ -5,16 +5,105 @@ description: ""
 third_nav_title: Teachers
 variant: tiptap
 ---
-<a class="isomer-image-wrapper" href="icon.moe.edu.sg"><img style="width:50%;height:50%" height="auto" width="100%" src="/images/Learning%20Hub/Teachers/Resource%20Links%20for%20Teachers/icon2_0-e1556181317917.png"></a>
-<p></p><a class="isomer-image-wrapper" href="https://www.opal2.moe.edu.sg/"><img style="width:50%;height:50%" height="auto" width="100%" src="/images/Learning%20Hub/Teachers/Resource%20Links%20for%20Teachers/unnamed-300x106.png"></a>
-<div class="isomer-image-wrapper">
-<img style="width:50%;height:50%" height="auto" width="100%" src="/images/Learning%20Hub/Teachers/Resource%20Links%20for%20Teachers/teaching-practice-300x96.jpg">
-</div><a class="isomer-image-wrapper" href="https://scmobile.moe.edu.sg/login"><img style="width:100%;height:50%" height="auto" width="100%" src="/images/Learning%20Hub/Teachers/Resource%20Links%20for%20Teachers/sc-m-1.jpg"></a>
-<a class="isomer-image-wrapper" href="https://www.hrp.gov.sg/hrp/#/">
-<img style="width:50%;height:50%" height="auto" width="100%" src="/images/Learning%20Hub/Teachers/Resource%20Links%20for%20Teachers/hrp.jpg">
-</a><a class="isomer-image-wrapper" href="https://schoolcockpit.moe.gov.sg/"><img style="width:50%;height:50%" height="auto" width="100%" src="/images/Learning%20Hub/Teachers/Resource%20Links%20for%20Teachers/school_cockpit_resized.png"></a>
-<div class="isomer-image-wrapper">
-<img style="width:50%;height:50%" height="auto" width="100%" src="/images/Learning%20Hub/Teachers/Resource%20Links%20for%20Teachers/library_resized.png">
-</div>
-<p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/hwsedtechguide"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Live_in_the_moment_.jpg"></a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Information</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Links</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HRP Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener nofollow" target="_blank">https://www.hrp.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HWS PLT EdTech Guide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sites.google.com/moe.edu.sg/hong-wen-ict/edtech-resources/overview?authuser=0" rel="noopener nofollow" target="_blank">https://sites.google.com/moe.edu.sg/hong-wen-ict</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Registration (for Teachers)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://nsg.moe.edu.sg/nis/#/login" rel="noopener nofollow" target="_blank">https://nsg.moe.edu.sg/nis/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OPAL 2.0</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://opal2.moe.edu.sg/" rel="noopener nofollow" target="_blank">https://opal2.moe.edu.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents Gateway</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">https://pg.moe.edu.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resource Booking System</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://rbs.avero-tech.com/login.html" rel="noopener nofollow" target="_blank">https://rbs.avero-tech.com/login.html</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Cockpit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener nofollow" target="_blank">https://schoolcockpit.moe.gov.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SC Mobile</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://scmobile.moe.edu.sg" rel="noopener nofollow" target="_blank">https://scmobile.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SLS</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
