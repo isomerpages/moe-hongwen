@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>2025 Information Sheet for Parents</strong></h3>
+<p><a href="/files/Information_Sheet_for_May_June_2025.pdf" rel="noopener nofollow" target="_blank">Information Sheet for May June 2025</a>
+</p>
 <p><a href="/files/Curtailment_of_School_Hours_and_School_Holiday_for_GE2025.pdf" rel="noopener nofollow" target="_blank">Curtailment of School Hours and School Holiday for GE2025</a>
 </p>
 <p><a href="/files/Information_Sheet_for_April_2025.pdf" rel="noopener nofollow" target="_blank">Information Sheet for April 2025</a>
