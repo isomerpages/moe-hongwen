@@ -7,7 +7,7 @@ variant: markdown
 **School Canteen Advertisement**
 
 
-![](/images/School_canteen_Apr_2025.png)
+![](/images/School_canteen_May_2025.png)
 
 \*\*Application Procedure\*\*
 
