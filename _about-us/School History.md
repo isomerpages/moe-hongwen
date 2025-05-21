@@ -2,6 +2,7 @@
 title: School History
 permalink: /about-us/School-History/
 description: ""
+variant: markdown
 ---
 Founded in 1920 by Hin Ann Huay Kuan（兴安会馆）, Hong Wen School （宏文学校）was born out of the foresight of its founders who believed in the importance of education for the young,  as well as the promotion of Chinese language, culture and values.
 
@@ -43,17 +44,9 @@ Mrs Yeo Soon Beng（黄美玲女士）was appointed 9th Principal of the school 
 
 In May 1991, the pupils and teachers were inspired to achieve greater heights by the good news that Hong Wen School would join the rank of Special Assistance Plan (SAP) schools the following year. In 1992, the school was accorded the SAP school status,  offering both English and Chinese as first languages. As a SAP school, Hong Wen kept alive her best traditions and ethos, and continued to inculcate traditional Chinese values in her pupils as espoused in her school motto.
 
-In June 1993, Mrs Yeo Soon Beng retired. Miss Tay Eng Hiang（郑英香女士）was appointed 10th Principal of the school and Ms Low Kiat Ming as Vice-Principal.
-
-In 1998, Ms Low Kiat Ming was promoted to be Principal of Jin Tai Primary School. Mdm Lim Soh Lian was then appointed the Vice-Principal. Mdm Lim Soh Lian became Principal of Fengshan Primary School at the end of 1998 and Mrs Koh Bee Geok was appointed acting Vice-Principal for the new academic year 1999.
-
-In June 1999, Mrs Lim Shong Chuan was appointed the Vice-Principal. She was transferred to Monfort Secondary School at the end of 2001.
+In June 1993, Mrs Yeo Soon Beng retired. Miss Tay Eng Hiang（郑英香女士）was appointed 10th Principal of the school.
 
 After having served the school from 1993 to 1999, Miss Tay Eng Hiang was posted to Jurong Town Primary School to helm the school. Mr Ngoh Choon Ho（胡春河先生）was appointed 11th Principal of the school on 15 December 1999.
-
-In June 2002, Miss Liew Pang Hai was appointed the Vice-Principal. She was transferred to St Gabriel’s Primary School in June 2005.
-
-In January 2006, Mrs Sim-Tan Eng Ping was appointed the Vice-Principal.
 
 The school was awarded the People Developer Standard by SPRING Singapore, as well as the MOE Sustained Achievement Award (Sports) in 2007.
 
@@ -69,29 +62,25 @@ In 2010, the school received its re-certification of the People Developer Standa
 
 In 2011, the school attained her second Programme for School-based Excellence status in Wushu. In the same year, the school also received MOE Development Award for Character Development and MOE Sustained Achievement Award (Aesthetics).
 
-Mrs Sim-Tan Eng Ping was transferred to MOE HQ on 15 Dec 2012.
-
-On 17 Dec 2012, Mr Lim Chong Eng was posted to the school as the Vice-Principal.
-
 The school was accorded the status of South Zone Centre of Excellence for Chinese Cultural Arts in 2013. The school staged a public concert CAPTIVA! at the Singapore Conference Hall in the same year, with strong support from the School Management Committee, Alumni Association and Parents Support Group.
-
-On 16 Sep 2013, Mr Poon Siow Leng Raymond was posted to the school as the Vice-Principal.
 
 Mr Ngoh Choon Ho retired on 31 Dec 2013 and was succeeded by Mr Poon Siow Leng Raymond（方小龙先生）who assumed the principal appointment on 1 Jan 2014 as the 12th Principal of the school.
 
-On 16 June 2014, Mdm Teo Eng Hui was posted to the school as the Vice-Principal.
-
-In 2015, the school was awarded two Learning for Life Programme (LLP) in the areas of Sports & Outdoor Education, as well as Student Leadership & Community Service.
+In 2015, the school was awarded two Learning for Life Programme (LLP) in the areas of Sports & Outdoor Education, as well as Student Leadership & Community Service. However, the second LLP was morphed into our Applied Learning Programme in 2022.
 
 The school celebrated its 95th Anniversary on 10th July 2015 with the theme of “Our Hong Wen – Bonds, Memories, Ties”. Mr Heng Chee How, Senior Minister of State for Prime Minister’s Office, graced the occasion as the Guest-of Honour.
 
-On 15 Dec 2015, Mdm Tan Eng Eng Jenny was posted to the school as the Vice-Principal (Administration).
-
-Mdm Teo Eng Hui was transferred to MOE HQ on 13 Sep 2016.
-
 The school underwent an external validation conducted by Ministry of Education in 2016, and was subsequently conferred the School Distinction Award, the apex of the MOE’s Masterplan of Awards for Schools. The school was also awarded the Best Practice Awards in all 5 criteria – Character & Citizenship Education, Teaching & Learning, Student All-Round Development, Staff Well-Being & Development and Partnership. In the same year, the school also received the BCA Green Mark (GoldPlus) Award in recognition of its efforts and achievements in environmental sustainability.
 
-In September 2017, the school completed its 16-month upgrading project, in line with MOE’s PERI Upgrading initiative. The School Management Committee gave its strong support for the initiative through its contribution of 5% of the total cost and additional support for the non-standard items, which together amounted to half a million dollars. The upgrading project include the construction of a new block and the upgrading of facilities in the existing building. Facilities in the new block include Guzheng Room, Chinese Orchestra Room, Staff Resource Room, Student Care Centre and an Outdoor Learning Terrace at the rooftop. Other enhanced facilities in the existing building include a Teaching Laboratory, special learning rooms, sheltered walkways and a revamped staff lounge et cetera.
+In September 2017, the school completed its 16-month upgrading project, in line with MOE’s PERI Upgrading initiative. The School Management Committee gave its strong support for the initiative through its contribution of 5% of the total cost and additional support for the non-standard items, which together amounted to half a million dollars. The upgrading project include the construction of a new block and the upgrading of facilities in the existing building. Facilities in the new block include Guzheng Room, Chinese Orchestra Room, Staff Resource Room, Student Care Centre and an Outdoor Learning Terrace at the rooftop. Other enhanced facilities in the existing building include a Teaching Laboratory, special learning rooms, sheltered walkways and a revamped staff lounge.
+
+Hong Wen School celebrated its 100th Anniversary in 2020. However, due to the Covid pandemic then, the celebration was muted and the school commemorated its 100th Anniversary with students’ activities.
+
+The school was awarded its Applied Learning Programme (ALP) “Innovative & Inventive Learners through Integration of Curriculum (I to I)” in 2022. Our ALP guides our students to develop perspectives and ways of thinking to understand and apply innovation to resolve real world challenges pertaining to the environment and sustainability.
+
+In December 2020, Mrs Theresa Hong （伍燕玲女士）   was posted to the school as the 13th Principal of Hong Wen School.
+
+In 2025, Hong Wen will celebrate its 105th Anniversary with a dinner and concert to be held on 12 July 2025, the exact date (12 July) of the founding of Hin Ann Huay Kuan.
 
 | 宏文历任校长   Past and Present Hong Wen Principals |              |                           |
 |-----------------------------------------------------|--------------|---------------------------|
