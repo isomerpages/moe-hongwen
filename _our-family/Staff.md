@@ -365,7 +365,8 @@ variant: tiptap
 <p>matthew_kam-lung_chan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lee Ching Song</p>
+<p>lee_ching_song@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -425,7 +426,8 @@ variant: tiptap
 <p>lam_hui_yee_joanne@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ling Moi Lang</p>
+<p>ling_moi_lang@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -444,7 +446,8 @@ variant: tiptap
 <p>su_huiya_winnie@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Tan Lee Huang</p>
+<p>chang_lee_huang@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
