@@ -657,8 +657,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kuek Choy Lin</p>
-<p>kuek_choy_lin@moe.edu.sg</p>
+<p>Mr Harvinder Singh</p>
+<p>harvinder_singh_g_singh@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
