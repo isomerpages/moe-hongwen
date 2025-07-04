@@ -327,7 +327,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Sylvia Quek</p>
-<p>ong_mui_yen_sylvia@schools.gov.sg</p>
+<p>ong_mui_yen_sylvia@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -515,12 +515,11 @@ variant: tiptap
 <p>4 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chow Songyan</p>
-<p>chow_songyan@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Christina Tan Eng Siew (陈盈秀)</p>
 <p>tan_eng_siew_christina@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs jenny Tham</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -553,9 +552,8 @@ variant: tiptap
 <p>5 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Marilyn Huang</p>
-<p>huang_shuxuan_marilyn@moe.edu.sg</p>
-<p></p>
+<p>Mr Chow Songyan</p>
+<p>chow_songyan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Choon Ping (黄俊平)</p>
@@ -612,8 +610,8 @@ variant: tiptap
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sylvia Quek</p>
-<p>ong_mui_yen_sylvia@moe.edu.sg</p>
+<p>Ms Ong Ying wen Gladys</p>
+<p>ong_ying_wen@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
