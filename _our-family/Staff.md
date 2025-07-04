@@ -633,8 +633,8 @@ variant: tiptap
 <p>5 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Luo-Tan Min Leng</p>
-<p>tan_min_leng@moe.edu.sg</p>
+<p>Mdm Choong Mei Ling Grace</p>
+<p>choong_mei_ling_grace@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sharmaine Tan</p>
