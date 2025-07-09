@@ -520,6 +520,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs jenny Tham</p>
+<p>jenny_ang_a@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -612,12 +613,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ong Ying wen Gladys</p>
 <p>ong_ying_wen@moe.edu.sg</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Qinghui (许清惠)</p>
 <p>koh_qinghui@moe.edu.sg</p>
-<p></p>
 <p></p>
 <p></p>
 </td>
@@ -649,7 +648,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5Responsibility</p>
+<p>5 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Dilys Tan</p>
