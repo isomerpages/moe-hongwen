@@ -18,13 +18,13 @@ Mdm Serene Tan
 
 **School Uniform Supplier**
 
-Shanghai Uniforms Pte Ltd
+My Uniform Shop (Asia) Pte Ltd
 
-**Website:**&nbsp;[http://shanghai-uniforms.com/](http://shanghai-uniforms.com/)
+**Website:**&nbsp;[http://www.myuniformshop.com.sg/](http://www.myuniformshop.com.sg/)
 
-Tel: 6352 2741
+Tel: 6276 6689
 
-Email:&nbsp;[contact@shanghai-uniforms.com](mailto:contact@shanghai-uniforms.com)&nbsp;
+Email:&nbsp;[myuniformshopasia@gmail.com](mailto:myuniformshopasia@gmail.com)&nbsp;
 
 **Student Care Centre**
 
