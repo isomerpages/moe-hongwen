@@ -24,6 +24,13 @@ sections:
       variant: center
       size: sm
   - infopic:
+      title: Highlights of Hong Wen 105 Anniversary
+      id: infopic
+      button: Video
+      url: https://www.youtube.com/watch?v=0tmdLwkm0ao
+      image: /images/Picture1.png
+      alt: Image alt text
+  - infopic:
       title: National Calligraphy Competition 2025
       id: infopic
       button: Read
