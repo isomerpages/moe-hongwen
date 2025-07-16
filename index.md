@@ -89,4 +89,11 @@ sections:
       url: /about-us/School-Achievements/
       image: /images/Homepage/SDA-BPAs-w-White-Background-2.jpg
       subtitle: Hong Wen Awards
+  - infopic:
+      title: Highlights of Hong Wen 105 Anniversary
+      id: infopic
+      button: Video
+      url: https://www.youtube.com/watch?v=0tmdLwkm0ao
+      image: /images/Picture1.png
+      alt: Image alt text
 ---
