@@ -27,7 +27,7 @@ sections:
       title: Highlights of Hong Wen 105 Anniversary
       id: infopic
       button: Video
-      url: https://www.youtube.com/watch?v=0tmdLwkm0ao
+      url: https://hongwen.moe.edu.sg/hong-wen-school-105th-anniversary-video/
       image: /images/Picture1.png
       alt: Image alt text
   - infopic:
