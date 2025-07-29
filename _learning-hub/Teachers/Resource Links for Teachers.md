@@ -103,7 +103,20 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/digitalshortcuts" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/digitalshortcuts</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Digital Shortcuts" src="/images/WhatsApp_Image_2025_07_24_at_9_52_38_AM__1_.jpg">
+</div>
 <p></p>
