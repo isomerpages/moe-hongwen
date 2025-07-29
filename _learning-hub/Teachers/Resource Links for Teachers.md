@@ -116,3 +116,7 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Digital Shortcuts" src="/images/WhatsApp_Image_2025_07_24_at_9_52_38_AM__1_.jpg">
+</div>
+<p></p>
