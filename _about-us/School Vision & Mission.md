@@ -10,7 +10,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/School%20Vision%20and%20Mission/School%20Vision%20Text2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/School%20Vision%20and%20Mission/Sch%20Vision_Pic.jpeg">
 </div>
@@ -21,6 +20,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="sch mission" src="/images/Picture_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/School%20Vision%20and%20Mission/Sch%20Mission_Pic.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3462.jpg">
 </div>
 <p></p>
