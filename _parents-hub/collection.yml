@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Edusave Emerging 21st Century Competencies (E21CC) Award.md
       - Administrative Matters for Primary 1, 2025.md
       - Application for Leave of Absence (LOA).md
       - Guidelines for School Home Partnership.md
@@ -10,6 +9,7 @@ collections:
       - New PSLE Scoring System in 2021.md
       - Parents Gateway Mobile App.md
       - Edusave Character Award (ECHA).md
+      - Edusave Emerging 21st Century Competencies (E21CC) Award.md
       - School Based Assessment Policy & Plans.md
       - Subject Based Banding (Primary Schools).md
       - Parents’ Support Group.md
