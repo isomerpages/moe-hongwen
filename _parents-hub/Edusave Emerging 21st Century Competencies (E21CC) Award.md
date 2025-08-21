@@ -12,7 +12,6 @@ and exemplary demonstration of Emerging 21<sup>st</sup> Century Competencies
 (E21CC). This is part of a larger goal to prepare our students to thrive
 in a fast-changing, complex and inter-connected world, by encouraging the
 development and application of future-ready competencies.</p>
-<h2><u>&nbsp;</u></h2>
 <p><strong><u>Eligibility Criteria</u></strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
