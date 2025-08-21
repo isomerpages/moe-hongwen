@@ -26,13 +26,3 @@ The Edusave Character Award (ECHA) was introduced by MOE to recognise pupils who
 |----------------|---------------|
 | Primary 1 to 3 | $200          |
 | Primary 4 to 6 | $350          |
-
-**Edusave Character Award (ECHA) Nomination Forms**
-
-[Appendix B1 – Nomination form by parents, guardians, SMC and PSG coaches](https://for.edu.sg/nominationformparents)
-
-[Appendix B2- Self_Peer nomination form_Primary 1 and 2](https://for.edu.sg/nominationformp1p2)
-
-[Appendix B2- Self_Peer nomination form_Primary 3 and 4](https://for.edu.sg/nominationformp3p4)
-
-[Appendix B2- Self_Peer nomination form_Primary 5 and 6](https://for.edu.sg/nominationformp5p6)
