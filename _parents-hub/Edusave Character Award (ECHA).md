@@ -26,3 +26,9 @@ The Edusave Character Award (ECHA) was introduced by MOE to recognise pupils who
 |----------------|---------------|
 | Primary 1 to 3 | $200          |
 | Primary 4 to 6 | $350          |
+
+[Appendix B1 - Nomination form by parents guardians SMC PSG coaches (2025)](/files/Appendix_B1___Nomination_form_by_parents_guardians_SMC_PSG_coaches__2025_.pdf)
+[Appendix B2- Self_Peer  nomination form_Primary 1 and 2 (2025)](/files/Appendix_B2__Self_Peer__nomination_form_Primary_1_and_2__2025_.pdf)
+[Appendix B2- Self_Peer  nomination form_Primary 3 and 4 (2025)](/files/Appendix_B2__Self_Peer__nomination_form_Primary_3_and_4__2025_.pdf)
+[Appendix B2- Self_Peer  nomination form_Primary 5 and 6 (2025)](/files/Appendix_B2__Self_Peer__nomination_form_Primary_5_and_6__2025_.pdf)
+
