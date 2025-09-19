@@ -8,5 +8,5 @@ variant: markdown
  
 **Please find below for the documents for Primary 1 Admin Matters**
 
-1.   [Letter from Principal to Parents of Primary 1 2026 Cohort](/files/Letter_from_Principal_to_Parents_of_Primary_1_2026_Cohort.pdf) 
-2.   [Student Care Centre in Hong Wen School - Application Letter](/files/3__Student_Care_Centre___Hong_Wen_School.pdf)
+*    [Letter from Principal to Parents of Primary 1 2026 Cohort](/files/Letter_from_Principal_to_Parents_of_Primary_1_2026_Cohort.pdf) 
+*    [Student Care Centre in Hong Wen School - Application Letter](/files/3__Student_Care_Centre___Hong_Wen_School.pdf)
