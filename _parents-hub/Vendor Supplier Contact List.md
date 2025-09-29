@@ -57,4 +57,4 @@ Email:&nbsp;[hongwen@littleprofessors.com.sg](mailto:hongwen@littleprofessors.co
 
 **Canteen Stall Price List**
 
-[2025 Canteen Price List](/files/Price_list_as_per_Contract_20252026.pdf)
+[2025 Canteen Price List](/files/Canteen_price_list_2025.pdf)
