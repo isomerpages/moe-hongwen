@@ -11,7 +11,4 @@ variant: markdown
 
 **MOE Financial Assistance Scheme Application Link:**
 
-[MOE FAS](https://go.gov.sg/moe-efasggas)
-
-
-      
+[MOE FAS Application](https://go.gov.sg/moe-efasggas)
