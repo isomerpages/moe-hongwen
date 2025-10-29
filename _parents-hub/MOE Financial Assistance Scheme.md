@@ -7,11 +7,12 @@ variant: markdown
 **MOE Financial Assistance Scheme**
 
 
-[MOE Financial Assistance Scheme 2025](/files/MOE_FAS_Application_Form_2025.pdf)
+[MOE FAS 2026 Eligibility and Benefits](/files/MOE_FAS_2026_Eligibility_and_Benefits.pdf)
 
-[MOE Financial Assistance Scheme 2025 Pamphlet](/files/MOE_FAS_Pamphlet_2025.pdf)
+**MOE Financial Assistance Scheme Application Link:**
 
+[MOE FAS Application](https://go.gov.sg/moe-efasggas)
 
-**Application forms for Digital Access @ Home Scheme**
+**Application Forms for Digital Access @ Home Scheme**
 
-[Digital Access Programme](https://eservice.imda.gov.sg/das/homepage)
+[DigitalAccess@Home | IMDA](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home)
