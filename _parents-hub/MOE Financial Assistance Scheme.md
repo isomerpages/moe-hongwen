@@ -12,3 +12,7 @@ variant: markdown
 **MOE Financial Assistance Scheme Application Link:**
 
 [MOE FAS Application](https://go.gov.sg/moe-efasggas)
+
+**Application Forms for Digital Access @ Home Scheme**
+
+[DigitalAccess@Home | IMDA](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home)
