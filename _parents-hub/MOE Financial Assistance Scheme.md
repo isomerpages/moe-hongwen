@@ -9,6 +9,9 @@ variant: markdown
 
 [MOE FAS 2026 Eligibility and Benefits](/files/MOE_FAS_2026_Eligibility_and_Benefits.pdf)
 
-**Application forms for Digital Access @ Home Scheme**
+**MOE Financial Assistance Scheme Application Link:**
 
-[Digital Access Programme](https://eservice.imda.gov.sg/das/homepage)
+[MOE FAS](https://go.gov.sg/moe-efasggas)
+
+
+      
