@@ -15,4 +15,4 @@ variant: markdown
 
 **Application Forms for Digital Access @ Home Scheme**
 
-[DigitalAccess@Home | IMDA](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home)
+[DigitalAccess@Home IMDA](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home)
