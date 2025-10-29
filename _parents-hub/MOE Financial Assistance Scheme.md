@@ -7,10 +7,7 @@ variant: markdown
 **MOE Financial Assistance Scheme**
 
 
-[MOE Financial Assistance Scheme 2025](/files/MOE_FAS_Application_Form_2025.pdf)
-
-[MOE Financial Assistance Scheme 2025 Pamphlet](/files/MOE_FAS_Pamphlet_2025.pdf)
-
+[MOE FAS 2026 Eligibility and Benefits](/files/MOE_FAS_2026_Eligibility_and_Benefits.pdf)
 
 **Application forms for Digital Access @ Home Scheme**
 
