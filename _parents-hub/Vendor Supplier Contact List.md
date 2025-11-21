@@ -46,11 +46,19 @@ Email:&nbsp;[hongwen@littleprofessors.com.sg](mailto:hongwen@littleprofessors.co
 
 [Primary 5 book list - 2025](/files/P5_Booklist_2025.pdf)
 
+[Primary 5 book list - 2026](/files/Parents'%20Hub/Booklist_2026/P5_2026_booklist.pdf)
+
 [Primary 5 (Foundation) book list - 2025](/files/P5F_Booklist_2025.pdf)
+
+[Primary 5 (Foundation) book list - 2026](/files/Parents'%20Hub/Booklist_2026/P5_F_2026_booklist.pdf)
 
 [Primary 6 book list - 2025](/files/P6_Booklist_2025.pdf)
 
+[Primary 6 book list - 2026](/files/Parents'%20Hub/Booklist_2026/P6_2026_booklist.pdf)
+
 [Primary 6 (Foundation) book list - 2025](/files/P6F_Booklist_2025.pdf)
+
+[Primary 6 (Foundation) book list - 2026](/files/Parents'%20Hub/Booklist_2026/P6_F_2026_booklist.pdf)
 
 **Name Tag Suppliers**  
 [Name Tag Ordering Portal](https://nametags.stitchwerkz.sg/product-page/nametag-hong-wen-school)
