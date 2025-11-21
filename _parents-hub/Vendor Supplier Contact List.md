@@ -38,25 +38,19 @@ Email:&nbsp;[hongwen@littleprofessors.com.sg](mailto:hongwen@littleprofessors.co
 
 [Primary 1 book list - 2025](/files/P1_Booklist_2025.pdf)
 
-[Primary 2 book list - 2025](/files/P2_Booklist_2025.pdf)
+[Primary 2 book list - 2026](/files/Parents'%20Hub/Booklist_2026/P2_2026_booklist.pdf)
 
-[Primary 3 book list - 2025](/files/P3_Booklist_2025.pdf)
+[Primary 3 book list - 2026](/files/Parents'%20Hub/Booklist_2026/P3_2026_booklist.pdf)
 
-[Primary 4 book list - 2025](/files/P4_Booklist_2025.pdf)
-
-[Primary 5 book list - 2025](/files/P5_Booklist_2025.pdf)
+[Primary 4 book list - 2026](/files/Parents'%20Hub/Booklist_2026/P4_2026_booklist.pdf)
 
 [Primary 5 book list - 2026](/files/Parents'%20Hub/Booklist_2026/P5_2026_booklist.pdf)
-
-[Primary 5 (Foundation) book list - 2025](/files/P5F_Booklist_2025.pdf)
 
 [Primary 5 (Foundation) book list - 2026](/files/Parents'%20Hub/Booklist_2026/P5_F_2026_booklist.pdf)
 
 [Primary 6 book list - 2025](/files/P6_Booklist_2025.pdf)
 
 [Primary 6 book list - 2026](/files/Parents'%20Hub/Booklist_2026/P6_2026_booklist.pdf)
-
-[Primary 6 (Foundation) book list - 2025](/files/P6F_Booklist_2025.pdf)
 
 [Primary 6 (Foundation) book list - 2026](/files/Parents'%20Hub/Booklist_2026/P6_F_2026_booklist.pdf)
 
