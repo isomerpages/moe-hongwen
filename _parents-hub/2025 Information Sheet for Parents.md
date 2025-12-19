@@ -4,7 +4,7 @@ permalink: /parents-hub/2024-information-sheet-for-parents/
 description: ""
 variant: tiptap
 ---
-<h3><strong>2025 Information Sheet for Parents</strong></h3>
+<h3><strong>2026 Information Sheet for Parents</strong></h3>
 <p></p>
 <p><a href="/files/001_Information_Sheet_for_January_2026.pdf" rel="noopener nofollow" target="_blank">Information Sheet for Jan 2026</a>
 </p>
