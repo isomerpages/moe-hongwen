@@ -495,7 +495,7 @@ variant: tiptap
 <p>郭织强</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mak Siow Thong</p>
+<p>Mr Mak Siew Thong</p>
 <p>mak_siew_thong@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
