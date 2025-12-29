@@ -637,7 +637,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Susan Koh</p>
-<p>Koh_kia_lee_susan@moe.edu.sg</p>
+<p>koh_kia_lee_susan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
