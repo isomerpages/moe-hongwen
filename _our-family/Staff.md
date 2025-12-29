@@ -757,7 +757,7 @@ variant: tiptap
 <p>tan_qimin_sharmaine@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Min Leng</p>
+<p>Mrs Luo</p>
 <p>tan_min_leng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -772,7 +772,7 @@ variant: tiptap
 <p>6 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Marilyn Huang</p>
+<p>Mrs Marilyn Chen</p>
 <p>huang_shuxuan_marilyn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
