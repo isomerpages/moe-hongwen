@@ -339,7 +339,7 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Ching Song</p>
+<p>Mr Lee Ching Song (李青松)</p>
 <p>lee_ching_song@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -401,7 +401,7 @@ variant: tiptap
 <p>siti_nur_kamaliah@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ten Ren Shyong</p>
+<p>Mr Ten Ren Shyong (邓人雄)</p>
 <p>ten_ren_shyong@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -459,7 +459,7 @@ variant: tiptap
 <p>lew_sin_tat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Yingchao</p>
+<p>Mdm Wang Yingchao (王颖超)</p>
 <p>wang_ying_chao@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
