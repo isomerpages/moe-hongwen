@@ -5,5 +5,4 @@ description: ""
 third_nav_title: School Mgmt Committee SMC
 variant: markdown
 ---
-
 ![](/images/Our%20Family/School%20executive%20committee/SMC_2026_2028.png)
