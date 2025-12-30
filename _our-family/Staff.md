@@ -339,7 +339,7 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Ching Song</p>
+<p>Mr Lee Ching Song (李青松)</p>
 <p>lee_ching_song@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
