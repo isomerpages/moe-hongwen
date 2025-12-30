@@ -315,19 +315,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3Responsibility</p>
+<p>3 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shirley Koh</p>
-<p>koh_shirley@moe.edu.sg</p>
+<p>Ms Aqidah Ho</p>
+<p>ho_chiew_foong_aqidah@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sng Jinlun</p>
-<p>sng_jin_lun@moe.edu.sg</p>
+<p>Mr Ashley Ong</p>
+<p>ashley_ong_jun_kiat@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sylvia Quek</p>
-<p>ong_mui_yen_sylvia@moe.edu.sg</p>
+<p>Mrs Tan Lee Huang</p>
+<p>chang_lee_huang@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -336,6 +337,122 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Ching Song</p>
+<p>lee_ching_song@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kua-Tang Yoke Teng</p>
+<p>tang_yoke_teng@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Christina Tan Eng Siew (陈盈秀)</p>
+<p>tan_eng_siew_christina@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Doris Lau</p>
+<p>lau_wai_han@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chow Songyan</p>
+<p>chow_songyan@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamad Zaifar Bin Salleh</p>
+<p>mohamad_zaifar_salleh@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Teo Li Lian</p>
+<p>low_li_lian@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Perseverance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kamaliah</p>
+<p>siti_nur_kamaliah@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ten Ren Shyong</p>
+<p>ten_ren_shyong@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Wei</p>
+<p>toh_wei@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Leong Howe</p>
+<p>tan_leong_howe@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yip Shi Ying (叶诗莹)</p>
+<p>yip_shi_ying@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Winnie Su</p>
+<p>su_huiya_winnie@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sng Jinlun</p>
+<p>sng_jin_lun@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kenny Lew Sin Tat</p>
@@ -354,19 +471,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Compassion</p>
+<p>4 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kua-Tang Yoke Teng</p>
-<p>tang_yoke_teng@moe.edu.sg</p>
+<p>Ms Tan Li Ying Marilyn</p>
+<p>tan_li_ying_marilyn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Matthew Chan</p>
 <p>matthew_kam-lung_chan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Ching Song</p>
-<p>lee_ching_song@schools.gov.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -374,7 +490,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Excellence</p>
+<p>4 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tham Lai Hing Jennie</p>
@@ -393,7 +509,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Perseverance</p>
+<p>4 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Debbie Poh</p>
@@ -402,125 +518,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Zhang Hong (张弘)</p>
 <p>zhang_hong@moe.edu.sg</p>
-<p></p>
-<p>Mrs Chiam Heng Chek</p>
-<p>chiam_heng_chek@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Diligence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Celestine Chia</p>
-<p>celestine_kok_chu_wei@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Joanne Lam Hui Yee</p>
-<p>lam_hui_yee_joanne@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ling Moi Lang</p>
-<p>ling_moi_lang@schools.gov.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Doris Lau</p>
-<p>lau_wai_han@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Winnie Su</p>
-<p>su_huiya_winnie@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Tan Lee Huang</p>
-<p>chang_lee_huang@schools.gov.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Bryan Mai</p>
-<p>mai_qing_jiang@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Leong Howe</p>
-<p>tan_leong_howe@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Toh Wei</p>
-<p>toh_wei@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Li Yu-Ju</p>
-<p>li_yu_ju@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Excellence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Yong Meng Jason</p>
-<p>tan_yong_meng_jason@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Teo Li Lian</p>
-<p>low_li_lian@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Perseverance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Christina Tan Eng Siew (陈盈秀)</p>
-<p>tan_eng_siew_christina@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs jenny Tham</p>
-<p>jenny_ang_a@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -534,15 +531,16 @@ variant: tiptap
 <p>4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Zaifar Bin Salleh</p>
-<p>mohamad_zaifar_salleh@moe.edu.sg</p>
+<p>Mrs Celestine Chia</p>
+<p>celestine_kok_chu_wei@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yip Shi Ying (叶诗莹)</p>
-<p>yip_shi_ying@moe.edu.sg</p>
+<p>Ms Joanne Lam Hui Yee</p>
+<p>lam_hui_yee_joanne@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ling Moi Lang</p>
+<p>ling_moi_lang@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
