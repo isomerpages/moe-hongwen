@@ -127,7 +127,9 @@ variant: tiptap
 <p>1Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Jenny Ang</p>
+<p><a href="mailto:Jenny_Ang_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jenny_Ang_A@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm May Lye</p>
@@ -151,7 +153,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Li Yu-Ju</p>
+<p><a href="mailto:li_yu_ju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_yu_ju@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -165,11 +169,13 @@ variant: tiptap
 <p>1 Thrift</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ng Lijuan</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Bryan mai Qing Jiang</p>
+<p><a href="mailto:mai_qing_jiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mai_qing_jiang@moe.edu.sg</a>
+</p>
 <p></p>
 <p></p>
 </td>
@@ -206,6 +212,9 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Zhao Lei</p>
+<p><a href="mailto:zhao_lei_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_lei_a@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -275,7 +284,8 @@ variant: tiptap
 <p>Luo_senyuan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lee I-Gwen</p>
+<p>Lee_i_gwen@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
