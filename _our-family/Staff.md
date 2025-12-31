@@ -44,12 +44,14 @@ variant: tiptap
 <p>1Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Irene Choong</p>
-<p>choong_irene@moe.edu.sg</p>
+<p>Mdm Yasmine Thennarasu</p>
+<p><a href="mailto:thennarasu_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thennarasu_a@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Su Si (谢絮诗)</p>
-<p>chia_su_si@moe.edu.sg</p>
+<p>Ms Ng Lay Lian (黄丽莲)</p>
+<p>ng_lay_lian@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,16 +66,15 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Aqidah Ho</p>
-<p>ho_chiew_foong_aqidah@moe.edu.sg</p>
+<p>Mr Victor Lim</p>
+<p>lim_chung_chin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Wei Ling Shirley</p>
-<p>lim_wei_ling_shirley@moe.edu.sg</p>
+<p>Ms Yang Shuya Sophia (杨淑雅)</p>
+<p>yang_shuya_sophia@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ten Ren Shyong</p>
-<p>ten_ren_shyong@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -84,12 +85,14 @@ variant: tiptap
 <p>1 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Foo Hwa Kin (符华娟)</p>
-<p>foo_hwa_kin@moe.edu.sg</p>
+<p>Ms Joanna Khong</p>
+<p>khong_lai_ling_joanna@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jaslyn Seah</p>
-<p>seah_yan_yun_jaslyn@moe.edu.sg</p>
+<p>Ms Tan Kah Yun (陈佳韵)</p>
+<p><a href="mailto:tan_kah_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kah_yun@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -103,12 +106,14 @@ variant: tiptap
 <p>1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Seow Huey (杨晓慧)</p>
-<p>yeo_seow_huey@moe.edu.sg</p>
+<p>Mrs Chua Siew Lay</p>
+<p>tan_siew_lay@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Raihanah Abdul Subhan</p>
-<p>raihanah_abdul_subhan@moe.edu.sg</p>
+<p>Ms Seetoh Hsu Ping (司徒抒坪)</p>
+<p><a href="mailto:seetoh_hsu_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seetoh_hsu_ping@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -122,16 +127,14 @@ variant: tiptap
 <p>1Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ruby Gandaruban</p>
-<p>gandaruban_gantha_ruby@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Luo Sen Yuan (罗森元)</p>
-<p>Luo_senyuan@moe.edu.sg</p>
+<p>Mdm May Lye</p>
+<p>Lye_foong_mei@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lye-Seow Shu Feng</p>
-<p>Seow_shu_feng@schools.gov.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -142,9 +145,150 @@ variant: tiptap
 <p>1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Irni Yusnita</p>
-<p>irni_yusnita@moe.edu.sg</p>
+<p>Ms Chung Xingyi</p>
+<p><a href="mailto:chung_xingyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chung_xingyi@moe.edu.sg</a>
+</p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Thrift</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Irene Choong</p>
+<p><a href="mailto:choong_irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choong_irene@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chia Su Si (谢絮诗)</p>
+<p><a href="mailto:chia_su_si@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_su_si@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Wei Ling Shirley</p>
+<p>lim_wei_ling_shirley@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Foo Hwa Kin (符华娟)</p>
+<p><a href="mailto:foo_hwa_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_hwa_kin@moe.edu.sg</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jaslyn Seah</p>
+<p><a href="mailto:seah_yan_yun_jaslyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_yan_yun_jaslyn@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Seow Huey (杨晓慧)</p>
+<p><a href="mailto:yeo_seow_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_seow_huey@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Raihanah Abdul Subhan</p>
+<p><a href="mailto:raihanah_abdul_subhan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raihanah_abdul_subhan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Perseverance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ruby Gandaruban</p>
+<p>gandaruban_gantha_ruby@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Luo Sen Yuan (罗森元)</p>
+<p>Luo_senyuan@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Irni Yusnita</p>
+<p><a href="mailto:irni_yusnita@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irni_yusnita@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lo Mei-Ling (罗美凌)</p>
@@ -159,155 +303,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Thrift</p>
+<p>2 Thrift</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Joycelyn Tan</p>
 <p>tan_poh_choo_joycelyn@moe.edu.sg</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Yan Li</p>
 <p>koh_yan_li@moe.edu.sg</p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lit Jelaine</p>
 <p>lit_jelaine@schools.gov.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Kamaliah</p>
-<p>siti_nur_kamaliah@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Kah Yun (陈佳韵)</p>
-<p>tan_kah_yun@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Joanna Khong</p>
-<p>khong_lai_ling_joanna@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Lay Lian (黄丽莲)</p>
-<p>ng_lay_lian@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chung Xingyi</p>
-<p>chung_xingyi@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Teo Gek Hong</p>
-<p>teo_gek_hong@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Excellence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ashley Ong</p>
-<p>Ashley_ong_jun_kiat@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Chun Hua (蔡俊华)</p>
-<p>chua_chun_hua@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Perseverance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Chua Siew Lay</p>
-<p>tan_siew_lay@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Victor Lim</p>
-<p>lim_chung_chin@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Diligence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yasmine Thennarasu</p>
-<p>thennarasu_a@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Seetoh Hsu Ping (司徒抒坪)</p>
-<p>seetoh_hsu_ping@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Thrift</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm May Lye</p>
-<p>Lye_foong_mei@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yang Shuya Sophia (杨淑雅)</p>
-<p>yang_shuya_sophia@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
