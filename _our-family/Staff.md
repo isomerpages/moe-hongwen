@@ -212,7 +212,7 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhao Lei</p>
+<p>Mdm Zhao Lei (赵蕾)</p>
 <p><a href="mailto:zhao_lei_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_lei_a@moe.edu.sg</a>
 </p>
 <p></p>
