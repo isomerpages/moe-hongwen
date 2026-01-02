@@ -656,7 +656,8 @@ variant: tiptap
 <p>koh_kia_lee_susan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Teo Gek Hong</p>
+<p>teo_gek_hong@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -674,7 +675,7 @@ variant: tiptap
 <p>Mr Chua Chun Hua(蔡俊华）</p>
 <p>chua_chun_hua@moe.edu.sg</p>
 <p>Mr Jason Tan</p>
-<p>tan_yong_meng@moe.edu.sg</p>
+<p>tan_yong_meng_jason@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
