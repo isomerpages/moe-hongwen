@@ -174,7 +174,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bryan Mai Qing Jiang</p>
+<p>Mr Bryan Mai</p>
 <p><a href="mailto:mai_qing_jiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mai_qing_jiang@moe.edu.sg</a>
 </p>
 <p></p>
