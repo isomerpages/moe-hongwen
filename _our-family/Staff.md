@@ -168,7 +168,9 @@ variant: tiptap
 <p>1 Thrift</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Lijuan</p>
+<p>Ms Ng Li Juan</p>
+<p><a href="mailto:ng_li_juan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_juan_a@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,11 +281,11 @@ variant: tiptap
 <p>gandaruban_gantha_ruby@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Luo Sen Yuan (罗森元)</p>
+<p>Mdm Luo Sen Yuan (罗森元)</p>
 <p>Luo_senyuan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee I-Gwen</p>
+<p>Mrs Gwen Ong</p>
 <p>Lee_i_gwen@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
