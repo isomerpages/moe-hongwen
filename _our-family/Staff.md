@@ -89,8 +89,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Kah Yun (陈佳韵)</p>
-<p><a href="mailto:tan_kah_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kah_yun@moe.edu.sg</a>
-</p>
+<p>tan_kah_yun@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,8 +110,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Seetoh Hsu Ping (司徒抒坪)</p>
-<p><a href="mailto:seetoh_hsu_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seetoh_hsu_ping@moe.edu.sg</a>
-</p>
+<p>seetoh_hsu_ping@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -127,8 +125,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jenny Tham</p>
-<p><a href="mailto:Jenny_Ang_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jenny_Ang_A@moe.edu.sg</a>
-</p>
+<p>Jenny_Ang_A@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm May Lye</p>
@@ -147,14 +144,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chung Xingyi</p>
-<p><a href="mailto:chung_xingyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chung_xingyi@moe.edu.sg</a>
-</p>
-<p></p>
+<p>chung_xingyi@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Li Yu-Ju</p>
-<p><a href="mailto:li_yu_ju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_yu_ju@moe.edu.sg</a>
-</p>
+<p>li_yu_ju@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -169,14 +163,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Li Juan</p>
-<p><a href="mailto:ng_li_juan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_juan_a@moe.edu.sg</a>
-</p>
+<p>ng_li_juan_a@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Bryan Mai</p>
-<p><a href="mailto:mai_qing_jiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mai_qing_jiang@moe.edu.sg</a>
-</p>
+<p>mai_qing_jiang@moe.edu.sg</p>
 <p></p>
 <p></p>
 </td>
@@ -193,13 +185,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Irene Choong</p>
-<p><a href="mailto:choong_irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choong_irene@moe.edu.sg</a>
-</p>
+<p>choong_irene@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chia Su Si (谢絮诗)</p>
-<p><a href="mailto:chia_su_si@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_su_si@moe.edu.sg</a>
-</p>
+<p>chia_su_si@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -214,9 +204,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhao Lei (赵蕾)</p>
-<p><a href="mailto:zhao_lei_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_lei_a@moe.edu.sg</a>
-</p>
-<p></p>
+<p>zhao_lei_a@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Wei Ling Shirley</p>
@@ -235,14 +223,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Foo Hwa Kin (符华娟)</p>
-<p><a href="mailto:foo_hwa_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_hwa_kin@moe.edu.sg</a>
-</p>
-<p></p>
+<p>foo_hwa_kin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jaslyn Seah</p>
-<p><a href="mailto:seah_yan_yun_jaslyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_yan_yun_jaslyn@moe.edu.sg</a>
-</p>
+<p>seah_yan_yun_jaslyn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -257,13 +242,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Seow Huey (杨晓慧)</p>
-<p><a href="mailto:yeo_seow_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_seow_huey@moe.edu.sg</a>
-</p>
+<p>yeo_seow_huey@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Raihanah Abdul Subhan</p>
-<p><a href="mailto:raihanah_abdul_subhan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raihanah_abdul_subhan@moe.edu.sg</a>
-</p>
+<p>raihanah_abdul_subhan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -298,8 +281,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Irni Yusnita</p>
-<p><a href="mailto:irni_yusnita@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irni_yusnita@moe.edu.sg</a>
-</p>
+<p>irni_yusnita@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lo Mei-Ling (罗美凌)</p>
