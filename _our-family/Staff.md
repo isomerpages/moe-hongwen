@@ -126,7 +126,7 @@ variant: tiptap
 <p>1Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jenny Ang</p>
+<p>Mrs Jenny Tham</p>
 <p><a href="mailto:Jenny_Ang_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jenny_Ang_A@moe.edu.sg</a>
 </p>
 </td>
