@@ -45,8 +45,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yasmine Thennarasu</p>
-<p><a href="mailto:thennarasu_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thennarasu_a@moe.edu.sg</a>
-</p>
+<p>thennarasu_a@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
