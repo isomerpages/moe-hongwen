@@ -9,7 +9,10 @@ variant: tiptap
 </p>
 <p><a href="/files/1__Student_Absence_Notification_Feature___User_Guide_and_FAQ.pdf" rel="noopener nofollow" target="_blank">Student Absence</a>
 </p>
-<p></p>
+<p><a href="/files/2__SDF_Letter_to_Parents_For_P1_P6_S1_S5_PU2_PU3.pdf" rel="noopener nofollow" target="_blank">SDF Letter to Parents</a>
+</p>
+<p><a href="/files/Updating_of_Student_Details_Form.pdf" rel="noopener nofollow" target="_blank">Updating of Student Details Form</a>
+</p>
 <p><a href="/files/001_Information_Sheet_for_January_2026.pdf" rel="noopener nofollow" target="_blank">Information Sheet for Jan 2026</a>
 </p>
 <p><a href="/files/Information_Sheet_for_November_2025_v2.pdf" rel="noopener nofollow" target="_blank">Information Sheet for Nov 2025</a>
@@ -75,4 +78,5 @@ variant: tiptap
 <p><a href="/files/Parents'%20Hub/2023%20information%20sheets/Information%20Sheet%20for%20February%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Sheet for February 2023</a>
 </p>
 <p><a href="/files/Parents'%20Hub/2023%20information%20sheets/Information%20Sheet%20for%20January%202023%20for%20P2%20to%20P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Sheet for January 2023 for P2 to P6 Parents</a>
+<a href="/files/2__SDF_Letter_to_Parents_For_P1_P6_S1_S5_PU2_PU3.pdf" rel="noopener nofollow" target="_blank">SDF Letter to Parents</a>
 </p>
