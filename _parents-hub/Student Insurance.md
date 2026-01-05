@@ -9,8 +9,8 @@ variant: markdown
 
 
 
-[Product Fact Sheet (Year 2024 May)-Revised](/files/Parent%20Hub/Product_Fact_Sheet__Year_2024_May__Revised.pdf)
+[Product Fact Sheet (Year 2026)](/files/Parents'%20Hub/Product_Fact_Sheet__Year_2026_.pdf)
 
-[Group-Personal-Accident-(GPA)-Insurance-Plan-for-Students-Claim](/files/Parents'%20Hub/Student%20insurance/Group-Personal-Accident-GPA-Insurance-Plan-for-Students-Claim.pdf)
+[Student GPA User Guide for Parents](/files/Parents'%20Hub/Student_GPA_User_Guide_for_Parents.pdf)
 
 [Weblink for Student Insurance Claim](https://studentgpa.incomegroupins.com.sg/#/)
