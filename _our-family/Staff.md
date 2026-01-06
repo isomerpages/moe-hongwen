@@ -113,7 +113,8 @@ variant: tiptap
 <p>seetoh_hsu_ping@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Karen Ong</p>
+<p>Ong_lay_hoon_karen_b@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
