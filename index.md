@@ -31,11 +31,11 @@ sections:
       image: /images/Picture1.png
       alt: Image alt text
   - infopic:
-      title: National Calligraphy Competition 2025
+      title: National Calligraphy Competition 2026
       id: infopic
       button: Read
-      url: /nationalcalligraphycompetition2025/
-      image: /images/Front_Page.png
+      url: /nationalcalligraphycompetition2026/
+      image: /images/Website.jpg
       alt: Image alt text
   - infopic:
       title: Character Art Exhibition 2024
