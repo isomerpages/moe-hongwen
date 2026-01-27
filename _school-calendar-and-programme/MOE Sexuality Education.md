@@ -16,7 +16,7 @@ encouraging healthy, heterosexual marriages and stable nuclear family units
 with extended family support. The teaching and learning of SEd is based
 on respect for the values and beliefs of the different ethnic and religious
 communities in Singapore on sexuality issues.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
 Education are:</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
@@ -29,9 +29,10 @@ matters.</p>
 develop a moral compass and respect for themselves and others by having
 positive mainstream values and attitudes about sexuality that are premised
 on the family as the basic unit of society.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
+<p></p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
 respect yourself as you love and respect others;</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
@@ -42,23 +43,30 @@ decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Hong Wen School’s Sexuality Education Programme for 2025</strong>
+<p></p>
+<p></p>
+<p><strong>Overview of Hong Wen School’s Sexuality Education Programme for 2026</strong>
 </p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
-in a holistic manner through the school curriculum. The content for Sexuality
-Education is grouped into five main themes: Human Development, Interpersonal
-Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
+is delivered in a holistic manner through the school curriculum. The content
+for Sexuality Education is grouped into five main themes: Human Development,
+Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
+Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information on the scope of Sexuality Education in the school curriculum.</p>
+<p></p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
 on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
 (CCE)</p>
-<p><strong><u>Sexuality Education Lessons</u></strong>:</p>
+<p></p>
+<p></p>
+<p><strong>Sexuality Education Lessons</strong>
+</p>
+<p></p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years mark the
 onset of puberty. With better nutrition and improved health care, children
 are reaching puberty at a younger age and have to grapple with physical,
@@ -78,31 +86,34 @@ emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
-<p><strong>At Hong Wen School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Hong Wen School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Calendar &amp; Programme/MOE sex ed/SEd_Screenshot_1.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Calendar &amp; Programme/MOE sex ed/SEd_Screenshot_2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_27_090642.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_27_090814.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Calendar &amp; Programme/MOE sex ed/SEd_Screenshot_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_27_090940.png">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
-out of Sexuality Education lessons, and/or supplementary Sexuality Education
-programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the Sexuality Education lessons need to complete an opt-out form.
-This form will be communicated &nbsp;to parents at the start of the year
-and is also downloadable <a href="/files/School Calendar And Programme/2025_SEd_Parent_Opt_Out.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed opt-out form is to be submitted by 31/01/2025.</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
+children out of Sexuality Education lessons, and/or supplementary Sexuality
+Education programmes by MOE-approved external providers.</p>
+<p></p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
+opt their children out of the Sexuality Education lessons need to complete
+an opt-out form. This form will be communicated&nbsp; to parents at the
+start of the year and is also downloadable <a href="/files/2026_SEd_Annex_A__Parent_Opt_Out_.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
+opt-out form is to be submitted by 13/02/2026.</p>
+<p></p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 62943340
-or <a rel="noopener noreferrer nofollow" target="_blank">hws@moe.edu.sg</a> for
+or <a href="mailto:hws@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hws@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+programme about the school’s Sexuality Education programme.</p>
