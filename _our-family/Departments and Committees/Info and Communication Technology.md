@@ -163,7 +163,7 @@ provides meaningful contexts for their learning and application.</p>
 </tbody>
 </table>
 <p></p>
-<h3>Cyber Wellness (2024)</h3>
+<h3>Cyber Wellness</h3>
 <p>To cultivate responsible digital learners, Hong Wen’s Cyber wellness programme
 seeks to increase students’ awareness of appropriate online behaviour and
 of how to protect oneself in cyberspace. We are aligned to MOE’s Cyber
@@ -436,5 +436,4 @@ across Cyber wellness messages to our students.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
