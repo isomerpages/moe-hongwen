@@ -268,7 +268,7 @@ across Cyber wellness messages to our students.</p>
 </tr>
 </tbody>
 </table>
-<h4>Primary 2 G-Slides x KidzAtWork</h4>
+<h4>Primary 2 G-Slides x Gmail</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
