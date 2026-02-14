@@ -26,12 +26,6 @@ Tel: 6276 6689
 
 Email:&nbsp;[myuniformshopasia@gmail.com](mailto:myuniformshopasia@gmail.com)&nbsp;
 
-**Student Care Centre**
-
-Little Professors (Hong Wen School)  
-Contact : 8725 6091  
-Email:&nbsp;[hongwen@littleprofessors.com.sg](mailto:hongwen@littleprofessors.com.sg)
-
 **2026 Book List**
 
 
