@@ -133,7 +133,7 @@ provides meaningful contexts for their learning and application.</p>
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kubo (Advance)</p>
+<p>Digital Explorer (MS Office)</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ provides meaningful contexts for their learning and application.</p>
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Digital Explorer (MS Office)</p>
+<p>Micro-bits (New)</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ provides meaningful contexts for their learning and application.</p>
 <p>P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sphero Bolt (CFF)</p>
+<p>Code For Fun (IMDA)</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +157,7 @@ provides meaningful contexts for their learning and application.</p>
 <p>P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IMDA AI Module</p>
+<p>AI For Fun (IMDA)</p>
 </td>
 </tr>
 </tbody>
