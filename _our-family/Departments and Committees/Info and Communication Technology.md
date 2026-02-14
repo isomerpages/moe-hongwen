@@ -54,7 +54,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Charles (DE)</p>
+<p>Mr Lee Wei (DE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Emmanuel (DE)</p>
