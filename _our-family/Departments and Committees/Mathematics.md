@@ -70,7 +70,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Mrs Jenny Tham</p>
 </td>
 </tr>
 </tbody>
@@ -120,12 +119,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kamala Durai</p>
+<p>Mdm Raihanah Abdul Subhan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Parhana Sawari</p>
+<p></p>
 </td>
 </tr>
 </tbody>
