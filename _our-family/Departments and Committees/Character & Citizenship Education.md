@@ -207,8 +207,9 @@ role models are highlighted during assembly at the end of each month.</p>
 <h3>2b. &nbsp; &nbsp; &nbsp; Education and Career Guidance (ECG)</h3>
 <p>Pupils learn about different jobs in our employment landscape so that
 they learn good values in the world of work. Pupils also explore Educational
-Pathways in Singapore which will guide them in choice of post-primary education.
-Parents are invited to share about their work during our ECG Day.</p>
+Pathways in Singapore which will guide them in their choice of post-primary
+education. Parents are invited to share about their work during our ECG
+Day.</p>
 <h3>2c. &nbsp; &nbsp; &nbsp; Financial Literacy (Fin Lit)</h3>
 <p>Through our Fin Lit programme, pupils learn the differences between Needs
 and Wants, how to make wise spending choices and benefits of savings.</p>

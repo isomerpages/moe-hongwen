@@ -54,7 +54,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Charles (DE)</p>
+<p>Mr Lee Wei (DE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Emmanuel (DE)</p>
@@ -133,7 +133,7 @@ provides meaningful contexts for their learning and application.</p>
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kubo (Advance)</p>
+<p>Digital Explorer (MS Office)</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ provides meaningful contexts for their learning and application.</p>
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Digital Explorer (MS Office)</p>
+<p>Micro-bits (New)</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ provides meaningful contexts for their learning and application.</p>
 <p>P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sphero Bolt (CFF)</p>
+<p>Code For Fun (IMDA)</p>
 </td>
 </tr>
 <tr>
@@ -157,13 +157,13 @@ provides meaningful contexts for their learning and application.</p>
 <p>P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IMDA AI Module</p>
+<p>AI For Fun (IMDA)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<h3>Cyber Wellness (2024)</h3>
+<h3>Cyber Wellness</h3>
 <p>To cultivate responsible digital learners, Hong Wen’s Cyber wellness programme
 seeks to increase students’ awareness of appropriate online behaviour and
 of how to protect oneself in cyberspace. We are aligned to MOE’s Cyber
@@ -268,7 +268,7 @@ across Cyber wellness messages to our students.</p>
 </tr>
 </tbody>
 </table>
-<h4>Primary 2 G-Slides x KidzAtWork</h4>
+<h4>Primary 2 G-Slides x Gmail</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -436,5 +436,4 @@ across Cyber wellness messages to our students.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
