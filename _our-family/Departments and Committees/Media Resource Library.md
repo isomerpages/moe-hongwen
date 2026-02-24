@@ -14,10 +14,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Ching Song&nbsp; (LH / CL )</p>
+<p>Ms Debbie Poh (LH/EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Winnie Su</p>
+<p>Mr Lee Ching Song&nbsp; (LH / CL )</p>
 </td>
 </tr>
 <tr>
@@ -25,7 +25,7 @@ variant: tiptap
 <p>Mr Matthew Chan (SH/ Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Lay Lian</p>
+<p>Ms Irene Koh (LT/EL)</p>
 </td>
 </tr>
 <tr>
@@ -42,6 +42,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Irni Yusnita</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Winnie Su</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Lay Lian</p>
 </td>
 </tr>
 </tbody>
