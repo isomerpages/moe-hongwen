@@ -134,10 +134,18 @@ cultures and forms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1 &amp; 2</p>
+<p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Colours &amp; Places Around Us</p>
+<p>All About Me</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>My World</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +153,7 @@ cultures and forms.</p>
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Self Portraits &amp; Food Art&nbsp;</p>
+<p>Celebrating our Identity&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +161,7 @@ cultures and forms.</p>
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lines &amp; Museum-based Learning&nbsp;</p>
+<p>Museum-based Learning&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +169,7 @@ cultures and forms.</p>
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3D Toy Making&nbsp;</p>
+<p>Making Connections</p>
 </td>
 </tr>
 <tr>
