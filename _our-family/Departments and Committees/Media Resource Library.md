@@ -61,12 +61,8 @@ engage in, it hopes to instil in pupils the joy for reading and develop
 individuals into independent and strong bilingual readers.&nbsp;</p>
 <h3>Key activities</h3>
 <p>Bag of Books (BOB) for P1 and P2</p>
-<p>Read@School activities in collaboration with National Library Board (NLB):</p>
-<p>• Dare-to-read activities</p>
-<p>• Book Buzz talks</p>
 <p>Recess activities:</p>
 <p>• Games</p>
-<p>• Reading Mums by the Parent Support Group</p>
 <p>• Thematic book displays</p>
 <p>Book Quizzes</p>
 <p>Class Top Reader awards</p>
