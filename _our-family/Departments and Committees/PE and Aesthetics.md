@@ -14,8 +14,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Mr Anthony Ruben Aruldass - HOD PE, CCA &amp; Aesthetics</strong>
-<br><strong>Mr Matthew Chan - SH&nbsp;Aesthetics</strong>
+<p><strong>Mr Anthony Ruben Aruldass - HOD/PE, CCA &amp; Aesthetics</strong>
+<br><strong>Mr Matthew Chan - SH/Aesthetics</strong>
 </p>
 </td>
 </tr>
@@ -42,7 +42,7 @@ variant: tiptap
 <p>Mr Ashley Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Teo-Low Li Lian - Art Coordinator</p>
+<p>Mdm Low Li Lian - Art Coordinator</p>
 </td>
 </tr>
 <tr>
