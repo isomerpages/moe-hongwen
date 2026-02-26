@@ -555,7 +555,7 @@ variant: tiptap
 <p>Ms Li Yu-Ju</p>
 </li>
 <li>
-<p>Mdm Teo Li Lian</p>
+<p>Mdm Low Li Lian</p>
 </li>
 </ul>
 </td>
