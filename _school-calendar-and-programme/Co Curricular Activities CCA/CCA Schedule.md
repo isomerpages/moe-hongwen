@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curricular Activities CCA
 variant: tiptap
 ---
-<h3>Hong Wen School CCA List 2025</h3>
+<h3>Hong Wen School CCA List 2026</h3>
 <p><strong>Sports CCAs</strong>
 </p>
 <table style="minWidth: 100px">
@@ -218,6 +218,9 @@ variant: tiptap
 <li>
 <p>Mdm Joanne Lam</p>
 </li>
+<li>
+<p>Mdm Koh Yan Li</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -260,14 +263,11 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mdm Tang Yoke Teng (IC)</strong>
+<p><strong>Mr Ng Choon Ping (IC)</strong>
 </p>
 </li>
 <li>
-<p>Mdm Shirley Koh</p>
-</li>
-<li>
-<p>Ms Sylvia Ong</p>
+<p>Mdm Luo Senyuan</p>
 </li>
 <li>
 <p>Mdm Joycelyn Tan</p>
@@ -370,9 +370,6 @@ variant: tiptap
 <p>Ms Lo Meiling (IC)</p>
 </li>
 <li>
-<p>Mdm Luo Senyuan</p>
-</li>
-<li>
 <p>Ms Irene Choong</p>
 </li>
 </ul>
@@ -397,14 +394,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Mr Ng Choon Ping (IC)</strong>
+<p><strong>Mr Ten Ren Shyong（IC）</strong>
 </p>
 </li>
 <li>
-<p>Mr Ten Ren Shyong</p>
-</li>
-<li>
-<p>Mdm Soh SK</p>
+<p>Mdm Zhao San Min</p>
 </li>
 </ul>
 </td>
@@ -432,7 +426,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Ms Doris Leow</p>
+<p>Mdm Doris Lau</p>
 </li>
 <li>
 <p>Mdm Liah</p>
@@ -441,7 +435,7 @@ variant: tiptap
 <p>Mdm Zhao Lei</p>
 </li>
 <li>
-<p>Ms Jenny Ang&nbsp;</p>
+<p>Mrs Jenny Tham</p>
 </li>
 </ul>
 </td>
@@ -470,7 +464,7 @@ variant: tiptap
 <p>Ms Shirley Lim</p>
 </li>
 <li>
-<p>Mr Matthew Chan</p>
+<p>Mdm Doris Khor</p>
 </li>
 </ul>
 </td>
@@ -498,7 +492,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Ms Tan Kah Yun</p>
+<p>Ms Catherine Tong</p>
 </li>
 <li>
 <p>Mdm Susan Koh</p>
@@ -581,7 +575,7 @@ variant: tiptap
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A03-07</p>
+<p>Teaching Lab</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
