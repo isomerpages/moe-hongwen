@@ -14,10 +14,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Ching Song&nbsp; (LH / CL )</p>
+<p>Ms Debbie Poh (LH/EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Winnie Su</p>
+<p>Mr Lee Ching Song&nbsp; (LH / CL )</p>
 </td>
 </tr>
 <tr>
@@ -25,7 +25,7 @@ variant: tiptap
 <p>Mr Matthew Chan (SH/ Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Lay Lian</p>
+<p>Ms Irene Koh (LT/EL)</p>
 </td>
 </tr>
 <tr>
@@ -44,6 +44,14 @@ variant: tiptap
 <p>Mdm Irni Yusnita</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Winnie Su</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Lay Lian</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Key Information</h2>
@@ -53,12 +61,8 @@ engage in, it hopes to instil in pupils the joy for reading and develop
 individuals into independent and strong bilingual readers.&nbsp;</p>
 <h3>Key activities</h3>
 <p>Bag of Books (BOB) for P1 and P2</p>
-<p>Read@School activities in collaboration with National Library Board (NLB):</p>
-<p>• Dare-to-read activities</p>
-<p>• Book Buzz talks</p>
 <p>Recess activities:</p>
 <p>• Games</p>
-<p>• Reading Mums by the Parent Support Group</p>
 <p>• Thematic book displays</p>
 <p>Book Quizzes</p>
 <p>Class Top Reader awards</p>
