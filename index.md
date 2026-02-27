@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner_resized_1080x400.jpg
+      background: /images/Homepage/HWS_Sch_Motto_resized_2023.png
       key_highlights:
         - title: Our Enduring Legacy
           description: ""
@@ -35,16 +35,8 @@ sections:
       id: infopic
       button: Read
       url: /nationalcalligraphycompetition2026/
-      image: /images/Website.jpg
+      image: /images/HWSCalliComp2026.jpg
       alt: Image alt text
-  - infopic:
-      title: Character Art Exhibition 2024
-      subtitle: UPCOMING EVENTS
-      id: infopic
-      button: READ
-      url: /character-art-exhibition-2024/
-      image: /images/HWS_Character_Art_Exhibition_2024.jpg
-      alt: Character Art Exhibition 2024
   - infopic:
       button: Read More
       alt: Image alt text
