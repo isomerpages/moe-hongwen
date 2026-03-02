@@ -35,7 +35,7 @@ sections:
       id: infopic
       button: Read
       url: /nationalcalligraphycompetition2026/
-      image: /images/HWSCalliComp2026.jpg
+      image: /images/HWSCalliComp2026_020326.jpg
       alt: Image alt text
   - infopic:
       button: Read More
