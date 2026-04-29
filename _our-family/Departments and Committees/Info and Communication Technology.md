@@ -57,7 +57,7 @@ variant: tiptap
 <p>Mr Lee Wei (DE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Emmanuel (DE)</p>
+<p>Mr Shahir (DE)</p>
 </td>
 </tr>
 </tbody>
