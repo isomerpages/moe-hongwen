@@ -134,7 +134,7 @@ variant: tiptap
 </p>
 <p>Mr Ng Choon Yong Benny</p>
 <p>ng_choon_yong_benny@moe.edu.sg</p>
-<p>黄俊勇 （主任</p>
+<p>黄俊勇 （主任)</p>
 </td>
 <td rowspan="1" colspan="4">
 <p><strong>Level Head</strong>
