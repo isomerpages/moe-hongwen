@@ -134,7 +134,7 @@ variant: tiptap
 </p>
 <p>Mr Ng Choon Yong Benny</p>
 <p>ng_choon_yong_benny@moe.edu.sg</p>
-<p>黄俊勇 （主任</p>
+<p>黄俊勇 （主任)</p>
 </td>
 <td rowspan="1" colspan="4">
 <p><strong>Level Head</strong>
@@ -459,9 +459,10 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p><strong>Administration Manager</strong>
 </p>
-<p>Mr Tan Sheau-Shan</p>
-<p>tan_sheau-shan@schools.gov.sg</p>
-<p>陈晓山</p>
+<p>Mdm Koh Chwee Ngoh</p>
+<p><a href="mailto:Koh_chwee_ngoh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_chwee_ngoh@schools.gov.sg</a>
+</p>
+<p>许翠娥</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><strong>Administration Executive</strong>
