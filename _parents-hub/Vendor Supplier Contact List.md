@@ -53,4 +53,4 @@ Email:&nbsp;[myuniformshopasia@gmail.com](mailto:myuniformshopasia@gmail.com)&nb
 
 **Canteen Stall Price List**
 
-[2026_Canteen_Price_List](/files/Parents'%20Hub/Vendorsupplier%20contact%20list/Canteen_stall_menu_2026.pdf)
+[2026_Canteen_Price_List](/files/Canteen_stall_menu_2026_v2.pdf)
