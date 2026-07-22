@@ -102,7 +102,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Level Head</strong>
 </p>
-<p>Ms Poh Peh Hsia, Debbie</p>
+<p>Ms Poh Pei Hsia, Debbie</p>
 <p>poh_pei_hsia_debbie@moe.edu.sg</p>
 <p>(科主任）</p>
 </td>
