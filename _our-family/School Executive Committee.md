@@ -347,7 +347,7 @@ variant: tiptap
 <p>陈燕珊 （主任）</p>
 </td>
 <td rowspan="1" colspan="3">
-<p><strong>Subject Head </strong>
+<p><strong>Subject Head</strong>
 </p>
 <p>Ms Dilys Tan</p>
 <p>tan_xin_yi_dilys@moe.edu.sg</p>
