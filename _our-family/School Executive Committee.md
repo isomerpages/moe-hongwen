@@ -346,14 +346,12 @@ variant: tiptap
 <p>tan_yan_shan_michelle@moe.edu.sg</p>
 <p>陈燕珊 （主任）</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p><strong>Subject Head </strong>
+</p>
+<p>Ms Dilys Tan</p>
+<p>tan_xin_yi_dilys@moe.edu.sg</p>
+<p>陈欣怡 （科主任）</p>
 </td>
 </tr>
 <tr>
