@@ -346,14 +346,12 @@ variant: tiptap
 <p>tan_yan_shan_michelle@moe.edu.sg</p>
 <p>陈燕珊 （主任）</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p><strong>Subject Head</strong>
+</p>
+<p>Ms Dilys Tan</p>
+<p>tan_xin_yi_dilys@moe.edu.sg</p>
+<p>陈欣怡 （科主任）</p>
 </td>
 </tr>
 <tr>
@@ -459,19 +457,14 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p><strong>Administration Manager</strong>
 </p>
-<p>Mdm Koh Chwee Ngoh</p>
-<p><a href="mailto:Koh_chwee_ngoh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_chwee_ngoh@schools.gov.sg</a>
-</p>
+<p>Mdm Koh Chwee Ngoh koh koh_chwee_ngoh@schools.gov.sg</p>
 <p>许翠娥</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Administration Executive</strong>
 </p>
 <p>Mr Mohammed Fauzi Rahman</p>
 <p>mohammed_fauzi_rahman@schools.gov.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
